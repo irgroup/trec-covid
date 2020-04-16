@@ -6,3 +6,5 @@ docs = {
 }
 topic = './topics/topics-rnd1.xml'
 BULK = True
+SINGLE_IDX = 'trec-covid'
+# SINGLE_IDX = None

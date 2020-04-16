@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 from elasticsearch import Elasticsearch
 from elasticsearch_dsl import Search
 from elasticsearch_dsl.query import MultiMatch
-from config import docs, topic
+from config import docs, topic, SINGLE_IDX
 
 
 def query_dict(topic_file):
@@ -27,18 +27,28 @@ if __name__ == '__main__':
 
     queries = query_dict(topic)
 
-    for idx,path in docs.items():
-
-        with open('./runs/' + idx, 'w') as run:
-
+    if SINGLE_IDX is None:
+        for idx,path in docs.items():
+            with open('./runs/' + idx, 'w') as run:
+                for num, title in queries.items():
+                    query = MultiMatch(query=title,
+                                       fields=['abstract', 'body_text'],
+                                       fuzziness='AUTO')
+                    s = Search(using=es, index=idx).query(query)
+                    response = s.execute()
+                    count = 1
+                    for hit in s[:1000]:
+                        line = num + ' Q0 ' + hit.paper_id + ' ' + str(count) + ' ' + str(hit.meta.score) + ' IRC ' + '\n'
+                        run.write(line)
+                        count += 1
+    else:
+        with open('./runs/' + SINGLE_IDX, 'w') as run:
             for num, title in queries.items():
-
                 query = MultiMatch(query=title,
                                    fields=['abstract', 'body_text'],
                                    fuzziness='AUTO')
-                s = Search(using=es, index='noncomm').query(query)
+                s = Search(using=es, index=SINGLE_IDX).query(query)
                 response = s.execute()
-
                 count = 1
                 for hit in s[:1000]:
                     line = num + ' Q0 ' + hit.paper_id + ' ' + str(count) + ' ' + str(hit.meta.score) + ' IRC ' + '\n'

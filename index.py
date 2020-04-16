@@ -2,7 +2,7 @@ import json
 import os
 from elasticsearch import Elasticsearch, helpers
 from tqdm import tqdm
-from config import docs, BULK
+from config import docs, BULK, SINGLE_IDX
 
 
 def prep(file):
@@ -66,15 +66,25 @@ def main():
                     }
                 }
 
-    for idx,path in docs.items():
-        if BULK:
-            print('Indexing data for', idx)
-            es.indices.create(index=idx, body=settings)
-            helpers.bulk(es, load_json(path), index=idx, doc_type='publication')
-        else:
-            print('Indexing data for', idx)
-            es.indices.create(index=idx, body=settings)
-            seq_idx(idx, path, es)
+    if SINGLE_IDX is None:
+        for idx,path in docs.items():
+            if BULK:
+                print('Indexing data for', idx)
+                es.indices.create(index=idx, body=settings)
+                helpers.bulk(es, load_json(path), index=idx, doc_type='publication')
+            else:
+                print('Indexing data for', idx)
+                es.indices.create(index=idx, body=settings)
+                seq_idx(idx, path, es)
+    else:
+        es.indices.create(index=SINGLE_IDX, body=settings)
+        for idx,path in docs.items():
+            if BULK:
+                print('Indexing data for', idx)
+                helpers.bulk(es, load_json(path), index=SINGLE_IDX, doc_type='publication')
+            else:
+                print('Indexing data for', idx)
+                seq_idx(SINGLE_IDX, path, es)
 
 
 if __name__ == '__main__':
