@@ -41,7 +41,7 @@ query.py
 | name | comment |
 | ---  | --- |
 | `comm` | run retrieved from index with [commercial use subset](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/comm_use_subset.tar.gz) data |
-| `noncomm` | run retrieved from index with [Non-commercial use subset](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/noncomm_use_subset.tar.gz) data |   
-| `custom` | run retrieved from index with [Custom license subset ](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/custom_license.tar.gz) data |   
+| `noncomm` | run retrieved from index with [non-commercial use subset](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/noncomm_use_subset.tar.gz) data |   
+| `custom` | run retrieved from index with [custom license subset ](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/custom_license.tar.gz) data |   
 | `biorxiv` | run retrieved from index with [bioRxiv/medRxiv subset](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/biorxiv_medrxiv.tar.gz) data | 
 | `trec-covid` | run retrieved from one single index with all subsets | 
