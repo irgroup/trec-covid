@@ -16,9 +16,12 @@ def prep(file):
         for t in j.get('abstract'):
             abstract = abstract + t.get('text')
 
+    sha = file.name.split('/')[-1][:-5]
+
     return {'paper_id': j['paper_id'],
-           'abstract': abstract,
-           'body_text': body_text}
+            'abstract': abstract,
+            'body_text': body_text,
+            'sha': sha}
 
 
 def full_path(dir):
@@ -51,6 +54,7 @@ def load_json(directory):
         extensions = tuple([".json"])
         files = [f for f in file if f.endswith(extensions)]
         for f in files:
+
             with open(os.path.join(path, f), 'r') as open_file:
                 yield prep(open_file)
 

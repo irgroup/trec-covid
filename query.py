@@ -2,7 +2,8 @@ from bs4 import BeautifulSoup
 from elasticsearch import Elasticsearch
 from elasticsearch_dsl import Search
 from elasticsearch_dsl.query import MultiMatch
-from config import docs, topic, SINGLE_IDX
+from config import docs, topic, SINGLE_IDX, META, VALID_ID
+import pandas as pd
 
 
 def query_dict(topic_file):
@@ -22,8 +23,12 @@ def query_dict(topic_file):
 
 if __name__ == '__main__':
 
+    meta = pd.read_csv(META)
+    valid = pd.read_csv(VALID_ID, names=['cord_uid'])
+
     es = Elasticsearch([{'host': 'localhost',
-                         'port': 9200}])
+                         'port': 9200,
+                         'timeout': 3600}])
 
     queries = query_dict(topic)
 
@@ -50,7 +55,21 @@ if __name__ == '__main__':
                 s = Search(using=es, index=SINGLE_IDX).query(query)
                 response = s.execute()
                 count = 1
-                for hit in s[:1000]:
-                    line = num + ' Q0 ' + hit.paper_id + ' ' + str(count) + ' ' + str(hit.meta.score) + ' IRC ' + '\n'
-                    run.write(line)
-                    count += 1
+                for hit in s[:5000]:
+                    cord_uid_series = meta[meta['sha'] == hit.sha]['cord_uid']
+                    cord_uid = None
+                    try:
+                        cord_uid = cord_uid_series.values[0]
+                    except:
+                        pass
+
+                    if cord_uid is None:
+                        continue
+
+                    if cord_uid in valid.values:
+                        line = num + ' Q0 ' + cord_uid + ' ' + str(count) + ' ' + str(hit.meta.score) + ' IRC ' + '\n'
+                        run.write(line)
+                        count += 1
+
+                    if count > 1000:
+                        break
