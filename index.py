@@ -18,10 +18,9 @@ def prep(file):
 
     sha = file.name.split('/')[-1][:-5]
 
-    return {'paper_id': j['paper_id'],
+    return {'sha': sha,
             'abstract': abstract,
-            'body_text': body_text,
-            'sha': sha}
+            'body_text': body_text}
 
 
 def full_path(dir):

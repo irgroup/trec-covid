@@ -2,11 +2,22 @@
 
 ## Setup
 
-* Install docker   
-* Download data from [semanticscholar](https://pages.semanticscholar.org/coronavirus-research), extract it and place it in `./data/`
+* Install docker. When running on HPC (Ubuntu VM):  
+``` 
+sudo usermod -aG docker $USER
+```
+* Download data from [semanticscholar](https://pages.semanticscholar.org/coronavirus-research), extract it and place it in `./data/`. 
+``` 
+./getDataSets.sh
+``` 
+* Make virtual environment and activate it
+``` 
+python3 -m venv venv
+source venv/bin/activate
+``` 
 * Install requirements:   
 ```shell script
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```  
 * Adapt settings in `config.py`  
 
@@ -14,17 +25,22 @@ pip install -r requirements.txt
 
 * Download image and run Elasticsearch container
 ```shell script
-python docker-run.py
+python3 docker-run.py
 ```
 
 * Index data  
 ```shell script
-python index.py
+python3 index.py
 ```
 
 * Write run files
 ```shell script
-query.py
+python3 query.py
+```
+
+* Optionally, delte the docker container and remove the image  
+```shell script
+python3 docker-rm.py
 ```
 
 ## `config.py`

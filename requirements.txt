@@ -3,3 +3,5 @@ elasticsearch
 elasticsearch-dsl
 tqdm
 beautifulsoup4
+pandas
+lxml

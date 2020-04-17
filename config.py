@@ -8,5 +8,5 @@ topic = './topics/topics-rnd1.xml'
 BULK = True
 SINGLE_IDX = 'trec-covid'
 # SINGLE_IDX = None
-META = './data/metadata.csv'
+META = './download/metadata.csv'
 VALID_ID = './docids-rnd1.txt'
