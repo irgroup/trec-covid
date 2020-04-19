@@ -1,7 +1,6 @@
 # trec-covid
 ## Workflow 
 ### Setup
-
 * Install docker. When running on HPC (Ubuntu VM):  
 ``` 
 sudo usermod -aG docker $USER
@@ -23,10 +22,9 @@ pip3 install -r requirements.txt
 ```shell script
 python3 fetchPubmedData.py
 ```
-* Adapt settings in `config.py`  
+* **Optional:** Adapt settings in `config.py`  
 
-### Cheap ranker (baseline run with vanilla Elasticsearch)
-
+### Baseline run 
 * Download image and run Elasticsearch container
 ```shell script
 python3 docker-run.py
@@ -39,13 +37,12 @@ python3 index.py
 ```shell script
 python3 query.py
 ```
-* Optionally, delete the docker container and remove the image  
+* **Optional:** Delete the docker container and remove the image  
 ```shell script
 python3 docker-rm.py
 ```
 
 ### Reranking
-
 * Train model for each of the 30 topics and save models to `./artifact/model/<model-type>`
 ```shell script
 python3 train.py
@@ -56,7 +53,6 @@ python3 rerank.py
 ```
 
 ### `config.py`
-
 | param | comment |
 | ---  | --- |
 | `docs` | dictionary with index names as keys and paths to data as values |
@@ -65,7 +61,6 @@ python3 rerank.py
 | `topic` | path to topic file | 
 
 ### Datasets
-
 | name | link |
 | ---  | --- |
 | `comm` | [commercial use subset](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/comm_use_subset.tar.gz) data |
