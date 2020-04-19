@@ -1,9 +1,7 @@
-docs = {
-    'comm': './data/comm_use_subset/',
-    'noncomm': './data/noncomm_use_subset/',
-    'biorxiv': './data/biorxiv_medrxiv/',
-    'custom': './data/custom_license/'
-}
+docs = {'comm': './data/comm_use_subset/',
+        'noncomm': './data/noncomm_use_subset/',
+        'biorxiv': './data/biorxiv_medrxiv/',
+        'custom': './data/custom_license/'}
 topic = './topics/topics-rnd1.xml'
 BULK = True
 SINGLE_IDX = 'trec-covid'
@@ -16,3 +14,6 @@ RETMODE = '&retmode=xml'
 PUBMED_FETCH = './artifact/pubmed/'
 PUBMED_DUMP_DATE = '2020-04-19'
 MODEL_DUMP = './artifact/model/'
+MODEL_TYPE = 'dense'
+RUN_DIR = './artifact/runs/'
+RERANKED_RUN = './artifact/runs/reranked'

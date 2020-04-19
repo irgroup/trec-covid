@@ -1,7 +1,7 @@
 from elasticsearch import Elasticsearch
 from elasticsearch_dsl import Search
 from elasticsearch_dsl.query import MultiMatch
-from config import docs, topic, SINGLE_IDX, META, VALID_ID
+from config import docs, topic, SINGLE_IDX, META, VALID_ID, RUN_DIR
 import pandas as pd
 from util import query_dict
 
@@ -32,7 +32,7 @@ if __name__ == '__main__':
                         run.write(line)
                         count += 1
     else:
-        with open('./artifact/runs/' + SINGLE_IDX, 'w') as run:
+        with open(RUN_DIR + SINGLE_IDX, 'w') as run:
             for num, title in queries.items():
                 query = MultiMatch(query=title,
                                    fields=['abstract', 'body_text'],
@@ -44,11 +44,10 @@ if __name__ == '__main__':
                     cord_uid_series = meta[meta['sha'] == hit.sha]['cord_uid']
                     cord_uid = None
                     try:
+                        if len(cord_uid_series.values) > 1:
+                            pass
                         cord_uid = cord_uid_series.values[0]
                     except:
-                        pass
-
-                    if cord_uid is None:
                         continue
 
                     if cord_uid in valid.values:

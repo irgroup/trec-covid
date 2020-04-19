@@ -1,4 +1,5 @@
 import os
+import json
 import pandas as pd
 from bs4 import BeautifulSoup as bs
 import matchzoo as mz
@@ -55,5 +56,55 @@ def train_data(topic_train):
                             'text_right': text_right,
                             'id_right': id_right,
                             'label': label})
+
+    return mz.pack(df)
+
+
+def map_sha_path(dir):
+    out = {}
+    for path, subdir, file in os.walk(dir):
+        extensions = tuple([".json"])
+        files = [f for f in file if f.endswith(extensions)]
+        for f in files:
+            out[f[:-5]] = os.path.join(path, f)
+    return out
+
+
+def text(file):
+    j = json.loads(file)
+    body_text = ''
+    for t in j['body_text']:
+        body_text = body_text + t.get('text')
+
+    abstract = ''
+    if j.get('abstract') is not None:
+        for t in j.get('abstract'):
+            abstract = abstract + t.get('text')
+
+    return abstract + ' ' + body_text
+
+
+def test_data(topic_number, cord_uids, query, meta, msp):
+    text_left = []
+    id_left = []
+    text_right = []
+    id_right = []
+    label = []
+    for cord_uid in cord_uids:
+        sha = meta[meta['cord_uid'] == cord_uid]['sha'].values[0]
+        path = msp[sha]
+        with open(path, 'r') as open_file:
+            txt = text(open_file.read())
+            id_left.append(str(topic_number))
+            text_left.append(query)
+            id_right.append(cord_uid)
+            text_right.append(txt)
+            label.append(0)
+
+            df = pd.DataFrame(data={'text_left': text_left,
+                                    'id_left': id_left,
+                                    'text_right': text_right,
+                                    'id_right': id_right,
+                                    'label': label})
 
     return mz.pack(df)

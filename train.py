@@ -1,9 +1,8 @@
 import os
 import matchzoo as mz
 from util import train_data, query_dict
-from config import MODEL_DUMP, topic
+from config import MODEL_DUMP, MODEL_TYPE, topic
 
-MODEL_TYPE = 'dense'
 
 if __name__ == '__main__':
 

@@ -81,7 +81,7 @@ def main():
                 seq_idx(idx, path, es)
     else:
         es.indices.create(index=SINGLE_IDX, body=settings)
-        for idx,path in docs.items():
+        for idx, path in docs.items():
             if BULK:
                 print('Indexing data for', idx)
                 helpers.bulk(es, load_json(path), index=SINGLE_IDX, doc_type='publication')
