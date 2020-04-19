@@ -10,10 +10,10 @@ from util import query_dict
 queries = query_dict(topic)
 
 now = datetime.now()
-data_str = now.date().strftime("%Y-%m-%d")
+date_str = now.date().strftime("%Y-%m-%d")
 
-if not os.path.exists(PUBMED_FETCH + data_str):
-    os.makedirs(PUBMED_FETCH + data_str)
+if not os.path.exists(PUBMED_FETCH + date_str):
+    os.makedirs(PUBMED_FETCH + date_str)
 
 for k,v in queries.items():
     res = rq.get(ESEARCH + v)
@@ -27,7 +27,7 @@ for k,v in queries.items():
 
     soup = BeautifulSoup(res.content, 'lxml')
 
-    file_path = os.path.join(PUBMED_FETCH, data_str, str(k)+'.xml')
+    file_path = os.path.join(PUBMED_FETCH, date_str, str(k)+'.xml')
     with open(file_path, 'w') as out:
         out.write(soup.prettify())
     time.sleep(5)
