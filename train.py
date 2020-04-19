@@ -12,7 +12,6 @@ if __name__ == '__main__':
         preprocessor = mz.preprocessors.BasicPreprocessor()
         preprocessor.fit(train_raw)
         train_processed = preprocessor.transform(train_raw)
-        train_processed.left.head()
 
         model = mz.models.DenseBaseline()
         model.params['task'] = task

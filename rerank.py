@@ -1,24 +1,24 @@
 import os
 import pandas as pd
 import matchzoo as mz
-from config import META, MODEL_DUMP, MODEL_TYPE, RERANKED_RUN, topic
+from config import META, MODEL_DUMP, MODEL_TYPE, RERANKED_RUN, DATA, RUN_DIR, BASELINE, topic
 from util import query_dict, map_sha_path, test_data, train_data
 
 
 if __name__ == '__main__':
-    msp = map_sha_path('./data')
+    msp = map_sha_path(DATA)
     meta = pd.read_csv(META)
     meta = meta[meta['sha'].notna()]  # there are duplicates in metadata.csv, some without sha
 
     # get baseline ranking from run
-    df = pd.read_csv('./artifact/runs/trec-covid',
-                     sep=' ',
-                     names=['topic', 'Q0', 'cord_uid', 'rank', 'score', 'team'],
-                     index_col=False)
+    df_baseline = pd.read_csv(os.path.join(RUN_DIR, BASELINE),
+                              sep=' ',
+                              names=['topic', 'Q0', 'cord_uid', 'rank', 'score', 'team'],
+                              index_col=False)
 
-    with open(RERANKED_RUN, 'w') as run:
+    with open(os.path.join(RUN_DIR, RERANKED_RUN), 'w') as run:
         for topic_number, query in query_dict(topic).items():
-            topic_df = df[df['topic'] == int(topic_number)]
+            topic_df = df_baseline[df_baseline['topic'] == int(topic_number)]
             cord_uids = topic_df['cord_uid']
 
             # make datapack
@@ -38,6 +38,7 @@ if __name__ == '__main__':
 
             # predict score for each doc
             scores = model.predict(test_x)
+
             # dict with score docid mapping
             id_score = {}
             for i in range(0, len(test_x['id_right'])):

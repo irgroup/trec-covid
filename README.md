@@ -1,5 +1,6 @@
 # trec-covid
 ## Workflow 
+![workflow]('doc/workflow.png')
 ### Setup
 * Install docker. When running on HPC (Ubuntu VM):  
 ``` 
