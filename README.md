@@ -48,6 +48,11 @@ python3 docker-rm.py
 python3 fetchPubmedData.py
 ```
 
+* Train model for each of the 30 topics and save models to `./artifact/model/<model-type>`
+```shell script
+python3 train.py
+```
+
 ## `config.py`
 
 | param | comment |
