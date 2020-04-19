@@ -1,0 +1,4852 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<html>
+ <body>
+  <pubmedarticleset>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32305025
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       18
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1873-5967
+       </issn>
+       <journalissue citedmedium="Internet">
+        <volume>
+         127
+        </volume>
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          12
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Journal of clinical virology : the official publication of the Pan American Society for Clinical Virology
+       </title>
+       <isoabbreviation>
+        J. Clin. Virol.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Epidemiological and initial clinical characteristics of patients with family aggregation of COVID-19.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        104360
+       </medlinepgn>
+      </pagination>
+      <elocationid eidtype="pii" validyn="Y">
+       S1386-6532(20)30102-5
+      </elocationid>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1016/j.jcv.2020.104360
+      </elocationid>
+      <abstract>
+       <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+        Since December 2019, a new outbreak of the coronavirus disease 2019 (COVID-19) in Wuhan (Hubei, China) and rapidly spread throughout China, however, confirmed cases are still increasing worldwide.
+       </abstracttext>
+       <abstracttext label="OBJECTIVES" nlmcategory="OBJECTIVE">
+        To investigate the epidemiological history and initial clinical characteristics of 10 patients with family aggregation of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection in Western Chongqing, China.
+       </abstracttext>
+       <abstracttext label="STUDY DESIGN" nlmcategory="METHODS">
+        Ten patients positive for SARS-CoV-2 nucleic acid detection by real time Reverse Transcription-Polymerase Chain Reaction (RT-PCR), were collected from The People's Hospital of Dazu District, Chongqing. Epidemiological data and laboratory and imaging results were collected on the first day of admission, and analyzed based on the Diagnosis and Treatment Guideline for COVID-19 (5th edition, China).
+       </abstracttext>
+       <abstracttext label="RESULTS" nlmcategory="RESULTS">
+        Of the 10 cases, case A had a history of a temporary stay in Wuhan and transmitted the virus to the others through family gathering, living together, and sharing vehicles. The average age was 56.5 years (± 11.16), six patients were males, and the incubation period was 2-14 days. Dry cough was the main symptom, followed by fever and fatigue. Most patients were clinically classified as ordinary-type, with three cases being severe-type. Chest computed tomography results were nonspecific, mainly with ground-glass attenuation and/or shadow images. Extensive lesion distribution was seen in severe cases. CD4+ lymphocyte counts were 61, 180, and 348 cells/uL in severe-type patients, respectively. Notably, viral nucleic acid values in nasopharyngeal swabs were lower (19, 25, and 26) than those of ordinary-type patients, suggesting a higher viral load. Neutrophil-lymphocyte ratio (NLR) was also higher in severe-type patients CONCLUSIONS: Initial examination results of lower CD4+ lymphocyte counts and RT-PCR-CT values coupled with higher NLR may indicate the severity of COVID-19 infection for these family clusters.
+       </abstracttext>
+       <copyrightinformation>
+        Copyright © 2020 Elsevier B.V. All rights reserved.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Xia
+        </lastname>
+        <forename>
+         Xiao-Ying
+        </forename>
+        <initials>
+         XY
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Infectious Disease Department, The People's Hospital of Dazu District, Chongqing, 402360, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Wu
+        </lastname>
+        <forename>
+         Jing
+        </forename>
+        <initials>
+         J
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Infectious Disease Department, The People's Hospital of Dazu District, Chongqing, 402360, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Liu
+        </lastname>
+        <forename>
+         He-Lei
+        </forename>
+        <initials>
+         HL
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Infectious Disease Department, The People's Hospital of Dazu District, Chongqing, 402360, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Xia
+        </lastname>
+        <forename>
+         Hong
+        </forename>
+        <initials>
+         H
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Infectious Disease Department, The People's Hospital of Dazu District, Chongqing, 402360, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Jia
+        </lastname>
+        <forename>
+         Bei
+        </forename>
+        <initials>
+         B
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Key Laboratory of Infectious and Parasitic Diseases in Chongqing, Infectious Disease Department, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, China. Electronic address: 202253@hospital.cqmu.edu.cn.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Huang
+        </lastname>
+        <forename>
+         Wen-Xiang
+        </forename>
+        <initials>
+         WX
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Key Laboratory of Infectious and Parasitic Diseases in Chongqing, Infectious Disease Department, The First Affiliated Hospital of Chongqing Medical University, Chongqing, 400016, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        12
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       Netherlands
+      </country>
+      <medlineta>
+       J Clin Virol
+      </medlineta>
+      <nlmuniqueid>
+       9815671
+      </nlmuniqueid>
+      <issnlinking>
+       1386-6532
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       CD4+ counts
+      </keyword>
+      <keyword majortopicyn="N">
+       COVID-19
+      </keyword>
+      <keyword majortopicyn="N">
+       Neutrophil-lymphocyte ratio
+      </keyword>
+      <keyword majortopicyn="N">
+       RT-PCR-CT values
+      </keyword>
+      <keyword majortopicyn="N">
+       family aggregation
+      </keyword>
+     </keywordlist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        07
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="revised">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        30
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        05
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32305025
+      </articleid>
+      <articleid idtype="pii">
+       S1386-6532(20)30102-5
+      </articleid>
+      <articleid idtype="doi">
+       10.1016/j.jcv.2020.104360
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32305024
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       18
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1878-0334
+       </issn>
+       <journalissue citedmedium="Internet">
+        <volume>
+         14
+        </volume>
+        <issue>
+         4
+        </issue>
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          14
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Diabetes &amp; metabolic syndrome
+       </title>
+       <isoabbreviation>
+        Diabetes Metab Syndr
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Artificial Intelligence (AI) applications for COVID-19 pandemic.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        337-339
+       </medlinepgn>
+      </pagination>
+      <elocationid eidtype="pii" validyn="Y">
+       S1871-4021(20)30077-1
+      </elocationid>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1016/j.dsx.2020.04.012
+      </elocationid>
+      <abstract>
+       <abstracttext label="BACKGROUND AND AIMS" nlmcategory="OBJECTIVE">
+        Healthcare delivery requires the support of new technologies like Artificial Intelligence (AI), Internet of Things (IoT), Big Data and Machine Learning to fight and look ahead against the new diseases. We aim to review the role of AI as a decisive technology to analyze, prepare us for prevention and fight with COVID-19 (Coronavirus) and other pandemics.
+       </abstracttext>
+       <abstracttext label="METHODS" nlmcategory="METHODS">
+        The rapid review of the literature is done on the database of Pubmed, Scopus and Google Scholar using the keyword of COVID-19 or Coronavirus and Artificial Intelligence or AI. Collected the latest information regarding AI for COVID-19, then analyzed the same to identify its possible application for this disease.
+       </abstracttext>
+       <abstracttext label="RESULTS" nlmcategory="RESULTS">
+        We have identified seven significant applications of AI for COVID-19 pandemic. This technology plays an important role to detect the cluster of cases and to predict where this virus will affect in future by collecting and analyzing all previous data.
+       </abstracttext>
+       <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+        Healthcare organizations are in an urgent need for decision-making technologies to handle this virus and help them in getting proper suggestions in real-time to avoid its spread. AI works in a proficient way to mimic like human intelligence. It may also play a vital role in understanding and suggesting the development of a vaccine for COVID-19. This result-driven technology is used for proper screening, analyzing, prediction and tracking of current patients and likely future patients. The significant applications are applied to tracks data of confirmed, recovered and death cases.
+       </abstracttext>
+       <copyrightinformation>
+        Copyright © 2020 Diabetes India. Published by Elsevier Ltd. All rights reserved.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Vaishya
+        </lastname>
+        <forename>
+         Raju
+        </forename>
+        <initials>
+         R
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Orthopaedics, Indraprastha Apollo Hospital, SaritaVihar, Mathura Road, 110076, New Delhi, India. Electronic address: raju.vaishya@gmail.com.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Javaid
+        </lastname>
+        <forename>
+         Mohd
+        </forename>
+        <initials>
+         M
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Mechanical Engineering, Jamia Millia Islamia, New Delhi, India. Electronic address: mjavaid@jmi.ac.in.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Khan
+        </lastname>
+        <forename>
+         Ibrahim Haleem
+        </forename>
+        <initials>
+         IH
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Jamia Hamdard, New Delhi, India. Electronic address: ibrahimhaleemkhan.ihk@gmail.com.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Haleem
+        </lastname>
+        <forename>
+         Abid
+        </forename>
+        <initials>
+         A
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Mechanical Engineering, Jamia Millia Islamia, New Delhi, India. Electronic address: haleem.abid@gmail.com.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        14
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       Netherlands
+      </country>
+      <medlineta>
+       Diabetes Metab Syndr
+      </medlineta>
+      <nlmuniqueid>
+       101462250
+      </nlmuniqueid>
+      <issnlinking>
+       1871-4021
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       AI Applications
+      </keyword>
+      <keyword majortopicyn="N">
+       Artificial Intelligence (AI)
+      </keyword>
+      <keyword majortopicyn="N">
+       COVID-19
+      </keyword>
+      <keyword majortopicyn="N">
+       Coronavirus
+      </keyword>
+      <keyword majortopicyn="N">
+       Pandemic
+      </keyword>
+     </keywordlist>
+     <coistatement>
+      Declaration of competing interest None.
+     </coistatement>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        06
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="revised">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        10
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        10
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32305024
+      </articleid>
+      <articleid idtype="pii">
+       S1871-4021(20)30077-1
+      </articleid>
+      <articleid idtype="doi">
+       10.1016/j.dsx.2020.04.012
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32304994
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       18
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1878-1705
+       </issn>
+       <journalissue citedmedium="Internet">
+        <volume>
+         84
+        </volume>
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          13
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        International immunopharmacology
+       </title>
+       <isoabbreviation>
+        Int. Immunopharmacol.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       The diagnostic and predictive role of NLR, d-NLR and PLR in COVID-19 patients.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        106504
+       </medlinepgn>
+      </pagination>
+      <elocationid eidtype="pii" validyn="Y">
+       S1567-5769(20)30494-X
+      </elocationid>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1016/j.intimp.2020.106504
+      </elocationid>
+      <abstract>
+       <abstracttext label="AIM" nlmcategory="OBJECTIVE">
+        To accumulate evidence that indicated the key role played by virus-triggered inflammation in the 2019-novel coronavirus disease (COVID-19) which emerged in Wuhan City and rapidly spread throughout China.
+       </abstracttext>
+       <abstracttext label="METHODS" nlmcategory="METHODS">
+        Age, neutrophil(NEU)-to-lymphocyte (LYM) ratio (NLR), lymphocyte-to-monocyte (MON) ratio, platelet-to-lymphocyte ratio (PLR), and C-reactive protein (CRP) of 93 patients with laboratory confirmed COVID-19 were investigated and compared. The receiver operating characteristic curve was applied to determine the thresholds for five bio-markers, and their prognostic values were assessed via the Kaplan-Meier curve and multivariate COX regression models.
+       </abstracttext>
+       <abstracttext label="RESULTS" nlmcategory="RESULTS">
+        The median age was 46.4 years old, and 37cases were females. A total of 27.8% of patients had been to Wuhan, and 73.1% had contacted with people from Wuhan. Fever (83.8%) and cough (70.9%) were the two most common symptoms. Elevated NLR and age were significantly associated with illness severity. The binary logistic analysis identified elevated NLR (hazard risk [HR] 2.46, 95% confidence interval [CI] 1.98-4.57) and age (HR 2.52, 95% CI 1.65-4.83) as independent factors for poor clinical outcome of COVID-19. NLR exhibited the largest area under the curve at 0.841, with the highest specificity (63.6%) and sensitivity (88%).
+       </abstracttext>
+       <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+        Elevated age and NLR can be considered independent biomarkers for indicating poor clinical outcomes.
+       </abstracttext>
+       <copyrightinformation>
+        Copyright © 2020 Elsevier B.V. All rights reserved.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Yang
+        </lastname>
+        <forename>
+         Ai-Ping
+        </forename>
+        <initials>
+         AP
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Clinical Laboratory, Zhejiang Xiaoshan Hospital, No. 728, Yucai Road, Hangzhou, Zhejiang Province, PR China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Liu
+        </lastname>
+        <forename>
+         Jian-Ping
+        </forename>
+        <initials>
+         JP
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Clinical Laboratory, The First Affiliated Hospital of Nanchang University, No. 17 YongwaiZheng Street, Nanchang 330006, Jiangxi, China. Electronic address: 393668003@qq.com.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Tao
+        </lastname>
+        <forename>
+         Wen-Qiang
+        </forename>
+        <initials>
+         WQ
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Critical Care Medicine, The First Affiliated Hospital of Nanchang University, Nanchang, Jiangxi, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Li
+        </lastname>
+        <forename>
+         Hui-Ming
+        </forename>
+        <initials>
+         HM
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Clinical Laboratory, The First Affiliated Hospital of Nanchang University, No. 17 YongwaiZheng Street, Nanchang 330006, Jiangxi, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        13
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       Netherlands
+      </country>
+      <medlineta>
+       Int Immunopharmacol
+      </medlineta>
+      <nlmuniqueid>
+       100965259
+      </nlmuniqueid>
+      <issnlinking>
+       1567-5769
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       Age
+      </keyword>
+      <keyword majortopicyn="N">
+       COVID-19
+      </keyword>
+      <keyword majortopicyn="N">
+       Neutrophil-to-lymphocyte ratio
+      </keyword>
+      <keyword majortopicyn="N">
+       Platelet-to-LYM ratio
+      </keyword>
+      <keyword majortopicyn="N">
+       Predictive
+      </keyword>
+     </keywordlist>
+     <coistatement>
+      Declaration of Competing Interest The authors declared that there is no conflict of interest.
+     </coistatement>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2020
+       </year>
+       <month>
+        02
+       </month>
+       <day>
+        22
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="revised">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        09
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        09
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32304994
+      </articleid>
+      <articleid idtype="pii">
+       S1567-5769(20)30494-X
+      </articleid>
+      <articleid idtype="doi">
+       10.1016/j.intimp.2020.106504
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32304822
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       18
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1878-3511
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          15
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases
+       </title>
+       <isoabbreviation>
+        Int. J. Infect. Dis.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       COVID-19: Four Paediatric Cases in Malaysia.
+      </articletitle>
+      <elocationid eidtype="pii" validyn="Y">
+       S1201-9712(20)30181-8
+      </elocationid>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1016/j.ijid.2020.03.049
+      </elocationid>
+      <abstract>
+       <abstracttext label="OBJECTIVE" nlmcategory="OBJECTIVE">
+        This is a brief report of 4 paediatric cases of COVID-19 infection in Malaysia BACKGROUND: COVID-19, a coronavirus, first detected in Wuhan, China has now spread rapidly to over 60 countries and territories around the world, infecting more than 85000 individuals. As the case count amongst children is low, there is need to report COVID-19 in children to better understand the virus and the disease.
+       </abstracttext>
+       <abstracttext label="CASES" nlmcategory="METHODS">
+        In Malaysia, until end of February 2020, there were four COVID-19 paediatric cases with ages ranging from 20 months to 11 years. All four cases were likely to have contracted the virus in China. The children had no symptoms or mild flu-like illness. The cases were managed symptomatically. None required antiviral therapy.
+       </abstracttext>
+       <abstracttext label="DISCUSSION" nlmcategory="CONCLUSIONS">
+        There were 2 major issues regarding the care of infected children. Firstly, the quarantine of an infected child with a parent who tested negative was an ethical dilemma. Secondly, oropharyngeal and nasal swabs in children were at risk of false negative results. These issues have implications for infection control. Consequently, there is a need for clearer guidelines for child quarantine and testing methods in the management of COVID-19 in children.
+       </abstracttext>
+       <copyrightinformation>
+        Copyright © 2020. Published by Elsevier Ltd.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         See
+        </lastname>
+        <forename>
+         K C
+        </forename>
+        <initials>
+         KC
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Paediatric, Hospital Sungai Buloh, Ministry of Health, Malaysia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Liew
+        </lastname>
+        <forename>
+         S M
+        </forename>
+        <initials>
+         SM
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Primary Care Medicine, Faculty of Medicine, University of Malaya, Malaysia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Ng
+        </lastname>
+        <forename>
+         David C E
+        </forename>
+        <initials>
+         DCE
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Paediatric, Hospital Tuanku Jaafar, Seremban, Ministry of Health, Malaysia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Chew
+        </lastname>
+        <forename>
+         E L
+        </forename>
+        <initials>
+         EL
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Paediatric, Hospital Sultanah Maliha, Langkawi, Ministry of Health, Malaysia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Khoo
+        </lastname>
+        <forename>
+         E M
+        </forename>
+        <initials>
+         EM
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Primary Care Medicine, Faculty of Medicine, University of Malaya, Malaysia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Sam
+        </lastname>
+        <forename>
+         C H
+        </forename>
+        <initials>
+         CH
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Paediatric, Hospital Sultanah Maliha, Langkawi, Ministry of Health, Malaysia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Sheena
+        </lastname>
+        <forename>
+         D
+        </forename>
+        <initials>
+         D
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Paediatric, Hospital Sungai Buloh, Ministry of Health, Malaysia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Zahilah Filzah
+        </lastname>
+        <forename>
+         M Z
+        </forename>
+        <initials>
+         MZ
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Paediatric, Hospital Sungai Buloh, Ministry of Health, Malaysia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Chin
+        </lastname>
+        <forename>
+         S Y
+        </forename>
+        <initials>
+         SY
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Paediatric, Hospital Sungai Buloh, Ministry of Health, Malaysia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Lee
+        </lastname>
+        <forename>
+         P Y
+        </forename>
+        <initials>
+         PY
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Paediatric, Hospital Sungai Buloh, Ministry of Health, Malaysia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Tan
+        </lastname>
+        <forename>
+         L P
+        </forename>
+        <initials>
+         LP
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Paediatric, Hospital Sungai Buloh, Ministry of Health, Malaysia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Najwa
+        </lastname>
+        <forename>
+         Z Farah
+        </forename>
+        <initials>
+         ZF
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Paediatric, Hospital Sungai Buloh, Ministry of Health, Malaysia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Sabrina
+        </lastname>
+        <forename>
+         S
+        </forename>
+        <initials>
+         S
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Paediatric, Hospital Sungai Buloh, Ministry of Health, Malaysia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Them
+        </lastname>
+        <forename>
+         W W
+        </forename>
+        <initials>
+         WW
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Paediatric, Hospital Sungai Buloh, Ministry of Health, Malaysia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Saipriya
+        </lastname>
+        <forename>
+         T
+        </forename>
+        <initials>
+         T
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Paediatric, Hospital Sungai Buloh, Ministry of Health, Malaysia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Muhammad Zamakhshar
+        </lastname>
+        <forename>
+         Z A
+        </forename>
+        <initials>
+         ZA
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Paediatric, Hospital Tuanku Jaafar, Seremban, Ministry of Health, Malaysia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Cheah
+        </lastname>
+        <forename>
+         W K
+        </forename>
+        <initials>
+         WK
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Medicine, Hospital Taiping, Ministry of Health, Malaysia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Periasamy
+        </lastname>
+        <forename>
+         K
+        </forename>
+        <initials>
+         K
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Institute for Clinical Research, Block B, National Institute of Health, Setia Alam, Ministry of Health, Malaysia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Goh
+        </lastname>
+        <forename>
+         P P
+        </forename>
+        <initials>
+         PP
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Institute for Clinical Research, Block B, National Institute of Health, Setia Alam, Ministry of Health, Malaysia. Electronic address: pikpin@gmail.com.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Ibrahim
+        </lastname>
+        <forename>
+         H
+        </forename>
+        <initials>
+         H
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Division for Research and Technical Support, Ministry of Health, Malaysia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        15
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       Canada
+      </country>
+      <medlineta>
+       Int J Infect Dis
+      </medlineta>
+      <nlmuniqueid>
+       9610933
+      </nlmuniqueid>
+      <issnlinking>
+       1201-9712
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       COVID-19
+      </keyword>
+      <keyword majortopicyn="N">
+       Coronavirus
+      </keyword>
+      <keyword majortopicyn="N">
+       Epidemiology
+      </keyword>
+      <keyword majortopicyn="N">
+       Outbreak
+      </keyword>
+      <keyword majortopicyn="N">
+       Paediatric
+      </keyword>
+      <keyword majortopicyn="N">
+       epidemic
+      </keyword>
+      <keyword majortopicyn="N">
+       nCoV
+      </keyword>
+     </keywordlist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2020
+       </year>
+       <month>
+        02
+       </month>
+       <day>
+        29
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="revised">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        18
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        20
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32304822
+      </articleid>
+      <articleid idtype="pii">
+       S1201-9712(20)30181-8
+      </articleid>
+      <articleid idtype="doi">
+       10.1016/j.ijid.2020.03.049
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32304612
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       18
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1469-0705
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          18
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Ultrasound in obstetrics &amp; gynecology : the official journal of the International Society of Ultrasound in Obstetrics and Gynecology
+       </title>
+       <isoabbreviation>
+        Ultrasound Obstet Gynecol
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Why we should not stop giving aspirin to pregnant women during the COVID-19 pandemic.
+      </articletitle>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1002/uog.22049
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        With the current outbreak and spread of the coronavirus disease 2019 (COVID-19) worldwide many questions arise. There have been issued precautions regarding the use of anti-inflammatory medications, including aspirin. To our knowledge, there is insufficient data to suggest an increased risk between prophylactic use of low-dose aspirin and progression of COVID-19 infection in pregnant women at risk of placental complications. This article is protected by copyright. All rights reserved.
+       </abstracttext>
+       <copyrightinformation>
+        This article is protected by copyright. All rights reserved.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Kwiatkowski
+        </lastname>
+        <forename>
+         Sebastian
+        </forename>
+        <initials>
+         S
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Clinical Department of Obstetrics and Gynecology, Pomeranian Medical University in Szczecin, Poland.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Borowski
+        </lastname>
+        <forename>
+         Dariusz
+        </forename>
+        <initials>
+         D
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Ludwik Rydygier Collegium Medicum in Bydgoszcz.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Kajdy
+        </lastname>
+        <forename>
+         Anna
+        </forename>
+        <initials>
+         A
+        </initials>
+        <identifier source="ORCID">
+         https://orcid.org/0000-0003-3581-8120
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Reproductive Health, Centre of Postgraduate Medical Education, Warsaw, Poland.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Poon
+        </lastname>
+        <forename>
+         Liona C
+        </forename>
+        <initials>
+         LC
+        </initials>
+        <identifier source="ORCID">
+         https://orcid.org/0000-0002-3944-4130
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Obstetrics and Gynecology, The Chinese University of Hong Kong.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Rokita
+        </lastname>
+        <forename>
+         Wojciech
+        </forename>
+        <initials>
+         W
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Faculty of Medicine and Health Sciences, Jan Kochanowski University, Kielce, Poland.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         WielgoŚ
+        </lastname>
+        <forename>
+         Mirosław
+        </forename>
+        <initials>
+         M
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          1st Department of Obstetrics and Gynecology, Medical University of Warsaw, Poland.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016422">
+        Letter
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        18
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       England
+      </country>
+      <medlineta>
+       Ultrasound Obstet Gynecol
+      </medlineta>
+      <nlmuniqueid>
+       9108340
+      </nlmuniqueid>
+      <issnlinking>
+       0960-7692
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        22
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="revised">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        27
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        06
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32304612
+      </articleid>
+      <articleid idtype="doi">
+       10.1002/uog.22049
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32304581
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       18
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1365-2141
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          18
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        British journal of haematology
+       </title>
+       <isoabbreviation>
+        Br. J. Haematol.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Changes in Blood Coagulation in Patients with Severe Coronavirus Disease 2019 (COVID-19): a Meta-Analysis.
+      </articletitle>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1111/bjh.16725
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        Coronavirus disease 2019 (COVID-19) is widely spread and poses a critical threat to global health (Zhang et al). Prominent changes in coagulation function in severe patients of COVID-19 have been reported in a recent study (Han, et al 2020). Therefore, we conducted this quantitative meta-analysis to explore the difference in blood coagulation parameters between severe and mild cases of COVID-19.
+       </abstracttext>
+       <copyrightinformation>
+        This article is protected by copyright. All rights reserved.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Xiong
+        </lastname>
+        <forename>
+         Mi
+        </forename>
+        <initials>
+         M
+        </initials>
+        <identifier source="ORCID">
+         https://orcid.org/0000-0002-2658-8434
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Neurology, the First Affiliated Hospital of Chongqing Medical University, Chongqing, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Liang
+        </lastname>
+        <forename>
+         Xue
+        </forename>
+        <initials>
+         X
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Neurology, the First Affiliated Hospital of Chongqing Medical University, Chongqing, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Wei
+        </lastname>
+        <forename>
+         You-Dong
+        </forename>
+        <initials>
+         YD
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Neurology, the First Affiliated Hospital of Chongqing Medical University, Chongqing, China.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Chongqing Key Laboratory of Neurobiology, Chongqing, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016422">
+        Letter
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        18
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       England
+      </country>
+      <medlineta>
+       Br J Haematol
+      </medlineta>
+      <nlmuniqueid>
+       0372544
+      </nlmuniqueid>
+      <issnlinking>
+       0007-1048
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       COVID-19
+      </keyword>
+      <keyword majortopicyn="N">
+       Coagulation
+      </keyword>
+      <keyword majortopicyn="N">
+       Coronavirus
+      </keyword>
+      <keyword majortopicyn="N">
+       Meta-analysis
+      </keyword>
+      <keyword majortopicyn="N">
+       laboratory
+      </keyword>
+     </keywordlist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32304581
+      </articleid>
+      <articleid idtype="doi">
+       10.1111/bjh.16725
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32304574
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       18
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1365-2230
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          18
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Clinical and experimental dermatology
+       </title>
+       <isoabbreviation>
+        Clin. Exp. Dermatol.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Screen mirroring, screen casting and screen sharing during COVID-19: What a dermatologist should know.
+      </articletitle>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1111/ced.14247
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        In times of COVID-19, social distancing is an important parameter to contain the spread of novel coronavirus. More than ever, it is important to understand the utility of technology in maintaining connectivity. The wireless connectivity of the devices used in daily routine life (mobile phones, tablets and computers) has changed the way we connect and interact with each other. The same is true in medical field as well. The technological advancement in these devices has brought clinicians closer in ways that has reduced the need for face-to-face meetings. All this has been made possible through streaming of data.
+       </abstracttext>
+       <copyrightinformation>
+        This article is protected by copyright. All rights reserved.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Jakhar
+        </lastname>
+        <forename>
+         D
+        </forename>
+        <initials>
+         D
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Dermatology, North Delhi Medical College &amp; Hindu Rao Hospital, New Delhi, 110007, India.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Kaur
+        </lastname>
+        <forename>
+         I
+        </forename>
+        <initials>
+         I
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Dermatology, North Delhi Medical College &amp; Hindu Rao Hospital, New Delhi, 110007, India.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Kaul
+        </lastname>
+        <forename>
+         S
+        </forename>
+        <initials>
+         S
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Internal Medicine, John H Stroger Hospital of Cook county, Chicago, Illinois, USA, 60612.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016422">
+        Letter
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        18
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       England
+      </country>
+      <medlineta>
+       Clin Exp Dermatol
+      </medlineta>
+      <nlmuniqueid>
+       7606847
+      </nlmuniqueid>
+      <issnlinking>
+       0307-6938
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       COVID-19
+      </keyword>
+      <keyword majortopicyn="N">
+       coronavirus
+      </keyword>
+      <keyword majortopicyn="N">
+       dermatology
+      </keyword>
+      <keyword majortopicyn="N">
+       dermoscopy
+      </keyword>
+      <keyword majortopicyn="N">
+       screen casting
+      </keyword>
+      <keyword majortopicyn="N">
+       screen mirroring
+      </keyword>
+      <keyword majortopicyn="N">
+       screen sharing
+      </keyword>
+     </keywordlist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32304574
+      </articleid>
+      <articleid idtype="doi">
+       10.1111/ced.14247
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32304509
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       18
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1728-7731
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          15
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Journal of the Chinese Medical Association : JCMA
+       </title>
+       <isoabbreviation>
+        J Chin Med Assoc
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       COVID-19 in children: Current status.
+      </articletitle>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1097/JCMA.0000000000000323
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), emerged from China in December 2019. The outbreak further exploded in Europe and America in mid-March 2020 to become a global health emergency. We reviewed recent published articles and on-line open messages on SARS-CoV-2-positive infants and children younger than 20 years of age. Symptoms are usually less severe in children than in adults. Twelve critically or mortally ill children were found in the published or news reports before April 6, 2020. Vertical transmission from the mother to her fetus or neonate has not been proven definitively. However, six early-onset (&lt;7 days) and 3 late-onset neonatal SARS-CoV-2 infections were found in the literature. We also summarized the presentations and contact information of 24 SARS-CoV-2-positive children announced by the Taiwan Centers for Disease Control. Early identification and isolation, adequate management, prevention, and vaccine development are the keys to controlling the disease spread. Clinical physicians should be alert to asymptomatic children with COVID-19. Multi-directional investigations are crucial in the global fight against COVID-19.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Jeng
+        </lastname>
+        <forename>
+         Mei-Jy
+        </forename>
+        <initials>
+         MJ
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Institute of Emergency and Critical Care Medicine, School of Medicine, National Yang-Ming University, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Department of Pediatrics, Taipei Veterans General Hospital, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Department of Pediatrics, School of Medicine, National Yang-Ming University, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        15
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       Netherlands
+      </country>
+      <medlineta>
+       J Chin Med Assoc
+      </medlineta>
+      <nlmuniqueid>
+       101174817
+      </nlmuniqueid>
+      <issnlinking>
+       1726-4901
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32304509
+      </articleid>
+      <articleid idtype="doi">
+       10.1097/JCMA.0000000000000323
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32304508
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       18
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1728-7731
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          15
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Journal of the Chinese Medical Association : JCMA
+       </title>
+       <isoabbreviation>
+        J Chin Med Assoc
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Where to buy face masks? Survey of applications using Taiwan's open data in the time of COVID-19.
+      </articletitle>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1097/JCMA.0000000000000325
+      </elocationid>
+      <abstract>
+       <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+        The coronavirus disease 2019 (COVID-19) had spread rapidly since late December 2019. Personal protective equipment was essential to prevent transmission. Owing to shortage of face masks, Taiwan government began to implement quasi rationing on February 6, 2020, by allowing each resident to purchase two masks in seven days. Taiwan National Health Insurance Administration offered online data with real-time updates on face mask availability in all contracted pharmacies and selected local health centers. Based on the open data, numerous software applications quickly emerged to assist the public in finding sales locations efficiently.
+       </abstracttext>
+       <abstracttext label="METHODS" nlmcategory="METHODS">
+        Up until March 15, 2020, the Public Digital Innovation Space of Taiwan government had recorded 134 software applications of face mask availability, and 24 were excluded due to defect, duplicate and unavailability. These applications were analyzed according to platform, developer type, and display mode.
+       </abstracttext>
+       <abstracttext label="RESULTS" nlmcategory="RESULTS">
+        Of the 110 valid software applications, 67 (60.9%) applications were deployed on websites, followed by 21 (19.1%) on social networking sites, 19 (17.3%) as mobile applications, and 3 (2.7%) in other modes. Nearly two thirds (n = 70) of applications were developed by individuals, one third (n = 37) by commercial companies, only two applications by central and local governments, and one by a non-governmental organization. With respect to the display mode, 47 (42.7%) applications adopted map-view only, 41 (37.3%) table-view only, and 19 (17.3%) both modes. Of the remaining three applications, two offered voice user interfaces and one used augmented reality.
+       </abstracttext>
+       <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+        Taiwan's open data strategy facilitated rapid development of software applications for information dissemination to the public during the COVID-19 crisis. The transparency of real-time data could help alleviate the panic of the public. The collaborative contributions from the grassroots in disasters were priceless treasures.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Yuan
+        </lastname>
+        <forename>
+         Eunice J
+        </forename>
+        <initials>
+         EJ
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Medical Education, Taipei Veterans General Hospital, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Hsu
+        </lastname>
+        <forename>
+         Chia-An
+        </forename>
+        <initials>
+         CA
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Medical Education, Taipei Veterans General Hospital, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Lee
+        </lastname>
+        <forename>
+         Wui-Chiang
+        </forename>
+        <initials>
+         WC
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Medical Affairs and Planning, Taipei Veterans General Hospital, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          School of Medicine, National Yang-Ming University, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Chen
+        </lastname>
+        <forename>
+         Tzeng-Ji
+        </forename>
+        <initials>
+         TJ
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          School of Medicine, National Yang-Ming University, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Department of Family Medicine, Taipei Veterans General Hospital, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Big Data Center, Department of Medical Research, Taipei Veterans General Hospital, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Chou
+        </lastname>
+        <forename>
+         Li-Fang
+        </forename>
+        <initials>
+         LF
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Public Finance, National Chengchi University, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Hwang
+        </lastname>
+        <forename>
+         Shinn-Jang
+        </forename>
+        <initials>
+         SJ
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          School of Medicine, National Yang-Ming University, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Department of Family Medicine, Taipei Veterans General Hospital, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        15
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       Netherlands
+      </country>
+      <medlineta>
+       J Chin Med Assoc
+      </medlineta>
+      <nlmuniqueid>
+       101174817
+      </nlmuniqueid>
+      <issnlinking>
+       1726-4901
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32304508
+      </articleid>
+      <articleid idtype="doi">
+       10.1097/JCMA.0000000000000325
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32304401
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       18
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1940-5480
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          15
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        The Journal of the American Academy of Orthopaedic Surgeons
+       </title>
+       <isoabbreviation>
+        J Am Acad Orthop Surg
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Orthopaedic Surgical Selection and Inpatient Paradigms During the Coronavirus COVID-19 Pandemic.
+      </articletitle>
+      <elocationid eidtype="doi" validyn="Y">
+       10.5435/JAAOS-D-20-00360
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        The Novel Coronavirus (COVID-19) pandemic, also known as SARS-CoV-2, has placed an immense strain on health care systems across the entire world. Consequently, multiple federal and state governments have placed restrictions on hospitals such as limiting "elective surgery" and recommending social or physical distancing. We review the literature on several areas that have been affected including surgical selection, inpatient care, and physician well-being. These areas affecting inpatient paradigms include surgical priority, physical or social distancing, file sharing for online clinical communications, and physician wellness. During this crisis, it is important that orthopaedic departments place an emphasis on personnel safety and slowing the spread of the virus, so that the department can still maintain vital functions. Physical Distancing and emerging technologies such as inpatient telemedicine and online file sharing applications can enable orthopaedic programs to still function, while attempting to protect medical staff and patients from COVID-19 spread. This literature review sought to provide evidence-based guidance to orthopaedic departments during an unprecedented time. Orthopaedic surgeons should follow the Centers for Disease Control and Prevention (CDC) guidelines, wear PPE when appropriate, have teams created utilizing physical distancing, understand the department's policy on elective surgery, and engage in routines which enhance physician wellness.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Massey
+        </lastname>
+        <forename>
+         Patrick A
+        </forename>
+        <initials>
+         PA
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Orthopaedic Surgery, Louisiana State University Health, Shreveport, Louisiana.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         McClary
+        </lastname>
+        <forename>
+         Kaylan
+        </forename>
+        <initials>
+         K
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Orthopaedic Surgery, Louisiana State University Health, Shreveport, Louisiana.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Zhang
+        </lastname>
+        <forename>
+         Andrew S
+        </forename>
+        <initials>
+         AS
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Orthopaedic Surgery, Louisiana State University Health, Shreveport, Louisiana.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Savoie
+        </lastname>
+        <forename>
+         Felix H
+        </forename>
+        <initials>
+         FH
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Orthopaedic Surgery, Tulane Medical Center, New Orleans, Louisiana.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Barton
+        </lastname>
+        <forename>
+         R Shane
+        </forename>
+        <initials>
+         RS
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Orthopaedic Surgery, Louisiana State University Health, Shreveport, Louisiana.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        15
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       United States
+      </country>
+      <medlineta>
+       J Am Acad Orthop Surg
+      </medlineta>
+      <nlmuniqueid>
+       9417468
+      </nlmuniqueid>
+      <issnlinking>
+       1067-151X
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32304401
+      </articleid>
+      <articleid idtype="doi">
+       10.5435/JAAOS-D-20-00360
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32304395
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       18
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1538-943X
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          16
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        ASAIO journal (American Society for Artificial Internal Organs : 1992)
+       </title>
+       <isoabbreviation>
+        ASAIO J.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       COVID-19 Respiratory Failure: Targeting Inflammation on VV-ECMO Support.
+      </articletitle>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1097/MAT.0000000000001177
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        The outbreak of novel coronavirus (SARS-CoV-2) which causes the respiratory illness COVID-19 has led to unprecedented efforts at containment due to its rapid community spread, associated mortality, and lack of immunization and treatment. We herein detail a case of a young patient who suffered life-threatening disease and multi-organ failure. His clinical course involved rapid and profound respiratory decompensation such that he required support with veno-venous extracorporeal membrane oxygenation (VV-ECMO). He also demonstrated hyperinflammation (C-reactive protein peak 444.6 mg/L) with severe cytokine elevation (Interleukin-6 peak &gt; 3,000 pg/mL). Through treatment targeting hyperinflammation he recovered from critical COVID-19 respiratory failure and required only 160 hours of VV-ECMO support. He is currently extubated without an oxygen requirement, showing signs of renal recovery on intermittent hemodialysis, and his repeat SARS-CoV-2 test is negative 21 days after his first positive test. We present the first successful case of VV-ECMO support to recovery of COVID-19 respiratory failure in North America.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Hartman
+        </lastname>
+        <forename>
+         Matthew E
+        </forename>
+        <initials>
+         ME
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Division of Cardiology, Swedish Medical Center and Altius Institute for Biomedical Sciences Division of Cardiac Surgery, Swedish Medical Center Division of Hematology and Oncology, Swedish Cancer Institute Division of Pulmonary and Critical Care Medicine, Swedish Medical Center Division of Infectious Disease, Swedish Medical Center and the Polyclinic Division of Pulmonary and Critical Care Medicine, Swedish Medical Center Division of Critical Care Medicine, Evergreen Health Division of Critical Care Medicine, and Department of Anesthesiology, Swedish Medical Center; US Anesthesia Partners, WA Division of Hematology and Oncology, Swedish Cancer Institute Division of Cardiac Surgery, Swedish Medical Center Division of Cardiology, Swedish Medical Center.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Hernandez
+        </lastname>
+        <forename>
+         Roland A
+        </forename>
+        <initials>
+         RA
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Patel
+        </lastname>
+        <forename>
+         Krish
+        </forename>
+        <initials>
+         K
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Wagner
+        </lastname>
+        <forename>
+         Teresa E
+        </forename>
+        <initials>
+         TE
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Trinh
+        </lastname>
+        <forename>
+         Tony
+        </forename>
+        <initials>
+         T
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Lipke
+        </lastname>
+        <forename>
+         Anne B
+        </forename>
+        <initials>
+         AB
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Yim
+        </lastname>
+        <forename>
+         Eric T
+        </forename>
+        <initials>
+         ET
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Pulido
+        </lastname>
+        <forename>
+         Juan N
+        </forename>
+        <initials>
+         JN
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Pagel
+        </lastname>
+        <forename>
+         John M
+        </forename>
+        <initials>
+         JM
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Youssef
+        </lastname>
+        <forename>
+         Samuel J
+        </forename>
+        <initials>
+         SJ
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Mignone
+        </lastname>
+        <forename>
+         John L
+        </forename>
+        <initials>
+         JL
+        </initials>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        16
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       United States
+      </country>
+      <medlineta>
+       ASAIO J
+      </medlineta>
+      <nlmuniqueid>
+       9204109
+      </nlmuniqueid>
+      <issnlinking>
+       1058-2916
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32304395
+      </articleid>
+      <articleid idtype="doi">
+       10.1097/MAT.0000000000001177
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32304276
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       18
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1601-0825
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          18
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Oral diseases
+       </title>
+       <isoabbreviation>
+        Oral Dis
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       The impact of coronavirus infectious disease 19 (COVID-19) on oral health.
+      </articletitle>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1111/odi.13359
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        Recently emerged human-to-human transmission of COVID-19, a novel lethal strain (Chan et al., 2020) of coronavirus, caused a global pandemic burden, affecting hundreds of thousands of individuals, having life-threatening outcomes, not only in medically compromised persons but also in perfectly healthy young individuals with immunocompetent system. Apparently, this specific coronavirus must possess special abilities to spread and compromise the immune mechanisms in humans. Unfortunately, there are limited evidence-based data available, as, which is understandable clinicians and scientists must focus on life-saving aspects (Prompetchara et al., 2020). At the same time, the question arises, whether this strain possesses unique abilities to penetrate via oropharyngeal epithelial barriers and, which is even more intriguing, why infection of SARS-CoV-2 triggers such abnormal 'cytokine storm' and immunosuppression? For unknown reasons, SARS-CoV-2 does not seem to be effectively defeated by human first line protective mechanisms, neither biomolecular, nor cellular, as number of death cases in middle aged, healthy persons were reported, regardless their immune status (Mehta et al., 2020).
+       </abstracttext>
+       <copyrightinformation>
+        This article is protected by copyright. All rights reserved.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Dziedzic
+        </lastname>
+        <forename>
+         Arkadiusz
+        </forename>
+        <initials>
+         A
+        </initials>
+        <identifier source="ORCID">
+         https://orcid.org/0000-0003-0022-8382
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Conservative Dentistry with Endodontics, Medical University of Silesia, Pl. Akademicki 17, 41-902, Bytom, Katowice, Poland.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Wojtyczka
+        </lastname>
+        <forename>
+         Robert
+        </forename>
+        <initials>
+         R
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Microbiology and Virology, School of Pharmacy and Division of Laboratory Medicine in Sosnowiec, Medical University of Silesia, ul. Jagiellońska 4, 41-200, Sosnowiec, Poland.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        18
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       Denmark
+      </country>
+      <medlineta>
+       Oral Dis
+      </medlineta>
+      <nlmuniqueid>
+       9508565
+      </nlmuniqueid>
+      <issnlinking>
+       1354-523X
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      D
+     </citationsubset>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32304276
+      </articleid>
+      <articleid idtype="doi">
+       10.1111/odi.13359
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32304191
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       18
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1303-6165
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          18
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Turkish journal of medical sciences
+       </title>
+       <isoabbreviation>
+        Turk J Med Sci
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Novel Coronavirus disease (COVID-19) in children.
+      </articletitle>
+      <elocationid eidtype="doi" validyn="Y">
+       10.3906/sag-2004-174
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        Coronavirus disease (COVID-19) was firstly reported at the end of 2019. The disease rapidly spread all around the world in a few months and was declared a worldwide pandemic by WHO in March 2020. By April 9, there were 1 436 198 confirmed COVID-19 cases in the world, nearly with 6% mortality rate. This novel infectious disease causes respiratory tract illness that may generally occur as mild upper respiratory tract disease or pneumonia. In older patients and/or patients with underlying conditions, it may result in acute respiratory distress syndrome, multi organ failure and even death. According to the current literature, children account approximately for 1%-5% of diagnosed COVID-19 cases. Generally, COVID-19 seems to be a less severe disease for children than adults. Approximately 90% of pediatric patients are diagnosed as asymptomatic, mild, or moderate disease. However, up to 6.7% of cases may be severe. Severe illness is generally seen in patients smaller than 1 year of age and patients who have underlying disesases. The epidemiological and clinical patterns of COVID-19 and treatment approaches in pediatric patients still remain unclear although many pediatric reports are published. This review aims to summarize the current epidemics, clinical presentations, diagnosis, and treatment of COVID-19 in pediatric patients.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Bedir Demirdağ
+        </lastname>
+        <forename>
+         Tuğba
+        </forename>
+        <initials>
+         T
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Tezer
+        </lastname>
+        <forename>
+         Hasan
+        </forename>
+        <initials>
+         H
+        </initials>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        18
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       Turkey
+      </country>
+      <medlineta>
+       Turk J Med Sci
+      </medlineta>
+      <nlmuniqueid>
+       9441758
+      </nlmuniqueid>
+      <issnlinking>
+       1300-0144
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       COVID-19
+      </keyword>
+      <keyword majortopicyn="N">
+       novel corona virus
+      </keyword>
+      <keyword majortopicyn="N">
+       pediatric
+      </keyword>
+     </keywordlist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        16
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        17
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32304191
+      </articleid>
+      <articleid idtype="doi">
+       10.3906/sag-2004-174
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32303575
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       18
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        2633-3775
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          16
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        BMJ military health
+       </title>
+       <isoabbreviation>
+        BMJ Mil Health
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Case series of coronavirus (SARS-CoV-2) in a military recruit school: clinical, sanitary and logistical implications.
+      </articletitle>
+      <elocationid eidtype="pii" validyn="Y">
+       bmjmilitary-2020-001482
+      </elocationid>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1136/bmjmilitary-2020-001482
+      </elocationid>
+      <abstract>
+       <abstracttext label="INTRODUCTION" nlmcategory="BACKGROUND">
+        A new coronavirus, called Severe Acute Respiratory Syndrome-CoronaVirus-2 (SARS-CoV-2), has emerged from China in late 2019 and has now caused a worldwide pandemic. The impact of covid-19 has not been described so far in a military setting. We therefore report a case series of infected patients in a recruit school in Switzerland and the herein associated challenges.
+       </abstracttext>
+       <abstracttext label="MATERIAL AND METHODS" nlmcategory="METHODS">
+        Retrospective review of covid-19 cases among Swiss Armed Forces recruits in the early weeks of SARS-CoV-2 pandemic in the canton of Ticino, the southernmost canton of Switzerland. Positive cases were defined with two positive PCR testing for SARS-CoV-2 from nasopharyngeal swabs. Serological testing was performed with a commercially available kit according to manufacturers' instructions.
+       </abstracttext>
+       <abstracttext label="RESULTS" nlmcategory="RESULTS">
+        The first case was likely contaminated while skiing during weekend permission. He became symptomatic 4 days later, tested positive for SARS-CoV-2 and was put into isolation. He showed complete symptom resolution after 48 hours. Quarantine was ordered for all recruits with close contact in the past 2 days, a total of 55 persons out of 140 in the company. Seven out of nine recruits in one particular quarantine room became mildly symptomatic. SARS-CoV-2 PCR was positive in one of them. Seven days after initial diagnosis, the index patient and the other one from the quarantine retested positive for SARS-CoV-2, although they had been completely asymptomatic for over 96 hours. Serological testing revealed positive for both patients. All others showed negative IgM and IgG.
+       </abstracttext>
+       <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+        Young healthy recruits often showed a mild course of covid-19 with rapid symptom decline but were persistent SARS-CoV-2 carriers. This illustrates how asymptomatic patients may be responsible for covert viral transmission. An early and prolonged establishment of isolation and quarantine for patients and close contacts is essential to slow down the spread of SARS-CoV-2, especially in the confined space of a military environment.
+       </abstracttext>
+       <copyrightinformation>
+        © Author(s) (or their employer(s)) 2020. No commercial re-use. See rights and permissions. Published by BMJ.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Baettig
+        </lastname>
+        <forename>
+         Sascha J
+        </forename>
+        <initials>
+         SJ
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Anaesthesiology, Kantonsspital Winterthur, Winterthur, Switzerland.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Military Medical Services, Swiss Armed Forces, Bern, Switzerland.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Parini
+        </lastname>
+        <forename>
+         A
+        </forename>
+        <initials>
+         A
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Military Medical Services, Swiss Armed Forces, Bern, Switzerland.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Cardona
+        </lastname>
+        <forename>
+         I
+        </forename>
+        <initials>
+         I
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0002-8645-9626
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Gynaecology and Obstetrics, Spitalzentrum Biel, Biel, Switzerland.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Morand
+        </lastname>
+        <forename>
+         G B
+        </forename>
+        <initials>
+         GB
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0002-6150-6772
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Military Medical Services, Swiss Armed Forces, Bern, Switzerland gregoire.morand@mail.mcgill.ca.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Department of Otorhinolaryngology - Head &amp; Neck Surgery, University Hospital Zurich, Zurich, Switzerland.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          University of Zurich, Zurich, Switzerland.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        16
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       England
+      </country>
+      <medlineta>
+       BMJ Mil Health
+      </medlineta>
+      <nlmuniqueid>
+       101761581
+      </nlmuniqueid>
+      <issnlinking>
+       2633-3767
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       epidemiology
+      </keyword>
+      <keyword majortopicyn="N">
+       infection control
+      </keyword>
+      <keyword majortopicyn="N">
+       public health
+      </keyword>
+     </keywordlist>
+     <coistatement>
+      Competing interests: None declared.
+     </coistatement>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        02
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="revised">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        02
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        03
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32303575
+      </articleid>
+      <articleid idtype="pii">
+       bmjmilitary-2020-001482
+      </articleid>
+      <articleid idtype="doi">
+       10.1136/bmjmilitary-2020-001482
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32303497
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       18
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1473-4893
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          17
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Clinical medicine (London, England)
+       </title>
+       <isoabbreviation>
+        Clin Med (Lond)
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Chloroquine and COVID-19 - a potential game changer?
+      </articletitle>
+      <elocationid eidtype="pii" validyn="Y">
+       clinmed.2020-0129
+      </elocationid>
+      <elocationid eidtype="doi" validyn="Y">
+       10.7861/clinmed.2020-0129
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        The novel coronavirus SARS-CoV-2, causing the disease COVID-19, first emerged in Wuhan, China in December 2019 and has now spread to 203 countries or territories, infected over 2 million people and caused over 133,000 deaths. There is an urgent need for specific treatments. One potential treatment is chloroquine and its derivatives, including hydroxychloroquine, which have both antiviral and anti-inflammatory effects. These compounds are effective against SARS-CoV-2
+        <i>
+         in vitro
+        </i>
+        , but
+        <i>
+         in vivo
+        </i>
+        data are lacking. Although some encouraging outcomes have been reported, and these results have been received enthusiastically, we recommend careful and critical evaluation of current evidence only when all methods and data are available for peer review. Chloroquine is safe and cheap. However, further evidence from coordinated multicentre trials is required before it can be confidently said whether it is effective against the current pandemic.
+       </abstracttext>
+       <copyrightinformation>
+        © Royal College of Physicians 2020. All rights reserved.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Sturrock
+        </lastname>
+        <forename>
+         Beattie Rh
+        </forename>
+        <initials>
+         BR
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Brighton and Sussex Medical School, Brighton UK and Royal Sussex County Hospital, Brighton, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Chevassut
+        </lastname>
+        <forename>
+         Timothy Jt
+        </forename>
+        <initials>
+         TJ
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Brighton and Sussex Medical School, Brighton UK and consultant haematologist, Royal Sussex County Hospital, Brighton, UK t.chevassut@bsms.ac.uk.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        17
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       England
+      </country>
+      <medlineta>
+       Clin Med (Lond)
+      </medlineta>
+      <nlmuniqueid>
+       101092853
+      </nlmuniqueid>
+      <issnlinking>
+       1470-2118
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       2019-nCoV
+      </keyword>
+      <keyword majortopicyn="N">
+       COVID-19
+      </keyword>
+      <keyword majortopicyn="N">
+       SARS-Cov-2
+      </keyword>
+      <keyword majortopicyn="N">
+       chloroquine
+      </keyword>
+      <keyword majortopicyn="N">
+       coronavirus
+      </keyword>
+     </keywordlist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32303497
+      </articleid>
+      <articleid idtype="pii">
+       clinmed.2020-0129
+      </articleid>
+      <articleid idtype="doi">
+       10.7861/clinmed.2020-0129
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32303365
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       18
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        2340-3284
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          14
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Revista espanola de anestesiologia y reanimacion
+       </title>
+       <isoabbreviation>
+        Rev Esp Anestesiol Reanim
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Two known therapies could be useful as adjuvant therapy in critical patients infected by COVID-19.
+      </articletitle>
+      <elocationid eidtype="pii" validyn="Y">
+       S0034-9356(20)30075-X
+      </elocationid>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1016/j.redar.2020.03.004
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        Pneumonia caused by coronavirus, which originated in Wuhan, China, in late 2019, has been spread around the world already becoming a pandemic. Unfortunately, there is not yet a specific vaccine or effective antiviral drug for treating COVID-19. Many of these patients deteriorate rapidly and require intubation and are mechanically ventilated, which is causing the collapse of the health system in many countries due to lack of ventilators and intensive care beds. In this document we review two simple adjuvant therapies to administer, without side effects, and low cost that could be useful for the treatment of acute severe coronavirus infection associated with acute respiratory syndrome (SARS-CoV-2). VitaminC, a potent antioxidant, has emerged as a relevant therapy due to its potential benefits when administered intravenous. The potential effect of vitaminC in reducing inflammation in the lungs could play a key role in lung injury caused by coronavirus infection. Another potential effective therapy is ozone: it has been extensively studied and used for many years and its effectiveness has been demonstrated so far in multiples studies. Nevertheless, our goal is not to make an exhaustive review of these therapies but spread the beneficial effects themselves. Obviously clinical trials are necessaries, but due to the potential benefit of these two therapies we highly recommended to add to the therapeutic arsenal.
+       </abstracttext>
+       <copyrightinformation>
+        Copyright © 2020 Sociedad Española de Anestesiología, Reanimación y Terapéutica del Dolor. Publicado por Elsevier España, S.L.U. All rights reserved.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Hernández
+        </lastname>
+        <forename>
+         A
+        </forename>
+        <initials>
+         A
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Director Anaesthesia &amp; ICU, Grupo Policlínica, Ibiza, Islas Baleares, España. Electronic address: albimar23@yahoo.es.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Papadakos
+        </lastname>
+        <forename>
+         P J
+        </forename>
+        <initials>
+         PJ
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Director Critical Care Medicine, University of Rochester, Professor Anesthesia, Surgery, Neurology, and Neurosurgery, Rochester, Nueva York, Estados Unidos.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Torres
+        </lastname>
+        <forename>
+         A
+        </forename>
+        <initials>
+         A
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Senior Consultant in Respiratory and Intensive Care Unit, Servei de Pneumologia, Hospital Clínic, Universitat de Barcelona. IDIBAPS, CIBERES, ICREA, Barcelona, España.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         González
+        </lastname>
+        <forename>
+         D A
+        </forename>
+        <initials>
+         DA
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Consultant in Anaesthesia &amp; ICU, Clínica Universitaria de Navarra, Pamplona, España.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Vives
+        </lastname>
+        <forename>
+         M
+        </forename>
+        <initials>
+         M
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Consultant in Anaesthesia &amp; ICU, Hospital Universitari Dr. Josep Trueta, Girona, España.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Ferrando
+        </lastname>
+        <forename>
+         C
+        </forename>
+        <initials>
+         C
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Head of Surgical Intensive Care Unit, Hospital Clínic, Universitat de Barcelona. CIBERES, Barcelona, España.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Baeza
+        </lastname>
+        <forename>
+         J
+        </forename>
+        <initials>
+         J
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Vice president World Federation of Ozone Therapy. Presidente de la Sociedad Española de Ozonoterapia. Profesor de Anatomía humana, Facultad de Medicina, Universidad de Valencia, Valencia, España.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <language>
+       spa
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <vernaculartitle>
+       Dos terapias conocidas podrían ser efectivas como adyuvantes en el paciente crítico infectado por COVID-19.
+      </vernaculartitle>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        14
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       Spain
+      </country>
+      <medlineta>
+       Rev Esp Anestesiol Reanim
+      </medlineta>
+      <nlmuniqueid>
+       0134516
+      </nlmuniqueid>
+      <issnlinking>
+       0034-9356
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       COVID-19
+      </keyword>
+      <keyword majortopicyn="N">
+       Ozone
+      </keyword>
+      <keyword majortopicyn="N">
+       Ozono
+      </keyword>
+      <keyword majortopicyn="N">
+       SARS-CoV-2
+      </keyword>
+      <keyword majortopicyn="N">
+       Vitamin C
+      </keyword>
+      <keyword majortopicyn="N">
+       Vitamina C
+      </keyword>
+     </keywordlist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32303365
+      </articleid>
+      <articleid idtype="pii">
+       S0034-9356(20)30075-X
+      </articleid>
+      <articleid idtype="doi">
+       10.1016/j.redar.2020.03.004
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32303336
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       18
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1988-3013
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          08
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Acta otorrinolaringologica espanola
+       </title>
+       <isoabbreviation>
+        Acta Otorrinolaringol Esp
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Recommendations of the Spanish Society of Otolaryngology and Head and Neck Surgery for performing tracheotomies in patients infected by the coronavirus, Covid-19.
+      </articletitle>
+      <elocationid eidtype="pii" validyn="Y">
+       S0001-6519(20)30042-X
+      </elocationid>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1016/j.otorri.2020.03.001
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        The recent COVID-19 (coronavirus) pandemic is causing an increase in the number of patients who, due to their pulmonary ventilatory status, may require orotracheal intubation. COVID-19 infection has demonstrated a high rate of transmissibility, especially via the respiratory tract and by droplet spread. The Spanish Society of Otolaryngology and Head and Neck Surgery, based on the article by Wei et al. of 2003 regarding tracheotomies performed due to severe acute respiratory syndrome (SARS), has made a series of recommendations for the safe performance of tracheotomies.
+       </abstracttext>
+       <copyrightinformation>
+        Copyright © 2020 Sociedad Española de Otorrinolaringología y Cirugía de Cabeza y Cuello. Publicado por Elsevier España, S.L.U. All rights reserved.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Díaz de Cerio Canduela
+        </lastname>
+        <forename>
+         Pedro
+        </forename>
+        <initials>
+         P
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Hospital San Pedro, Logroño, La Rioja, España. Electronic address: pdiazcerio@gmail.com.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Ferrandis Perepérez
+        </lastname>
+        <forename>
+         Eduardo
+        </forename>
+        <initials>
+         E
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Instituto Valenciano de Oncología, Valencia, España.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Parente Arias
+        </lastname>
+        <forename>
+         Pablo
+        </forename>
+        <initials>
+         P
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Hospital Universitario Lucus Augusti, Lugo, España.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         López Álvarez
+        </lastname>
+        <forename>
+         Fernando
+        </forename>
+        <initials>
+         F
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Hospital Universitario Central de Asturias, Oviedo, Asturias, España.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Sistiaga Suarez
+        </lastname>
+        <forename>
+         Jon Alexander
+        </forename>
+        <initials>
+         JA
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Hospital Universitario Donosti, San Sebastián, Guipúzcoa, España.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <collectivename>
+         en representación de la Comisión de cabeza y cuello y base de cráneo de la SEORL-CCC
+        </collectivename>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <language>
+       spa
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D017065">
+        Practice Guideline
+       </publicationtype>
+      </publicationtypelist>
+      <vernaculartitle>
+       Recomendaciones de la Sociedad Española de Otorrinolaringología y Cirugía de Cabeza y Cuello para la realización de traqueotomías en relación con pacientes infectados por coronavirus COVID-19.
+      </vernaculartitle>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        08
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       Spain
+      </country>
+      <medlineta>
+       Acta Otorrinolaringol Esp
+      </medlineta>
+      <nlmuniqueid>
+       14540260R
+      </nlmuniqueid>
+      <issnlinking>
+       0001-6519
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       Coronavirus
+      </keyword>
+      <keyword majortopicyn="N">
+       Tracheotomy
+      </keyword>
+      <keyword majortopicyn="N">
+       Traqueotomía
+      </keyword>
+     </keywordlist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        21
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        23
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32303336
+      </articleid>
+      <articleid idtype="pii">
+       S0001-6519(20)30042-X
+      </articleid>
+      <articleid idtype="doi">
+       10.1016/j.otorri.2020.03.001
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32303151
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       18
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1096-3669
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          17
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Waste management &amp; research : the journal of the International Solid Wastes and Public Cleansing Association, ISWA
+       </title>
+       <isoabbreviation>
+        Waste Manag Res
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Can the human coronavirus epidemic also spread through solid waste?
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        734242X20918312
+       </medlinepgn>
+      </pagination>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1177/0734242X20918312
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        Wastes generated in healthcare facilities have been discussed and the World Health Organization has proposed a guideline for controlling the spread of the virus that causes Coronavirus Disease 2019 (COVID-19). However, waste management outside the generating facility should be discussed in more detail, taking into account factors such as virus resistance, differences in waste management systems and the climatic conditions in each affected region. Patients infected by human coronavirus being treated at home are generating infected waste possibly discarded as domestic waste, which can pose risks to workers and the environment, depending on the conditions of transport and disposal. In particular, the spread of the coronavirus may be increased by inadequate waste management, highlighting poor handling conditions associated with inappropriate use of personal protective equipment and other unfavourable conditions presented mainly in developing countries.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Mol
+        </lastname>
+        <forename>
+         Marcos Paulo Gomes
+        </forename>
+        <initials>
+         MPG
+        </initials>
+        <identifier source="ORCID">
+         https://orcid.org/0000-0002-2568-3579
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Research Department, Ezequiel Dias Foundation, Belo Horizonte, Brazil.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Caldas
+        </lastname>
+        <forename>
+         Sérgio
+        </forename>
+        <initials>
+         S
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Research Department, Ezequiel Dias Foundation, Belo Horizonte, Brazil.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016422">
+        Letter
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        17
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       England
+      </country>
+      <medlineta>
+       Waste Manag Res
+      </medlineta>
+      <nlmuniqueid>
+       9881064
+      </nlmuniqueid>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       Coronavirus infections
+      </keyword>
+      <keyword majortopicyn="N">
+       communicable diseases
+      </keyword>
+      <keyword majortopicyn="N">
+       environment
+      </keyword>
+      <keyword majortopicyn="N">
+       household waste
+      </keyword>
+      <keyword majortopicyn="N">
+       medical wastes
+      </keyword>
+     </keywordlist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32303151
+      </articleid>
+      <articleid idtype="doi">
+       10.1177/0734242X20918312
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32303023
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       17
+      </day>
+     </daterevised>
+     <article pubmodel="Print">
+      <journal>
+       <issn issntype="Print">
+        0353-5053
+       </issn>
+       <journalissue citedmedium="Print">
+        <volume>
+         32
+        </volume>
+        <issue>
+         1
+        </issue>
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <season>
+          Spring
+         </season>
+        </pubdate>
+       </journalissue>
+       <title>
+        Psychiatria Danubina
+       </title>
+       <isoabbreviation>
+        Psychiatr Danub
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       COVID-19 Pandemia and Public and Global Mental Health from the Perspective of Global Health Securit.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        6-14
+       </medlinepgn>
+      </pagination>
+      <elocationid eidtype="doi" validyn="Y">
+       10.24869/psyd.2020.6
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        The Coronavirus disease 2019 (COVID-19) pandemic emerged in Wuhan, China and has spread all over the world and has caused huge threats to health and lives. It has affected different frontiers of lives and induced many psychiatric individual and collective problems such as panic, anxiety, depression, post-traumatic stress disorders, suspiciousness, infodemia, cacophony, xenophobia, racisms, etc. The COVID-19 outbreak has induced public and global mental health crisis as well as a huge psycho-social experiment. Psychiatry and other mental health sciences can play very useful role in supporting the well-being of COVID-19 patients and their families, healthcare personnel and the society. For successful fighting with present and future pandemics we have to learn more about psychiatric and psychological aspects of COVID-19 from the perspectives of public and global mental health.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Jakovljevic
+        </lastname>
+        <forename>
+         Miro
+        </forename>
+        <initials>
+         M
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Psychiatry and Psychological Medicine, University Hospital Centre Zagreb, Kišpatićeva 12, 10000 Zagreb, Croatia, psychiatry@kbc-zagreb.hr.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Bjedov
+        </lastname>
+        <forename>
+         Sarah
+        </forename>
+        <initials>
+         S
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Jaksic
+        </lastname>
+        <forename>
+         Nenad
+        </forename>
+        <initials>
+         N
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Jakovljevic
+        </lastname>
+        <forename>
+         Ivan
+        </forename>
+        <initials>
+         I
+        </initials>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       Croatia
+      </country>
+      <medlineta>
+       Psychiatr Danub
+      </medlineta>
+      <nlmuniqueid>
+       9424753
+      </nlmuniqueid>
+      <issnlinking>
+       0353-5053
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        18
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        18
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        18
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      ppublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32303023
+      </articleid>
+      <articleid idtype="doi">
+       10.24869/psyd.2020.6
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32303016
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       17
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1752-7163
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          17
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Journal of breath research
+       </title>
+       <isoabbreviation>
+        J Breath Res
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       The scientific rationale for the use of simple masks or improvised face coverings to trap exhaled aerosols and possibly reduce the breathborne spread of COVID-19.
+      </articletitle>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1088/1752-7163/ab8a55
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        The medical community agrees that breathborne infectious materials can be spread with exhaled aerosols and that asymptomatic people, i.e., those showing no symptoms, could be unknowingly infectious. With the current worldwide pandemic of the respiratory coronavirus disease 2019 (COVID-19), various health bodies and governments are recommending that the population wear some form of mask or improvised facial covers while out in public in an effort to reduce the spread of disease . The general concept is that more accessible masks or mask-like materials (scarves, bandanas, etc.) could serve to reduce the amount of infectious aerosol from infected people, and reduce the viral load in the environment. This editorial addresses the underlying scientific rationale that such inexpensive or improvised could indeed serve to reduce the emissions of infectious aerosol by the mechanism of surface adhesion and particle kinetics in addition to the filtration effect.
+       </abstracttext>
+       <copyrightinformation>
+        © 2020 IOP Publishing Ltd.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Pleil
+        </lastname>
+        <forename>
+         Joachim D
+        </forename>
+        <initials>
+         JD
+        </initials>
+        <identifier source="ORCID">
+         0000-0001-8211-0796
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, 27515, UNITED STATES.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Beauchamp
+        </lastname>
+        <forename>
+         Jonathan D
+        </forename>
+        <initials>
+         JD
+        </initials>
+        <identifier source="ORCID">
+         0000-0003-1405-7625
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Sensory Analytics, Fraunhofer IVV, Giggenhauser Strasse 35, Freising, 85354, GERMANY.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Risby
+        </lastname>
+        <forename>
+         Terence H
+        </forename>
+        <initials>
+         TH
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Bloomberg School of Public Health, Johns Hopkins Medical Institutions, 615 North Wolfe Street, Baltimore, Maryland 21205, USA, Baltimore, Maryland, 21205, UNITED STATES.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Dweik
+        </lastname>
+        <forename>
+         Raed A
+        </forename>
+        <initials>
+         RA
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Departments of Pulmonary and Critical Care Medicine / Respiratory Institute, and Pathobiology / Lerner Research Institute, Cleveland Clinic Foundation, cleveland, Ohio, UNITED STATES.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        17
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       England
+      </country>
+      <medlineta>
+       J Breath Res
+      </medlineta>
+      <nlmuniqueid>
+       101463871
+      </nlmuniqueid>
+      <issnlinking>
+       1752-7155
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       COVID-19
+      </keyword>
+      <keyword majortopicyn="N">
+       Coronavirus
+      </keyword>
+      <keyword majortopicyn="N">
+       aerosol
+      </keyword>
+      <keyword majortopicyn="N">
+       improvised facial cover
+      </keyword>
+      <keyword majortopicyn="N">
+       mask
+      </keyword>
+     </keywordlist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        18
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        18
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        18
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32303016
+      </articleid>
+      <articleid idtype="doi">
+       10.1088/1752-7163/ab8a55
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+  </pubmedarticleset>
+ </body>
+</html>

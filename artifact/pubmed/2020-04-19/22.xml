@@ -1,0 +1,1199 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<html>
+ <body>
+  <pubmedarticleset>
+   <pubmedarticle>
+    <medlinecitation indexingmethod="Curated" owner="NLM" status="MEDLINE">
+     <pmid version="1">
+      25344230
+     </pmid>
+     <datecompleted>
+      <year>
+       2015
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       28
+      </day>
+     </datecompleted>
+     <daterevised>
+      <year>
+       2018
+      </year>
+      <month>
+       12
+      </month>
+      <day>
+       02
+      </day>
+     </daterevised>
+     <article pubmodel="Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1471-2105
+       </issn>
+       <journalissue citedmedium="Internet">
+        <volume>
+         15
+        </volume>
+        <pubdate>
+         <year>
+          2014
+         </year>
+         <month>
+          Oct
+         </month>
+         <day>
+          24
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        BMC bioinformatics
+       </title>
+       <isoabbreviation>
+        BMC Bioinformatics
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Network-based analysis of comorbidities risk during an infection: SARS and HIV case studies.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        333
+       </medlinepgn>
+      </pagination>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1186/1471-2105-15-333
+      </elocationid>
+      <abstract>
+       <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+        Infections are often associated to comorbidity that increases the risk of medical conditions which can lead to further morbidity and mortality. SARS is a threat which is similar to MERS virus, but the comorbidity is the key aspect to underline their different impacts. One UK doctor says "I'd rather have HIV than diabetes" as life expectancy among diabetes patients is lower than that of HIV. However, HIV has a comorbidity impact on the diabetes.
+       </abstracttext>
+       <abstracttext label="RESULTS" nlmcategory="RESULTS">
+        We present a quantitative framework to compare and explore comorbidity between diseases. By using neighbourhood based benchmark and topological methods, we have built comorbidity relationships network based on the OMIM and our identified significant genes. Then based on the gene expression, PPI and signalling pathways data, we investigate the comorbidity association of these 2 infective pathologies with other 7 diseases (heart failure, kidney disorder, breast cancer, neurodegenerative disorders, bone diseases, Type 1 and Type 2 diabetes). Phenotypic association is measured by calculating both the Relative Risk as the quantified measures of comorbidity tendency of two disease pairs and the ϕ-correlation to measure the robustness of the comorbidity associations. The differential gene expression profiling strongly suggests that the response of SARS affected patients seems to be mainly an innate inflammatory response and statistically dysregulates a large number of genes, pathways and PPIs subnetworks in different pathologies such as chronic heart failure (21 genes), breast cancer (16 genes) and bone diseases (11 genes). HIV-1 induces comorbidities relationship with many other diseases, particularly strong correlation with the neurological, cancer, metabolic and immunological diseases. Similar comorbidities risk is observed from the clinical information. Moreover, SARS and HIV infections dysregulate 4 genes (ANXA3, GNS, HIST1H1C, RASA3) and 3 genes (HBA1, TFRC, GHITM) respectively that affect the ageing process. It is notable that HIV and SARS similarly dysregulated 11 genes and 3 pathways. Only 4 significantly dysregulated genes are common between SARS-CoV and MERS-CoV, including NFKBIA that is a key regulator of immune responsiveness implicated in susceptibility to infectious and inflammatory diseases.
+       </abstracttext>
+       <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+        Our method presents a ripe opportunity to use data-driven approaches for advancing our current knowledge on disease mechanism and predicting disease comorbidities in a quantitative way.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Moni
+        </lastname>
+        <forename>
+         Mohammad Ali
+        </forename>
+        <initials>
+         MA
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Computer Laboratory, University of Cambridge, William Gates Building, 15 JJ Thomson Avenue, Cambridge CB3 0FD, UK. Mohammad.Moni@cl.cam.ac.uk.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Liò
+        </lastname>
+        <forename>
+         Pietro
+        </forename>
+        <initials>
+         P
+        </initials>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+       <publicationtype ui="D013485">
+        Research Support, Non-U.S. Gov't
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2014
+       </year>
+       <month>
+        10
+       </month>
+       <day>
+        24
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       England
+      </country>
+      <medlineta>
+       BMC Bioinformatics
+      </medlineta>
+      <nlmuniqueid>
+       100965194
+      </nlmuniqueid>
+      <issnlinking>
+       1471-2105
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <meshheadinglist>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D002908">
+        Chronic Disease
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D015897">
+        Comorbidity
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D015658">
+        HIV Infections
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000150">
+        complications
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000453">
+        epidemiology
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000276">
+        immunology
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000821">
+        virology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D015497">
+        HIV-1
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000502">
+        physiology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D006801">
+        Humans
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D060066">
+        Protein Interaction Maps
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D012307">
+        Risk Factors
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D045473">
+        SARS Virus
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000502">
+        physiology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D045169">
+        Severe Acute Respiratory Syndrome
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000150">
+        complications
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000453">
+        epidemiology
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000276">
+        immunology
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000821">
+        virology
+       </qualifiername>
+      </meshheading>
+     </meshheadinglist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2013
+       </year>
+       <month>
+        12
+       </month>
+       <day>
+        30
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2014
+       </year>
+       <month>
+        09
+       </month>
+       <day>
+        19
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2014
+       </year>
+       <month>
+        10
+       </month>
+       <day>
+        26
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2014
+       </year>
+       <month>
+        10
+       </month>
+       <day>
+        26
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2015
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        29
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      epublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       25344230
+      </articleid>
+      <articleid idtype="pii">
+       1471-2105-15-333
+      </articleid>
+      <articleid idtype="doi">
+       10.1186/1471-2105-15-333
+      </articleid>
+      <articleid idtype="pmc">
+       PMC4363349
+      </articleid>
+     </articleidlist>
+     <referencelist>
+      <reference>
+       <citation>
+        PLoS One. 2010;5(1):e8729
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20090954
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Lancet Infect Dis. 2013 May;13(5):436-48
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23531392
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Kidney Int. 2005 Apr;67(4):1622-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15780120
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Blood. 2005 Oct 1;106(7):2366-74
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15860669
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Proc Natl Acad Sci U S A. 2005 Oct 25;102(43):15545-50
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16199517
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Immunol Rev. 2011 Mar;240(1):141-59
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21349092
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Proc Natl Acad Sci U S A. 2007 May 22;104(21):8685-90
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17502601
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Mol Syst Biol. 2009;5:262
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19357641
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        N Engl J Med. 2009 Nov 12;361(20):1935-44
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19815859
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        MBio. 2013;4(3):e00165-13
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23631916
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Crit Rev Oncol Hematol. 2012 Feb;81(2):196-205
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21536452
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Euro Surveill. 2012;17(40):20290
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23078800
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Diabetes Care. 2012 Feb;35(2):299-304
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22266734
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Respirology. 2003 Nov;8 Suppl:S36-40
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15018132
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nucleic Acids Res. 2010 Jul;38(Web Server issue):W239-45
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20525784
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Sci Rep. 2012;2:757
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23091697
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Annu Rev Med. 2011;62:141-55
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21090961
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Virology. 2011 Jan 5;409(1):102-12
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21035159
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Bioinformatics. 2011 Feb 1;27(3):431-2
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21149340
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Am J Med. 2008 Apr;121(4):258-64
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18374680
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Genome Biol. 2005;6(2):R16
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15693945
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nature. 2005 Oct 20;437(7062):1173-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16189514
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Genome Res. 2003 Nov;13(11):2498-504
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         14597658
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nature. 2008 Jul 24;454(7203):428-35
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18650913
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        N Engl J Med. 2012 Nov 8;367(19):1814-20
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23075143
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Curr Pharm Des. 2006;12(9):1023-44
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16515484
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Mech Ageing Dev. 2014 Mar-Apr;136-137:138-47
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         24462698
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Int J Cancer. 2008 Jul 1;123(1):187-94
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18435450
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Immun Ageing. 2014 Mar 19;11(1):4
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         24642138
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Clin Bioinforma. 2014 May 23;4:8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         25045465
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nat Biotechnol. 2007 Mar;25(3):309-16
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17344885
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Med Virol. 2008 Sep;80(9):1507-14
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18649336
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nat Rev Cancer. 2013 May;13(5):357-65
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23612461
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nat Rev Cardiol. 2014 Jun;11(6):335-45
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         24710495
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nucleic Acids Res. 2013 Jan;41(Database issue):D1027-33
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23193293
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Proc Am Thorac Soc. 2008 May 1;5(4):549-55
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18453370
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nucleic Acids Res. 2005 Jan 1;33(Database issue):D514-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15608251
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nucleic Acids Res. 2009 Jan;37(Database issue):D767-72
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18988627
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        BMC Public Health. 2009;9:88
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19320986
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Proc Natl Acad Sci U S A. 2007 Jul 10;104(28):11694-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17609372
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Immunol Rev. 2012 Jan;245(1):209-26
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22168422
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Drug Discov Today. 2012 Dec;17(23-24):1289-98
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22889966
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Clin Endocrinol Metab. 2007 Sep;92(9):3705-11
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17595242
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Clin Pathol. 2007 Dec;60(12):1365-72
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18042692
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Bioinformatics. 2006 May 1;22(9):1096-102
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16481333
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Natl Cancer Inst. 2009 Aug 19;101(16):1120-30
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19648510
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Patholog Res Int. 2011;2011:359242
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21660263
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nucleic Acids Res. 2007 Jan;35(Database issue):D760-5
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17099226
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        BMC Immunol. 2005;6:2
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15655079
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Diabetes Care. 2009 Sep;32(9):1620-5
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19564453
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        PLoS Comput Biol. 2009 Apr;5(4):e1000353
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19360091
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Lancet. 2007 Jul 7;370(9581):59-67
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17617273
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Chest. 2014 Jun;145(6):1244-54
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         24458266
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        PLoS One. 2011;6(7):e22670
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21829475
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Proc Natl Acad Sci U S A. 2008 Jul 22;105(29):9880-5
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18599447
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Curr Opin Pulm Med. 2011 Dec;17 Suppl 1:S21-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22209926
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Behav Brain Sci. 2010 Jun;33(2-3):137-50; discussion 150-93
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20584369
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        PLoS Pathog. 2013;9(7):e1003467
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23853589
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nucleic Acids Res. 2005 Jan 1;33(Database issue):D428-32
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15608231
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Infect Dis Clin North Am. 2010 Mar;24(1):175-202
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20171552
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Stroke. 2009 Oct;40(10):3206-10
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19679842
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Bioinformatics. 2009 Apr 1;25(7):875-81
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19189975
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Proc Natl Acad Sci U S A. 2008 Mar 18;105(11):4323-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18326631
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Hum Mutat. 2011 May;32(5):564-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21472891
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Virol. 2007 Aug;81(16):8692-706
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17537853
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Physiol Genomics. 2009 Aug 7;38(3):233-40
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19336532
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        PLoS Comput Biol. 2010 Feb;6(2):e1000662
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20140234
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        AIDS. 2010 Jun 19;24(10):1415-23
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20495440
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nucleic Acids Res. 2009 Jan;37(Database issue):D793-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18842627
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Infect Dev Ctries. 2013 Jun;7(6):497-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23771295
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        BMC Public Health. 2008;8:221
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18582390
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Expert Rev Anticancer Ther. 2006 Nov;6(11):1553-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17134360
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Cell. 2005 Sep 23;122(6):957-68
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16169070
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Rambam Maimonides Med J. 2013 Apr 30;4(2):e0012
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23908862
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nature. 2007 Oct 4;449(7162):557-63
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17914389
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        PLoS One. 2012;7(3):e32678
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22403694
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Mol Syst Biol. 2009;5:252
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19308092
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        PLoS Genet. 2007 Jun;3(6):e98
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17571925
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        BMC Bioinformatics. 2012;13 Suppl 14:S12
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23095605
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Lancet Infect Dis. 2013 Sep;13(9):752-61
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23891402
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Hum Mutat. 2011 May;32(5):512-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21309042
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nat Rev Genet. 2009 Jan;10(1):43-55
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19092835
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Global Health. 2009 Sep 14;5:9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19751503
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        BMC Bioinformatics. 2006;7 Suppl 5:S19
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17254303
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        BMC Genomics. 2009;10:388
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19698090
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Lancet. 2010 May 1;375(9725):1525-35
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20435227
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        MMWR Recomm Rep. 2010 Aug 6;59(RR-8):1-62
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20689501
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+    </pubmeddata>
+   </pubmedarticle>
+  </pubmedarticleset>
+ </body>
+</html>

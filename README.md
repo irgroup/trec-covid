@@ -43,6 +43,11 @@ python3 query.py
 python3 docker-rm.py
 ```
 
+* Fetch data for 30 topics from PubMed (will be written to `artifact` directory with timestamp)
+```shell script
+python3 fetchPubmedData.py
+```
+
 ## `config.py`
 
 | param | comment |

@@ -1,0 +1,675 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<html>
+ <body>
+  <pubmedarticleset>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32304508
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       18
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1728-7731
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          15
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Journal of the Chinese Medical Association : JCMA
+       </title>
+       <isoabbreviation>
+        J Chin Med Assoc
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Where to buy face masks? Survey of applications using Taiwan's open data in the time of COVID-19.
+      </articletitle>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1097/JCMA.0000000000000325
+      </elocationid>
+      <abstract>
+       <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+        The coronavirus disease 2019 (COVID-19) had spread rapidly since late December 2019. Personal protective equipment was essential to prevent transmission. Owing to shortage of face masks, Taiwan government began to implement quasi rationing on February 6, 2020, by allowing each resident to purchase two masks in seven days. Taiwan National Health Insurance Administration offered online data with real-time updates on face mask availability in all contracted pharmacies and selected local health centers. Based on the open data, numerous software applications quickly emerged to assist the public in finding sales locations efficiently.
+       </abstracttext>
+       <abstracttext label="METHODS" nlmcategory="METHODS">
+        Up until March 15, 2020, the Public Digital Innovation Space of Taiwan government had recorded 134 software applications of face mask availability, and 24 were excluded due to defect, duplicate and unavailability. These applications were analyzed according to platform, developer type, and display mode.
+       </abstracttext>
+       <abstracttext label="RESULTS" nlmcategory="RESULTS">
+        Of the 110 valid software applications, 67 (60.9%) applications were deployed on websites, followed by 21 (19.1%) on social networking sites, 19 (17.3%) as mobile applications, and 3 (2.7%) in other modes. Nearly two thirds (n = 70) of applications were developed by individuals, one third (n = 37) by commercial companies, only two applications by central and local governments, and one by a non-governmental organization. With respect to the display mode, 47 (42.7%) applications adopted map-view only, 41 (37.3%) table-view only, and 19 (17.3%) both modes. Of the remaining three applications, two offered voice user interfaces and one used augmented reality.
+       </abstracttext>
+       <abstracttext label="CONCLUSION" nlmcategory="CONCLUSIONS">
+        Taiwan's open data strategy facilitated rapid development of software applications for information dissemination to the public during the COVID-19 crisis. The transparency of real-time data could help alleviate the panic of the public. The collaborative contributions from the grassroots in disasters were priceless treasures.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Yuan
+        </lastname>
+        <forename>
+         Eunice J
+        </forename>
+        <initials>
+         EJ
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Medical Education, Taipei Veterans General Hospital, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Hsu
+        </lastname>
+        <forename>
+         Chia-An
+        </forename>
+        <initials>
+         CA
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Medical Education, Taipei Veterans General Hospital, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Lee
+        </lastname>
+        <forename>
+         Wui-Chiang
+        </forename>
+        <initials>
+         WC
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Medical Affairs and Planning, Taipei Veterans General Hospital, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          School of Medicine, National Yang-Ming University, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Chen
+        </lastname>
+        <forename>
+         Tzeng-Ji
+        </forename>
+        <initials>
+         TJ
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          School of Medicine, National Yang-Ming University, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Department of Family Medicine, Taipei Veterans General Hospital, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Big Data Center, Department of Medical Research, Taipei Veterans General Hospital, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Chou
+        </lastname>
+        <forename>
+         Li-Fang
+        </forename>
+        <initials>
+         LF
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Public Finance, National Chengchi University, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Hwang
+        </lastname>
+        <forename>
+         Shinn-Jang
+        </forename>
+        <initials>
+         SJ
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          School of Medicine, National Yang-Ming University, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Department of Family Medicine, Taipei Veterans General Hospital, Taipei, Taiwan, ROC.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        15
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       Netherlands
+      </country>
+      <medlineta>
+       J Chin Med Assoc
+      </medlineta>
+      <nlmuniqueid>
+       101174817
+      </nlmuniqueid>
+      <issnlinking>
+       1726-4901
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32304508
+      </articleid>
+      <articleid idtype="doi">
+       10.1097/JCMA.0000000000000325
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32272080
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       09
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        2213-2619
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          06
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        The Lancet. Respiratory medicine
+       </title>
+       <isoabbreviation>
+        Lancet Respir Med
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Intensive care management of coronavirus disease 2019 (COVID-19): challenges and recommendations.
+      </articletitle>
+      <elocationid eidtype="pii" validyn="Y">
+       S2213-2600(20)30161-2
+      </elocationid>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1016/S2213-2600(20)30161-2
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        As coronavirus disease 2019 (COVID-19) spreads across the world, the intensive care unit (ICU) community must prepare for the challenges associated with this pandemic. Streamlining of workflows for rapid diagnosis and isolation, clinical management, and infection prevention will matter not only to patients with COVID-19, but also to health-care workers and other patients who are at risk from nosocomial transmission. Management of acute respiratory failure and haemodynamics is key. ICU practitioners, hospital administrators, governments, and policy makers must prepare for a substantial increase in critical care bed capacity, with a focus not just on infrastructure and supplies, but also on staff management. Critical care triage to allow the rationing of scarce ICU resources might be needed. Researchers must address unanswered questions, including the role of repurposed and experimental therapies. Collaboration at the local, regional, national, and international level offers the best chance of survival for the critically ill.
+       </abstracttext>
+       <copyrightinformation>
+        Copyright Â© 2020 Elsevier Ltd. All rights reserved.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Phua
+        </lastname>
+        <forename>
+         Jason
+        </forename>
+        <initials>
+         J
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Fast and Chronic Programmes, Alexandra Hospital, National University Health System, Singapore; Division of Respiratory and Critical Care Medicine, Department of Medicine, National University Hospital, National University Health System, Singapore. Electronic address: jason_phua@nuhs.edu.sg.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Weng
+        </lastname>
+        <forename>
+         Li
+        </forename>
+        <initials>
+         L
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Medical Intensive Care Unit, Peking Union Medical College Hospital, Beijing, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Ling
+        </lastname>
+        <forename>
+         Lowell
+        </forename>
+        <initials>
+         L
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Anaesthesia and Intensive Care, The Chinese University of Hong Kong, Prince of Wales Hospital, Hong Kong, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Egi
+        </lastname>
+        <forename>
+         Moritoki
+        </forename>
+        <initials>
+         M
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Anesthesiology and Intensive Care Medicine, Kobe University Hospital, Kobe, Japan.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Lim
+        </lastname>
+        <forename>
+         Chae-Man
+        </forename>
+        <initials>
+         CM
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Pulmonary and Critical Care Medicine, Asan Medical Center, University of Ulsan College of Medicine, Seoul, South Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Divatia
+        </lastname>
+        <forename>
+         Jigeeshu Vasishtha
+        </forename>
+        <initials>
+         JV
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Anaesthesia, Critical Care and Pain, Tata Memorial Hospital, Homi Bhabha National Institute, Mumbai, India.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Shrestha
+        </lastname>
+        <forename>
+         Babu Raja
+        </forename>
+        <initials>
+         BR
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Anesthesia and Intensive Care, Kathmandu Medical College Teaching Hospital, Kathmandu, Nepal.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Arabi
+        </lastname>
+        <forename>
+         Yaseen M
+        </forename>
+        <initials>
+         YM
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          King Saud Bin Abdulaziz University for Health Sciences, King Abdullah International Medical Research Center, King Abdulaziz Medical City, Riyadh, Saudi Arabia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Ng
+        </lastname>
+        <forename>
+         Jensen
+        </forename>
+        <initials>
+         J
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Anaesthesiology, Intensive Care and Pain Medicine, Tan Tock Seng Hospital, Singapore.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Gomersall
+        </lastname>
+        <forename>
+         Charles D
+        </forename>
+        <initials>
+         CD
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Anaesthesia and Intensive Care, The Chinese University of Hong Kong, Prince of Wales Hospital, Hong Kong, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Nishimura
+        </lastname>
+        <forename>
+         Masaji
+        </forename>
+        <initials>
+         M
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Tokushima Prefectural Central Hospital, Tokushima, Japan.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Koh
+        </lastname>
+        <forename>
+         Younsuck
+        </forename>
+        <initials>
+         Y
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Pulmonary and Critical Care Medicine, Asan Medical Center, University of Ulsan College of Medicine, Seoul, South Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Du
+        </lastname>
+        <forename>
+         Bin
+        </forename>
+        <initials>
+         B
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Medical Intensive Care Unit, Peking Union Medical College Hospital, Beijing, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <collectivename>
+         Asian Critical Care Clinical Trials Group
+        </collectivename>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+       <publicationtype ui="D016454">
+        Review
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        06
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       England
+      </country>
+      <medlineta>
+       Lancet Respir Med
+      </medlineta>
+      <nlmuniqueid>
+       101605555
+      </nlmuniqueid>
+      <issnlinking>
+       2213-2600
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        08
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="revised">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        22
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        23
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        10
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        10
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        10
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32272080
+      </articleid>
+      <articleid idtype="pii">
+       S2213-2600(20)30161-2
+      </articleid>
+      <articleid idtype="doi">
+       10.1016/S2213-2600(20)30161-2
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+  </pubmedarticleset>
+ </body>
+</html>

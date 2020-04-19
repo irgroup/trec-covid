@@ -1,0 +1,3737 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<html>
+ <body>
+  <pubmedarticleset>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32271376
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       09
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1537-6591
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          09
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Clinical infectious diseases : an official publication of the Infectious Diseases Society of America
+       </title>
+       <isoabbreviation>
+        Clin. Infect. Dis.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Factors associated with prolonged viral RNA shedding in patients with COVID-19.
+      </articletitle>
+      <elocationid eidtype="pii" validyn="Y">
+       ciaa351
+      </elocationid>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1093/cid/ciaa351
+      </elocationid>
+      <abstract>
+       <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+        An outbreak of coronavirus disease 2019 (COVID-19) is becoming a public health emergency. Data are limited on the duration and host factors related to viral shedding.
+       </abstracttext>
+       <abstracttext label="METHODS" nlmcategory="METHODS">
+        In this retrospective study, risk factors associated with severe acute respiratory coronavirus 2 (SARS-CoV-2) RNA shedding were evaluated in a cohort of 113 symptomatic patients from two hospitals outside Wuhan.
+       </abstracttext>
+       <abstracttext label="RESULTS" nlmcategory="RESULTS">
+        The median duration of SARS-CoV-2 RNA detection was 17 days (Interquartile Range [IQR], 13-22 days) as measured from illness onset. When comparing patients with early (&lt;15 days) and late viral RNA clearance (≥15 days after illness onset), prolonged SARS-CoV-2 RNA shedding was associated with male sex (p=0.009), old age (p=0.033), concomitated with hypertension (p=0.009), delayed admission to hospital after illness onset (p=0.001), severe illness at admission (p=0.049), invasive mechanical ventilation (p=0.006), and corticosteroid treatment (p=0.025). Patients with longer SARS-CoV-2 RNA shedding duration had slower recovery of body temperature (p&lt;0.001) and focal absorption on radiograph images (p&lt;0.001) than patients with early SARS-CoV-2 RNA clearance. Male sex (odds ratio [OR], 3.24 [95% CI, 1.31-8.02]), delayed hospital admission (OR, 1.30 [95% CI, 1.10-1.54]), and invasive mechanical ventilation (OR, 9.88 [95% CI, 1.11-88.02]) were independent risk factors for prolonged SARS-CoV-2 RNA shedding.
+       </abstracttext>
+       <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+        Male sex, delayed admission to hospital after illness onset, and invasive mechanical ventilation were associated with prolonged SARS-CoV-2 RNA shedding. Hospital admission and general treatments should be started as soon as possible in symptomatic COVID-19 patients, especially male patients.
+       </abstracttext>
+       <copyrightinformation>
+        © The Author(s) 2020. Published by Oxford University Press for the Infectious Diseases Society of America.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Xu
+        </lastname>
+        <forename>
+         Kaijin
+        </forename>
+        <initials>
+         K
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Chen
+        </lastname>
+        <forename>
+         Yanfei
+        </forename>
+        <initials>
+         Y
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Yuan
+        </lastname>
+        <forename>
+         Jing
+        </forename>
+        <initials>
+         J
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Diagnosis and Treatment of Infectious Diseases Research Laboratory, Shenzhen Third People's Hospital, Shenzhen, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Yi
+        </lastname>
+        <forename>
+         Ping
+        </forename>
+        <initials>
+         P
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Ding
+        </lastname>
+        <forename>
+         Cheng
+        </forename>
+        <initials>
+         C
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Wu
+        </lastname>
+        <forename>
+         Wenrui
+        </forename>
+        <initials>
+         W
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Li
+        </lastname>
+        <forename>
+         Yongtao
+        </forename>
+        <initials>
+         Y
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Ni
+        </lastname>
+        <forename>
+         Qin
+        </forename>
+        <initials>
+         Q
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Zou
+        </lastname>
+        <forename>
+         Rongrong
+        </forename>
+        <initials>
+         R
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Diagnosis and Treatment of Infectious Diseases Research Laboratory, Shenzhen Third People's Hospital, Shenzhen, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Li
+        </lastname>
+        <forename>
+         Xiaohe
+        </forename>
+        <initials>
+         X
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Diagnosis and Treatment of Infectious Diseases Research Laboratory, Shenzhen Third People's Hospital, Shenzhen, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Xu
+        </lastname>
+        <forename>
+         Min
+        </forename>
+        <initials>
+         M
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Zhang
+        </lastname>
+        <forename>
+         Ying
+        </forename>
+        <initials>
+         Y
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Zhao
+        </lastname>
+        <forename>
+         Hong
+        </forename>
+        <initials>
+         H
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Zhang
+        </lastname>
+        <forename>
+         Xuan
+        </forename>
+        <initials>
+         X
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Yu
+        </lastname>
+        <forename>
+         Liang
+        </forename>
+        <initials>
+         L
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Su
+        </lastname>
+        <forename>
+         Junwei
+        </forename>
+        <initials>
+         J
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Lang
+        </lastname>
+        <forename>
+         Guanjing
+        </forename>
+        <initials>
+         G
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Liu
+        </lastname>
+        <forename>
+         Jun
+        </forename>
+        <initials>
+         J
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Wu
+        </lastname>
+        <forename>
+         Xiaoxin
+        </forename>
+        <initials>
+         X
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Guo
+        </lastname>
+        <forename>
+         Yongzheng
+        </forename>
+        <initials>
+         Y
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Tao
+        </lastname>
+        <forename>
+         Jingjing
+        </forename>
+        <initials>
+         J
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Shi
+        </lastname>
+        <forename>
+         Ding
+        </forename>
+        <initials>
+         D
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Yu
+        </lastname>
+        <forename>
+         Ling
+        </forename>
+        <initials>
+         L
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Cao
+        </lastname>
+        <forename>
+         Qing
+        </forename>
+        <initials>
+         Q
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Ruan
+        </lastname>
+        <forename>
+         Bing
+        </forename>
+        <initials>
+         B
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Liu
+        </lastname>
+        <forename>
+         Lei
+        </forename>
+        <initials>
+         L
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Diagnosis and Treatment of Infectious Diseases Research Laboratory, Shenzhen Third People's Hospital, Shenzhen, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Wang
+        </lastname>
+        <forename>
+         Zhaoqin
+        </forename>
+        <initials>
+         Z
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Diagnosis and Treatment of Infectious Diseases Research Laboratory, Shenzhen Third People's Hospital, Shenzhen, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Xu
+        </lastname>
+        <forename>
+         Yan
+        </forename>
+        <initials>
+         Y
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Liu
+        </lastname>
+        <forename>
+         Yingxia
+        </forename>
+        <initials>
+         Y
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Diagnosis and Treatment of Infectious Diseases Research Laboratory, Shenzhen Third People's Hospital, Shenzhen, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Sheng
+        </lastname>
+        <forename>
+         Jifang
+        </forename>
+        <initials>
+         J
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Li
+        </lastname>
+        <forename>
+         Lanjuan
+        </forename>
+        <initials>
+         L
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, Collaborative Innovation Center for Diagnosis and Treatment of Infectious Diseases, Department of Infectious Diseases, The First Affiliated Hospital, College of Medicine, Zhejiang University.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        09
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       United States
+      </country>
+      <medlineta>
+       Clin Infect Dis
+      </medlineta>
+      <nlmuniqueid>
+       9203213
+      </nlmuniqueid>
+      <issnlinking>
+       1058-4838
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       COVID-19
+      </keyword>
+      <keyword majortopicyn="N">
+       Coronavirus
+      </keyword>
+      <keyword majortopicyn="N">
+       SARS-COV-2
+      </keyword>
+      <keyword majortopicyn="N">
+       risk factors
+      </keyword>
+      <keyword majortopicyn="N">
+       viral shedding
+      </keyword>
+     </keywordlist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2020
+       </year>
+       <month>
+        02
+       </month>
+       <day>
+        27
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        10
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        10
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        10
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32271376
+      </articleid>
+      <articleid idtype="pii">
+       5818308
+      </articleid>
+      <articleid idtype="doi">
+       10.1093/cid/ciaa351
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="MEDLINE">
+     <pmid version="1">
+      32265220
+     </pmid>
+     <datecompleted>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       10
+      </day>
+     </datecompleted>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       10
+      </day>
+     </daterevised>
+     <article pubmodel="Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1756-1833
+       </issn>
+       <journalissue citedmedium="Internet">
+        <volume>
+         369
+        </volume>
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          04
+         </month>
+         <day>
+          07
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        BMJ (Clinical research ed.)
+       </title>
+       <isoabbreviation>
+        BMJ
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Prediction models for diagnosis and prognosis of covid-19 infection: systematic review and critical appraisal.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        m1328
+       </medlinepgn>
+      </pagination>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1136/bmj.m1328
+      </elocationid>
+      <abstract>
+       <abstracttext label="OBJECTIVE">
+        To review and critically appraise published and preprint reports of prediction models for diagnosing coronavirus disease 2019 (covid-19) in patients with suspected infection, for prognosis of patients with covid-19, and for detecting people in the general population at risk of being admitted to hospital for covid-19 pneumonia.
+       </abstracttext>
+       <abstracttext label="DESIGN">
+        Rapid systematic review and critical appraisal.
+       </abstracttext>
+       <abstracttext label="DATA SOURCES">
+        PubMed and Embase through Ovid, Arxiv, medRxiv, and bioRxiv up to 24 March 2020.
+       </abstracttext>
+       <abstracttext label="STUDY SELECTION">
+        Studies that developed or validated a multivariable covid-19 related prediction model.
+       </abstracttext>
+       <abstracttext label="DATA EXTRACTION">
+        At least two authors independently extracted data using the CHARMS (critical appraisal and data extraction for systematic reviews of prediction modelling studies) checklist; risk of bias was assessed using PROBAST (prediction model risk of bias assessment tool).
+       </abstracttext>
+       <abstracttext label="RESULTS">
+        2696 titles were screened, and 27 studies describing 31 prediction models were included. Three models were identified for predicting hospital admission from pneumonia and other events (as proxy outcomes for covid-19 pneumonia) in the general population; 18 diagnostic models for detecting covid-19 infection (13 were machine learning based on computed tomography scans); and 10 prognostic models for predicting mortality risk, progression to severe disease, or length of hospital stay. Only one study used patient data from outside of China. The most reported predictors of presence of covid-19 in patients with suspected disease included age, body temperature, and signs and symptoms. The most reported predictors of severe prognosis in patients with covid-19 included age, sex, features derived from computed tomography scans, C reactive protein, lactic dehydrogenase, and lymphocyte count. C index estimates ranged from 0.73 to 0.81 in prediction models for the general population (reported for all three models), from 0.81 to more than 0.99 in diagnostic models (reported for 13 of the 18 models), and from 0.85 to 0.98 in prognostic models (reported for six of the 10 models). All studies were rated at high risk of bias, mostly because of non-representative selection of control patients, exclusion of patients who had not experienced the event of interest by the end of the study, and high risk of model overfitting. Reporting quality varied substantially between studies. Most reports did not include a description of the study population or intended use of the models, and calibration of predictions was rarely assessed.
+       </abstracttext>
+       <abstracttext label="CONCLUSION">
+        Prediction models for covid-19 are quickly entering the academic literature to support medical decision making at a time when they are urgently needed. This review indicates that proposed models are poorly reported, at high risk of bias, and their reported performance is probably optimistic. Immediate sharing of well documented individual participant data from covid-19 studies is needed for collaborative efforts to develop more rigorous prediction models and validate existing ones. The predictors identified in included studies could be considered as candidate predictors for new models. Methodological guidance should be followed because unreliable predictions could cause more harm than benefit in guiding clinical decisions. Finally, studies should adhere to the TRIPOD (transparent reporting of a multivariable prediction model for individual prognosis or diagnosis) reporting guideline.
+       </abstracttext>
+       <abstracttext label="SYSTEMATIC REVIEW REGISTRATION">
+        Protocol https://osf.io/ehc47/, registration https://osf.io/wy245.
+       </abstracttext>
+       <copyrightinformation>
+        © Author(s) (or their employer(s)) 2019. Re-use permitted under CC BY. No commercial re-use. See rights and permissions. Published by BMJ.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Wynants
+        </lastname>
+        <forename>
+         Laure
+        </forename>
+        <initials>
+         L
+        </initials>
+        <identifier source="ORCID">
+         0000-0002-3037-122X
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Epidemiology, CAPHRI Care and Public Health Research Institute, Maastricht University, Peter Debyeplein 1, 6229 HA Maastricht, Netherlands laure.wynants@maastrichtuniversity.nl.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Department of Development and Regeneration, KU Leuven, Leuven, Belgium.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Van Calster
+        </lastname>
+        <forename>
+         Ben
+        </forename>
+        <initials>
+         B
+        </initials>
+        <identifier source="ORCID">
+         0000-0003-1613-7450
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Development and Regeneration, KU Leuven, Leuven, Belgium.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Department of Biomedical Data Sciences, Leiden University Medical Centre, Leiden, Netherlands.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Bonten
+        </lastname>
+        <forename>
+         Marc M J
+        </forename>
+        <initials>
+         MMJ
+        </initials>
+        <identifier source="ORCID">
+         0000-0002-9095-9201
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Julius Center for Health Sciences and Primary Care, University Medical Centre Utrecht, Utrecht University, Utrecht, Netherlands.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Department of Medical Microbiology, University Medical Centre Utrecht, Utrecht, Netherlands.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Collins
+        </lastname>
+        <forename>
+         Gary S
+        </forename>
+        <initials>
+         GS
+        </initials>
+        <identifier source="ORCID">
+         0000-0002-2772-2316
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Centre for Statistics in Medicine, Nuffield Department of Orthopaedics, Musculoskeletal Sciences, University of Oxford, Oxford, UK.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          NIHR Oxford Biomedical Research Centre, John Radcliffe Hospital, Oxford, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Debray
+        </lastname>
+        <forename>
+         Thomas P A
+        </forename>
+        <initials>
+         TPA
+        </initials>
+        <identifier source="ORCID">
+         0000-0002-1790-2719
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Julius Center for Health Sciences and Primary Care, University Medical Centre Utrecht, Utrecht University, Utrecht, Netherlands.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Cochrane Netherlands, University Medical Centre Utrecht, Utrecht University, Utrecht, Netherlands.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         De Vos
+        </lastname>
+        <forename>
+         Maarten
+        </forename>
+        <initials>
+         M
+        </initials>
+        <identifier source="ORCID">
+         0000-0002-3482-5145
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Development and Regeneration, KU Leuven, Leuven, Belgium.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Department of Electrical Engineering, ESAT Stadius, KU Leuven, Leuven, Belgium.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Haller
+        </lastname>
+        <forename>
+         Maria C
+        </forename>
+        <initials>
+         MC
+        </initials>
+        <identifier source="ORCID">
+         0000-0003-4635-6291
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Section for Clinical Biometrics, Centre for Medical Statistics, Informatics and Intelligent Systems, Medical University of Vienna, Vienna, Austria.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Ordensklinikum Linz, Hospital Elisabethinen, Department of Nephrology, Linz, Austria.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Heinze
+        </lastname>
+        <forename>
+         Georg
+        </forename>
+        <initials>
+         G
+        </initials>
+        <identifier source="ORCID">
+         0000-0003-1147-8491
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Section for Clinical Biometrics, Centre for Medical Statistics, Informatics and Intelligent Systems, Medical University of Vienna, Vienna, Austria.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Moons
+        </lastname>
+        <forename>
+         Karel G M
+        </forename>
+        <initials>
+         KGM
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Julius Center for Health Sciences and Primary Care, University Medical Centre Utrecht, Utrecht University, Utrecht, Netherlands.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Cochrane Netherlands, University Medical Centre Utrecht, Utrecht University, Utrecht, Netherlands.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Riley
+        </lastname>
+        <forename>
+         Richard D
+        </forename>
+        <initials>
+         RD
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Centre for Prognosis Research, School of Primary, Community and Social Care, Keele University, Keele, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Schuit
+        </lastname>
+        <forename>
+         Ewoud
+        </forename>
+        <initials>
+         E
+        </initials>
+        <identifier source="ORCID">
+         0000-0002-9548-3214
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Julius Center for Health Sciences and Primary Care, University Medical Centre Utrecht, Utrecht University, Utrecht, Netherlands.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Cochrane Netherlands, University Medical Centre Utrecht, Utrecht University, Utrecht, Netherlands.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Smits
+        </lastname>
+        <forename>
+         Luc J M
+        </forename>
+        <initials>
+         LJM
+        </initials>
+        <identifier source="ORCID">
+         0000-0003-0785-1345
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Epidemiology, CAPHRI Care and Public Health Research Institute, Maastricht University, Peter Debyeplein 1, 6229 HA Maastricht, Netherlands.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Snell
+        </lastname>
+        <forename>
+         Kym I E
+        </forename>
+        <initials>
+         KIE
+        </initials>
+        <identifier source="ORCID">
+         0000-0001-9373-6591
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Centre for Prognosis Research, School of Primary, Community and Social Care, Keele University, Keele, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Steyerberg
+        </lastname>
+        <forename>
+         Ewout W
+        </forename>
+        <initials>
+         EW
+        </initials>
+        <identifier source="ORCID">
+         0000-0002-7787-0122
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Biomedical Data Sciences, Leiden University Medical Centre, Leiden, Netherlands.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Wallisch
+        </lastname>
+        <forename>
+         Christine
+        </forename>
+        <initials>
+         C
+        </initials>
+        <identifier source="ORCID">
+         0000-0003-3943-6234
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Section for Clinical Biometrics, Centre for Medical Statistics, Informatics and Intelligent Systems, Medical University of Vienna, Vienna, Austria.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Charité Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, Berlin, Germany.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Berlin Institute of Health, Berlin, Germany.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         van Smeden
+        </lastname>
+        <forename>
+         Maarten
+        </forename>
+        <initials>
+         M
+        </initials>
+        <identifier source="ORCID">
+         0000-0002-5529-1541
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Julius Center for Health Sciences and Primary Care, University Medical Centre Utrecht, Utrecht University, Utrecht, Netherlands.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <grantlist completeyn="Y">
+       <grant>
+        <acronym>
+         CRUK_
+        </acronym>
+        <agency>
+         Cancer Research UK
+        </agency>
+        <country>
+         United Kingdom
+        </country>
+       </grant>
+      </grantlist>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+       <publicationtype ui="D013485">
+        Research Support, Non-U.S. Gov't
+       </publicationtype>
+       <publicationtype ui="D000078182">
+        Systematic Review
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        07
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       England
+      </country>
+      <medlineta>
+       BMJ
+      </medlineta>
+      <nlmuniqueid>
+       8900488
+      </nlmuniqueid>
+      <issnlinking>
+       0959-8138
+      </issnlinking>
+     </medlinejournalinfo>
+     <supplmeshlist>
+      <supplmeshname type="Disease" ui="C000657245">
+       COVID-19
+      </supplmeshname>
+     </supplmeshlist>
+     <citationsubset>
+      AIM
+     </citationsubset>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <commentscorrectionslist>
+      <commentscorrections reftype="CommentIn">
+       <refsource>
+        BMJ. 2020 Apr 14;369:m1464
+       </refsource>
+       <pmid version="1">
+        32291266
+       </pmid>
+      </commentscorrections>
+     </commentscorrectionslist>
+     <meshheadinglist>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D017934">
+        Coronavirus
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D018352">
+        Coronavirus Infections
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000175">
+        diagnosis
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D018450">
+        Disease Progression
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D006760">
+        Hospitalization
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000706">
+        statistics &amp; numerical data
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D006801">
+        Humans
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D008962">
+        Models, Theoretical
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D015999">
+        Multivariate Analysis
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D058873">
+        Pandemics
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D011024">
+        Pneumonia, Viral
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000175">
+        diagnosis
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D011379">
+        Prognosis
+       </descriptorname>
+      </meshheading>
+     </meshheadinglist>
+     <coistatement>
+      Competing interests: All authors have completed the ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf and declare: no support from any organisation for the submitted work; no competing interests with regards to the submitted work; LW discloses support from Research Foundation–Flanders (FWO); RDR reports personal fees as a statistics editor for The BMJ (since 2009), consultancy fees for Roche for giving meta-analysis teaching and advice in October 2018, and personal fees for delivering in-house training courses at Barts and The London School of Medicine and Dentistry, and also the Universities of Aberdeen, Exeter, and Leeds, all outside the submitted work.
+     </coistatement>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        31
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        9
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        9
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        11
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      epublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32265220
+      </articleid>
+      <articleid idtype="doi">
+       10.1136/bmj.m1328
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32244041
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       17
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1096-1208
+       </issn>
+       <journalissue citedmedium="Internet">
+        <volume>
+         144
+        </volume>
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Mar
+         </month>
+         <day>
+          31
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Microbial pathogenesis
+       </title>
+       <isoabbreviation>
+        Microb. Pathog.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Shell disorder analysis predicts greater resilience of the SARS-CoV-2 (COVID-19) outside the body and in body fluids.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        104177
+       </medlinepgn>
+      </pagination>
+      <elocationid eidtype="pii" validyn="Y">
+       S0882-4010(20)30464-2
+      </elocationid>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1016/j.micpath.2020.104177
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        The coronavirus (CoV) family consists of viruses that infects a variety of animals including humans with various levels of respiratory and fecal-oral transmission levels depending on the behavior of the viruses' natural hosts and optimal viral fitness. A model to classify and predict the levels of respective respiratory and fecal-oral transmission potentials of the various viruses was built before the outbreak of MERS-CoV using AI and empirically-based molecular tools to predict the disorder level of proteins. Using the percentages of intrinsic disorder (PID) of the nucleocapsid (N) and membrane (M) proteins of CoV, the model easily clustered the viruses into three groups with the SARS-CoV (M PID = 8%, N PID = 50%) falling into Category B, in which viruses have intermediate levels of both respiratory and fecal-oral transmission potentials. Later, MERS-CoV (M PID = 9%, N PID = 44%) was found to be in Category C, which consists of viruses with lower respiratory transmission potential but with higher fecal-oral transmission capabilities. Based on the peculiarities of disorder distribution, the SARS-CoV-2 (M PID = 6%, N PID = 48%) has to be placed in Category B. Our data show however, that the SARS-CoV-2 is very strange with one of the hardest protective outer shell, (M PID = 6%) among coronaviruses. This means that it might be expected to be highly resilient in saliva or other body fluids and outside the body. An infected body is likelier to shed greater numbers of viral particles since the latter is more resistant to antimicrobial enzymes in body fluids. These particles are also likelier to remain active longer. These factors could account for the greater contagiousness of the SARS-CoV-2 and have implications for efforts to prevent its spread.
+       </abstracttext>
+       <copyrightinformation>
+        Copyright © 2020 Elsevier Ltd. All rights reserved.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Goh
+        </lastname>
+        <forename>
+         Gerard Kian-Meng
+        </forename>
+        <initials>
+         GK
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Goh's BioComputing, Singapore. Electronic address: gohsbiocomputing@yahoo.com.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Dunker
+        </lastname>
+        <forename>
+         A Keith
+        </forename>
+        <initials>
+         AK
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Center for Computational Biology and Bioinformatics, Indiana University School of Medicine, Indianapolis, IN, USA.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Foster
+        </lastname>
+        <forename>
+         James A
+        </forename>
+        <initials>
+         JA
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Biological Sciences, University of Idaho, Moscow, ID, USA; Institute for Bioinformatics and Evolutionary Studies, University of Idaho, Moscow, ID, USA.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Uversky
+        </lastname>
+        <forename>
+         Vladimir N
+        </forename>
+        <initials>
+         VN
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Molecular Medicine, Morsani College of Medicine, University of South Florida, Tampa, FL, USA; Institute for Biological Instrumentation, Russian Academy of Sciences, Pushchino, Moscow region, Russia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        31
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       England
+      </country>
+      <medlineta>
+       Microb Pathog
+      </medlineta>
+      <nlmuniqueid>
+       8606191
+      </nlmuniqueid>
+      <issnlinking>
+       0882-4010
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       COVID
+      </keyword>
+      <keyword majortopicyn="N">
+       CoV
+      </keyword>
+      <keyword majortopicyn="N">
+       Coronavirus
+      </keyword>
+      <keyword majortopicyn="N">
+       Intrinsically disordered protein
+      </keyword>
+      <keyword majortopicyn="N">
+       MERS
+      </keyword>
+      <keyword majortopicyn="N">
+       Membrane
+      </keyword>
+      <keyword majortopicyn="N">
+       Nucleocapsid
+      </keyword>
+      <keyword majortopicyn="N">
+       SARS
+      </keyword>
+      <keyword majortopicyn="N">
+       Spread
+      </keyword>
+     </keywordlist>
+     <coistatement>
+      Declaration of competing interest GKMG. is an independent researcher and the owner of Goh's BioComputing, Singapore. GKMG. has also written a book (“Viral Shapeshifters: Strange Behaviors of HIV and Other Viruses”) on a related subject. The authors have no other potential conflict of interests.
+     </coistatement>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2020
+       </year>
+       <month>
+        02
+       </month>
+       <day>
+        17
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="revised">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        18
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        27
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        4
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        4
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        4
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32244041
+      </articleid>
+      <articleid idtype="pii">
+       S0882-4010(20)30464-2
+      </articleid>
+      <articleid idtype="doi">
+       10.1016/j.micpath.2020.104177
+      </articleid>
+      <articleid idtype="pmc">
+       PMC7118597
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32242340
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       03
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        2005-0399
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          03
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Journal of gynecologic oncology
+       </title>
+       <isoabbreviation>
+        J Gynecol Oncol
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Robot assisted surgery during the COVID-19 pandemic, especially for gynecological cancer: a statement of the Society of European Robotic Gynaecological Surgery (SERGS).
+      </articletitle>
+      <elocationid eidtype="doi" validyn="Y">
+       10.3802/jgo.2020.31.e59
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        All surgery performed in an epicenter of the coronavirus disease 2019 (COVID-19) pandemic, irrespective of the known or suspected severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) status of the patient, should be regarded as high risk and protection of the surgical team at the bedside should be at the highest level. Robot assisted surgery (RAS) may help to reduce hospital stay for patients that urgently need complex-oncological-surgery, thus making room for COVID-19 patients. In comparison to open or conventional laparoscopic surgery, RAS potentially reduces not only contamination with body fluids and surgical gasses of the surgical area but also the number of directly exposed medical staff. A prerequisite is that general surgical precautions under COVID-19 circumstances must be taken, with the addition of prevention of gas leakage: • Use highest protection level III for bedside assistant, but level II for console surgeon. • Reduce the number of staff at the operation room. • Ensure safe and effective gas evacuation. • Reduce the intra-abdominal pressure to 8 mmHg or below. • Minimize electrocautery power and avoid use of ultrasonic sealing devices. • Surgeons should avoid contact outside theater (both in and out of the hospital).
+       </abstracttext>
+       <copyrightinformation>
+        Copyright © 2020. Asian Society of Gynecologic Oncology, Korean Society of Gynecologic Oncology.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Kimmig
+        </lastname>
+        <forename>
+         Rainer
+        </forename>
+        <initials>
+         R
+        </initials>
+        <identifier source="ORCID">
+         https://orcid.org/0000-0003-1118-2199
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Clinic for Obstetrics and Gynecology, Essen University Hospital, Essen, Germany.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Verheijen
+        </lastname>
+        <forename>
+         Rene H M
+        </forename>
+        <initials>
+         RHM
+        </initials>
+        <identifier source="ORCID">
+         https://orcid.org/0000-0002-4951-1018
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Gynaecological Oncology, UMC Utrecht Cancer Center, University Medical Center Utrecht, Utrecht University, Utrecht, The Netherlands. rene.h.m.verheijen@gmail.com.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Rudnicki
+        </lastname>
+        <forename>
+         Martin
+        </forename>
+        <initials>
+         M
+        </initials>
+        <identifier source="ORCID">
+         https://orcid.org/0000-0002-5115-1445
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Obstetrics and Gynecology, Odense University Hospital, Odense, Denmark.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <collectivename>
+         SERGS Council
+        </collectivename>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        03
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       Korea (South)
+      </country>
+      <medlineta>
+       J Gynecol Oncol
+      </medlineta>
+      <nlmuniqueid>
+       101483150
+      </nlmuniqueid>
+      <issnlinking>
+       2005-0380
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       COVID-19
+      </keyword>
+      <keyword majortopicyn="N">
+       Personal Protective Equipment
+      </keyword>
+      <keyword majortopicyn="N">
+       Robot Assisted Surgery
+      </keyword>
+     </keywordlist>
+     <coistatement>
+      No potential conflict of interest relevant to this article was reported.
+     </coistatement>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        01
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        02
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        4
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        4
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        4
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32242340
+      </articleid>
+      <articleid idtype="pii">
+       31.e59
+      </articleid>
+      <articleid idtype="doi">
+       10.3802/jgo.2020.31.e59
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="MEDLINE">
+     <pmid version="1">
+      26608252
+     </pmid>
+     <datecompleted>
+      <year>
+       2016
+      </year>
+      <month>
+       10
+      </month>
+      <day>
+       17
+      </day>
+     </datecompleted>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       07
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1532-2777
+       </issn>
+       <journalissue citedmedium="Internet">
+        <volume>
+         86
+        </volume>
+        <pubdate>
+         <year>
+          2016
+         </year>
+         <month>
+          Jan
+         </month>
+        </pubdate>
+       </journalissue>
+       <title>
+        Medical hypotheses
+       </title>
+       <isoabbreviation>
+        Med. Hypotheses
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Seasonality and selective trends in viral acute respiratory tract infections.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        104-19
+       </medlinepgn>
+      </pagination>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1016/j.mehy.2015.11.005
+      </elocationid>
+      <elocationid eidtype="pii" validyn="Y">
+       S0306-9877(15)00417-X
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        Influenza A and B, and many unrelated viruses including rhinovirus, RSV, adenovirus, metapneumovirus and coronavirus share the same seasonality, since these viral acute respiratory tract infections (vARIs) are much more common in winter than summer. Unfortunately, early investigations that used recycled "pedigree" virus strains seem to have led microbiologists to dismiss the common folk belief that vARIs often follow chilling. Today, incontrovertible evidence shows that ambient temperature dips and host chilling increase the incidence and severity of vARIs. This review considers four possible mechanisms, M1 - 4, that can explain this link: (M1) increased crowding in winter may enhance viral transmission; (M2) lower temperatures may increase the stability of virions outside the body; (M3) chilling may increase host susceptibility; (M4) lower temperatures or host chilling may activate dormant virions. There is little evidence for M1 or M2, which are incompatible with tropical observations. Epidemiological anomalies such as the repeated simultaneous arrival of vARIs over wide geographical areas, the rapid cessation of influenza epidemics, and the low attack rate of influenza within families are compatible with M4, but not M3 (in its simple form). M4 seems to be the main driver of seasonality, but M3 may also play an important role.
+       </abstracttext>
+       <copyrightinformation>
+        Copyright © 2015 Elsevier Ltd. All rights reserved.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Shaw Stewart
+        </lastname>
+        <forename>
+         Patrick D
+        </forename>
+        <initials>
+         PD
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          2 Marsh Cottages, Weston, Berkshire RG20 8JB, UK. Electronic address: Patrick@douglas.co.uk.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2015
+       </year>
+       <month>
+        11
+       </month>
+       <day>
+        06
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       United States
+      </country>
+      <medlineta>
+       Med Hypotheses
+      </medlineta>
+      <nlmuniqueid>
+       7505668
+      </nlmuniqueid>
+      <issnlinking>
+       0306-9877
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <meshheadinglist>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000208">
+        Acute Disease
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D002980">
+        Climate
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D003441">
+        Crowding
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D019317">
+        Evidence-Based Medicine
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D015994">
+        Incidence
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D012141">
+        Respiratory Tract Infections
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D018570">
+        Risk Assessment
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000379">
+        methods
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D012621">
+        Seasons
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D013696">
+        Temperature
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D014777">
+        Virus Diseases
+       </descriptorname>
+      </meshheading>
+     </meshheadinglist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2015
+       </year>
+       <month>
+        08
+       </month>
+       <day>
+        13
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="revised">
+       <year>
+        2015
+       </year>
+       <month>
+        10
+       </month>
+       <day>
+        28
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2015
+       </year>
+       <month>
+        11
+       </month>
+       <day>
+        01
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2015
+       </year>
+       <month>
+        11
+       </month>
+       <day>
+        27
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2015
+       </year>
+       <month>
+        11
+       </month>
+       <day>
+        27
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2016
+       </year>
+       <month>
+        10
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      ppublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       26608252
+      </articleid>
+      <articleid idtype="pii">
+       S0306-9877(15)00417-X
+      </articleid>
+      <articleid idtype="doi">
+       10.1016/j.mehy.2015.11.005
+      </articleid>
+      <articleid idtype="pmc">
+       PMC7116927
+      </articleid>
+     </articleidlist>
+     <referencelist>
+      <reference>
+       <citation>
+        Clin Exp Immunol. 2008 Feb;151(2):359-66
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18062796
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Hyg (Lond). 1968 Sep;66(3):427-37
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         5245224
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Trends Immunol. 2015 Mar;36(3):124-38
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         25704559
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Clin Infect Dis. 2009 Sep 15;49(6):861-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19663691
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Infect. 2004 Oct;49(3):222-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15337339
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Proc Natl Acad Sci U S A. 2015 Jan 20;112(3):827-32
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         25561542
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        FEMS Microbiol Rev. 2006 Jan;30(1):3-16
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16438677
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Biosci Rep. 1984 Aug;4(8):703-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6548651
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Minerva Med. 1949 Apr 21;40(19):565-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18145385
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Lancet. 1997 May 10;349(9062):1341-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         9149695
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 1988 Jun;62(6):2041-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         2835508
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Nature. 1981 Jan 15;289(5794):187-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6256653
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Med Virol. 2008 May;80(5):888-94
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18360902
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Am J Hyg. 1958 Jul;68(1):59-65
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         13559211
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        N Engl J Med. 1950 Feb 16;242(7):235-40
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15404309
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Hyg (Lond). 1981 Feb;86(1):35-47
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         7462597
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Gen Virol. 2004 Sep;85(Pt 9):2567-2575
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15302950
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Br Med J. 1969 Oct 25;4(5677):208-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         5349303
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 2008 Jun;82(11):5650-2
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18367530
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Jpn J Infect Dis. 2010 May;63(3):157-65
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20495266
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Science. 2008 Apr 18;320(5874):340-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18420927
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Infect Dis. 1975 Apr;131(4):467-73
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         163873
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Fam Pract. 2005 Dec;22(6):608-13
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16286463
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Virol J. 2006 Aug 25;3:58
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16934156
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Epidemiol Infect. 1998 Aug;121(1):121-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         9747763
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Appl Physiol (1985). 1985 Feb;58(2):564-70
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         3980358
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Lancet. 2003 Jan 4;361(9351):51-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12517470
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        N Engl J Med. 1963 Oct 31;269:964-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         14056644
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        RNA Biol. 2012 Nov;9(11):1305-10
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23064116
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Proc R Soc Med. 1958 Apr;51(4):267-71
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         13554448
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Bull World Health Organ. 1978;56(6):913-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         310732
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Eur J Epidemiol. 2004;19(10):959-68
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15575355
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        N Engl J Med. 2009 Dec 31;361(27):2619-27
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20042753
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Ann Intern Med. 1960 Oct;53:719-38
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         13718486
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 1983 Jan;45(1):27-35
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6823015
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Arch Virol. 1976;51(4):263-73
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         987765
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Gen Virol. 1980 Jun;48(Pt 2):383-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         7400776
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Postgrad Med J. 1977 May;53(619):251-3
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         876931
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Epidemiol Infect. 2014 Jul;142(7):1375-83
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23906336
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Hyg (Lond). 1961 Dec;59:479-86
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         13904777
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 2012 Dec;86(23):13108-11
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23015703
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Acta Otolaryngol. 2002 Mar;122(2):183-91
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         11936911
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Pediatr Infect Dis J. 2010 May;29(5):480
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20431388
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Hyg (Lond). 1979 Aug;83(1):11-26
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         458138
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Rhinology. 2002 Sep;40(3):109-14
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12357708
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        PLoS One. 2011 Feb 11;6(2):e16796
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21347303
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Br Med Bull. 2002;62:99-111
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12176853
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        PLoS One. 2008 May 07;3(5):e2101
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18461182
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        PLoS One. 2010 Dec 07;5(12):e15140
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21151876
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Clin Infect Dis. 2010 Nov 1;51(9):1033-41
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20887206
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        RNA Biol. 2012 Oct;9(10):1266-74
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22995831
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Hyg (Lond). 1981 Dec;87(3):393-406
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6273469
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Hyg (Lond). 1928 Aug;28(1):33-54
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20474979
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Environ Health. 2014 Mar 28;13(1):22
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         24678699
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Proc Natl Acad Sci U S A. 2009 Mar 3;106(9):3243-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19204283
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Arch Virol. 1986;88(3-4):159-66
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         3707356
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Nature. 2015 Jul 9;523(7559):217-20
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26053121
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Epidemiol Infect. 1987 Aug;99(1):5-54
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         3301379
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Resuscitation. 1998 Oct-Nov;39(1-2):61-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         9918449
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Gen Virol. 1969 Sep;5(2):283-90
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         5347407
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Infect. 2015 Jan;70(1):1-10
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         25246360
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Hyg (Lond). 1965 Sep;63(3):427-39
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         5212843
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Virology. 1984 Oct 15;138(1):103-17
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6388147
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Bacteriol Rev. 1959 Sep;23(3):109-24
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         14419105
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Lancet. 1960 Jan 30;1(7118):239-42
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         13840115
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Med Res. 1919 May;40(1):53-101
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19972480
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        PLoS Pathog. 2007 Oct 19;3(10):1470-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17953482
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Br Med J. 1967 Sep 23;3(5568):767-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6043624
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Diagn Microbiol Infect Dis. 2015 Aug;82(4):292-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         25999242
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Clin Virol. 2015 Mar;64:59-63
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         25728080
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Infect. 2014 Jun;68(6):581-90
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         24491598
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Exp Med. 1931 Apr 30;53(5):733-52
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19869877
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Environ Health Perspect. 2011 Apr;119(4):439-45
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21097384
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Am J Epidemiol. 1987 Sep;126(3):506-15
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         3303918
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 1982 Feb;41(2):353-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         7077746
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Lancet. 1963 Jun 15;1(7294):1301-2
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         13983945
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        BMC Infect Dis. 2010 Aug 25;10:255
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20738878
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 2007 Jun;81(11):5429-36
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17182688
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Rev Infect Dis. 1979 May-Jun;1(3):413-33
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         399362
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Hyg (Lond). 1973 Dec;71(4):657-67
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         4520509
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Lancet Infect Dis. 2009 May;9(5):291-300
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19393959
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 1977 Jan;21(1):24-34
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         833924
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="MEDLINE">
+     <pmid version="1">
+      8186894
+     </pmid>
+     <datecompleted>
+      <year>
+       1994
+      </year>
+      <month>
+       06
+      </month>
+      <day>
+       23
+      </day>
+     </datecompleted>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       03
+      </month>
+      <day>
+       24
+      </day>
+     </daterevised>
+     <article pubmodel="Print">
+      <journal>
+       <issn issntype="Print">
+        0945-6317
+       </issn>
+       <journalissue citedmedium="Print">
+        <volume>
+         424
+        </volume>
+        <issue>
+         3
+        </issue>
+        <pubdate>
+         <year>
+          1994
+         </year>
+        </pubdate>
+       </journalissue>
+       <title>
+        Virchows Archiv : an international journal of pathology
+       </title>
+       <isoabbreviation>
+        Virchows Arch.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Ultrastructure of human nasal epithelium during an episode of coronavirus infection.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        295-300
+       </medlinepgn>
+      </pagination>
+      <abstract>
+       <abstracttext>
+        The nasal epithelium from a young girl was examined by electron microscopy and found to be infected by coronavirus. Virions are seen within and outside the ciliated cells, but not outside or within the goblet cells or other cells of the nasal mucosa. Some virions are located near the microvilli, others in pockets in the apical cell membrane. The cytoplasm contains many small vesicles with a single virion, large apical vesicles containing hundreds of virions, and lysosome-like cytosomes with a moderate number of virions. Some virus-like particles devoid of an electron-dense interior are seen both in the cytosomes and extracellularly. Virus budding was observed in the Golgi apparatus but nowhere else in the cell. The ciliated cells seem not to be destroyed by the viruses, although in many cases the cilia are withdrawn into the cell body. The loss of cilia is likely to cause rhinorrhoea.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Afzelius
+        </lastname>
+        <forename>
+         B A
+        </forename>
+        <initials>
+         BA
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Ultrastructure Research, Stockholm University, Sweden.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D002363">
+        Case Reports
+       </publicationtype>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       Germany
+      </country>
+      <medlineta>
+       Virchows Arch
+      </medlineta>
+      <nlmuniqueid>
+       9423843
+      </nlmuniqueid>
+      <issnlinking>
+       0945-6317
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <meshheadinglist>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D002675">
+        Child, Preschool
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D002923">
+        Cilia
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000648">
+        ultrastructure
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D003333">
+        Coronaviridae Infections
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000473">
+        pathology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D004848">
+        Epithelium
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000382">
+        microbiology
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000648">
+        ultrastructure
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D005260">
+        Female
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D006801">
+        Humans
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D009296">
+        Nasal Cavity
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000382">
+        microbiology
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000648">
+        ultrastructure
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D009668">
+        Nose Diseases
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000382">
+        microbiology
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000473">
+        pathology
+       </qualifiername>
+      </meshheading>
+     </meshheadinglist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        1994
+       </year>
+       <month>
+        1
+       </month>
+       <day>
+        1
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        1994
+       </year>
+       <month>
+        1
+       </month>
+       <day>
+        1
+       </day>
+       <hour>
+        0
+       </hour>
+       <minute>
+        1
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        1994
+       </year>
+       <month>
+        1
+       </month>
+       <day>
+        1
+       </day>
+       <hour>
+        0
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      ppublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       8186894
+      </articleid>
+      <articleid idtype="doi">
+       10.1007/bf00194614
+      </articleid>
+      <articleid idtype="pmc">
+       PMC7087561
+      </articleid>
+     </articleidlist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 1967 Oct;1(5):1019-27
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         5630226
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Gen Virol. 1971 Aug;12(2):161-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         4107843
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Cell Biol. 1965 Jan;24:57-78
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         14286297
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Arch Virol. 1976;52(1-2):101-11
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         187144
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Int Rev Exp Pathol. 1979;19:1-43
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         156703
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Infect Dis. 1982 Jun;145(6):849-53
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6282984
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Ultrastruct Pathol. 1984;7(1):1-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6515742
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Med Virol. 1980;5(3):221-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6262450
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Gen Virol. 1970 Oct;9(1):77-88
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         4098421
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Virol. 1967 Aug;1(4):810-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         4912236
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Proc Natl Acad Sci U S A. 1967 Apr;57(4):933-40
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         5231356
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Eur J Respir Dis. 1982 Nov;63(6):516-25
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6983456
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Arch Gesamte Virusforsch. 1972;38(2):250-66
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         4352305
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Infect Dis. 1974 Nov;130(5):502-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         4371278
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Lung. 1983;161(3):147-56
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6876878
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Am Rev Respir Dis. 1979 Dec;120(6):1313-24
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         517860
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        N Engl J Med. 1985 Feb 21;312(8):463-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         3969108
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Ann Otol Rhinol Laryngol. 1992 Dec;101(12):982-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         1463298
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Rhinology. 1985 Dec;23(4):265-71
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         3001912
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Prog Med Virol. 1969;11:408-50
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         4313721
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Pediatr Pulmonol. 1992 Dec;14(4):201-5
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         1484753
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Lab Invest. 1976 Jun;34(6):539-49
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         933465
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Gen Virol. 1982 Mar;59(Pt 1):23-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         7069405
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Pathol Res Pract. 1984 Jul;178(6):595-604
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6237318
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Lancet. 1980 Sep 13;2(8194):564-5
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6106741
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Acta Otolaryngol. 1984 Mar-Apr;97(3-4):309-18
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6720308
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Virus Res. 1989 May;13(1):15-27
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         2546331
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+    </pubmeddata>
+   </pubmedarticle>
+  </pubmedarticleset>
+ </body>
+</html>

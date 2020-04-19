@@ -1,0 +1,4645 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<html>
+ <body>
+  <pubmedarticleset>
+   <pubmedarticle>
+    <medlinecitation indexingmethod="Curated" owner="NLM" status="MEDLINE">
+     <pmid version="1">
+      30373151
+     </pmid>
+     <datecompleted>
+      <year>
+       2019
+      </year>
+      <month>
+       03
+      </month>
+      <day>
+       01
+      </day>
+     </datecompleted>
+     <daterevised>
+      <year>
+       2019
+      </year>
+      <month>
+       03
+      </month>
+      <day>
+       01
+      </day>
+     </daterevised>
+     <article pubmodel="Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1660-4601
+       </issn>
+       <journalissue citedmedium="Internet">
+        <volume>
+         15
+        </volume>
+        <issue>
+         11
+        </issue>
+        <pubdate>
+         <year>
+          2018
+         </year>
+         <month>
+          10
+         </month>
+         <day>
+          26
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        International journal of environmental research and public health
+       </title>
+       <isoabbreviation>
+        Int J Environ Res Public Health
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Agent-Based Modeling for Super-Spreading Events: A Case Study of MERS-CoV Transmission Dynamics in the Republic of Korea.
+      </articletitle>
+      <elocationid eidtype="pii" validyn="Y">
+       E2369
+      </elocationid>
+      <elocationid eidtype="doi" validyn="Y">
+       10.3390/ijerph15112369
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        Super-spreading events have been observed in the transmission dynamics of many infectious diseases. The 2015 MERS-CoV outbreak in the Republic of Korea has also shown super-spreading events with a significantly high level of heterogeneity in generating secondary cases. It becomes critical to understand the mechanism for this high level of heterogeneity to develop effective intervention strategies and preventive plans for future emerging infectious diseases. In this regard, agent-based modeling is a useful tool for incorporating individual heterogeneity into the epidemic model. In the present work, a stochastic agent-based framework is developed in order to understand the underlying mechanism of heterogeneity. Clinical (i.e., an infectivity level) and social or environmental (i.e., a contact level) heterogeneity are modeled. These factors are incorporated in the transmission rate functions under assumptions that super-spreaders have stronger transmission and/or higher links. Our agent-based model has employed real MERS-CoV epidemic features based on the 2015 MERS-CoV epidemiological data. Monte Carlo simulations are carried out under various epidemic scenarios. Our findings highlight the roles of super-spreaders in a high level of heterogeneity, underscoring that the number of contacts combined with a higher level of infectivity are the most critical factors for substantial heterogeneity in generating secondary cases of the 2015 MERS-CoV transmission.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Kim
+        </lastname>
+        <forename>
+         Yunhwan
+        </forename>
+        <initials>
+         Y
+        </initials>
+        <identifier source="ORCID">
+         0000-0003-1138-6802
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Division of Media Communication, Hankuk University of Foreign Studies, Seoul 02450, Korea. yunhwankim2@gmail.com.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Ryu
+        </lastname>
+        <forename>
+         Hohyung
+        </forename>
+        <initials>
+         H
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Applied Mathematics, Kyung Hee University, Yongin 446-701, Korea. kyinr108@gmail.com.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Lee
+        </lastname>
+        <forename>
+         Sunmi
+        </forename>
+        <initials>
+         S
+        </initials>
+        <identifier source="ORCID">
+         0000-0003-1126-0660
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Applied Mathematics, Kyung Hee University, Yongin 446-701, Korea. sunmilee@khu.ac.kr.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Institute of Natural Sciences, Kyung Hee University, Yongin 446-701, Korea. sunmilee@khu.ac.kr.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+       <publicationtype ui="D013485">
+        Research Support, Non-U.S. Gov't
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2018
+       </year>
+       <month>
+        10
+       </month>
+       <day>
+        26
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       Switzerland
+      </country>
+      <medlineta>
+       Int J Environ Res Public Health
+      </medlineta>
+      <nlmuniqueid>
+       101238455
+      </nlmuniqueid>
+      <issnlinking>
+       1660-4601
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <meshheadinglist>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D050936">
+        Basic Reproduction Number
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D018352">
+        Coronavirus Infections
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000453">
+        epidemiology
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000635">
+        transmission
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D058872">
+        Epidemics
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D015994">
+        Incidence
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D065207">
+        Middle East Respiratory Syndrome Coronavirus
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000502">
+        physiology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D008962">
+        Models, Theoretical
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D009010">
+        Monte Carlo Method
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" type="Geographic" ui="D056910">
+        Republic of Korea
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000453">
+        epidemiology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D013269">
+        Stochastic Processes
+       </descriptorname>
+      </meshheading>
+     </meshheadinglist>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="Y">
+       2015 MERS-CoV
+      </keyword>
+      <keyword majortopicyn="Y">
+       agent-based models
+      </keyword>
+      <keyword majortopicyn="Y">
+       basic reproduction number
+      </keyword>
+      <keyword majortopicyn="Y">
+       isolation interventions
+      </keyword>
+      <keyword majortopicyn="Y">
+       super-spreading events
+      </keyword>
+     </keywordlist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2018
+       </year>
+       <month>
+        09
+       </month>
+       <day>
+        30
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="revised">
+       <year>
+        2018
+       </year>
+       <month>
+        10
+       </month>
+       <day>
+        21
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2018
+       </year>
+       <month>
+        10
+       </month>
+       <day>
+        22
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2018
+       </year>
+       <month>
+        10
+       </month>
+       <day>
+        31
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2018
+       </year>
+       <month>
+        10
+       </month>
+       <day>
+        31
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2019
+       </year>
+       <month>
+        3
+       </month>
+       <day>
+        2
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      epublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       30373151
+      </articleid>
+      <articleid idtype="pii">
+       ijerph15112369
+      </articleid>
+      <articleid idtype="doi">
+       10.3390/ijerph15112369
+      </articleid>
+      <articleid idtype="pmc">
+       PMC6265857
+      </articleid>
+     </articleidlist>
+     <referencelist>
+      <reference>
+       <citation>
+        Nature. 2005 Nov 17;438(7066):293-5
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16292292
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Proc Natl Acad Sci U S A. 1997 Jan 7;94(1):338-42
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         8990210
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Infect Chemother. 2016 Jun;48(2):147-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         27433389
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Spat Spatiotemporal Epidemiol. 2013 Sep;6:59-70
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23973181
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        BMC Med. 2015 Sep 03;13:210
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26336062
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Osong Public Health Res Perspect. 2015 Aug;6(4):269-78
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26473095
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Euro Surveill. 2015 Jun 25;20(25):14-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26132768
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Proc Biol Sci. 2007 Mar 7;274(1610):741-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17255000
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        BMJ Open. 2016 Feb 23;6(2):e009936
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26908522
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Am J Epidemiol. 2004 Oct 15;160(8):719-28
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15466494
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Science. 2005 Aug 12;309(5737):1083-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16079251
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Int J Infect Dis. 2011 Aug;15(8):e510-3
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21737332
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Theor Biol. 2008 Jul 21;253(2):228-37
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18423673
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Osong Public Health Res Perspect. 2016 Feb;7(1):49-55
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26981343
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Emerg Infect Dis. 2004 Feb;10(2):256-60
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15030693
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nature. 2005 Nov 17;438(7066):355-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16292310
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="MEDLINE">
+     <pmid version="1">
+      28378546
+     </pmid>
+     <datecompleted>
+      <year>
+       2017
+      </year>
+      <month>
+       09
+      </month>
+      <day>
+       08
+      </day>
+     </datecompleted>
+     <daterevised>
+      <year>
+       2018
+      </year>
+      <month>
+       11
+      </month>
+      <day>
+       13
+      </day>
+     </daterevised>
+     <article pubmodel="Print">
+      <journal>
+       <issn issntype="Electronic">
+        1598-6357
+       </issn>
+       <journalissue citedmedium="Internet">
+        <volume>
+         32
+        </volume>
+        <issue>
+         5
+        </issue>
+        <pubdate>
+         <year>
+          2017
+         </year>
+         <month>
+          May
+         </month>
+        </pubdate>
+       </journalissue>
+       <title>
+        Journal of Korean medical science
+       </title>
+       <isoabbreviation>
+        J. Korean Med. Sci.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Clinical and Epidemiologic Characteristics of Spreaders of Middle East Respiratory Syndrome Coronavirus during the 2015 Outbreak in Korea.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        744-749
+       </medlinepgn>
+      </pagination>
+      <elocationid eidtype="doi" validyn="Y">
+       10.3346/jkms.2017.32.5.744
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        Nosocomial transmission is an important characteristic of Middle East Respiratory Syndrome Coronavirus (MERS-CoV) infection. Risk factors for transmission of MERS-CoV in healthcare settings are not well defined. During the Korean outbreak in 2015, 186 patients had laboratory-confirmed MERS-CoV infection. Those suspected as a source of viral transmission were categorized into the spreader groups (super-spreader [n = 5] and usual-spreader [n = 10]) and compared to the non-spreader group (n = 171). Body temperature of ≥ 38.5°C (adjusted odds ratio [aOR], 5.54; 95% confidence interval [CI], 1.38-22.30; P = 0.016), pulmonary infiltration of ≥ 3 lung zones (aOR, 7.33; 95% CI, 1.93-27.79; P = 0.003), and a more nonisolated in-hospital days (aOR, 1.32 per 1 day; 95% CI, 1.09-1.60; P = 0.004) were significant risk factors in the spreader group. There was no different clinical factor between super-spreaders and usual-spreaders. Nonisolated in-hospital days was the only factor which tended to be higher in super-spreaders than usual-spreaders (Mean, 6.6 vs. 2.9 days; P = 0.061). Early active quarantine might help reducing the size of an outbreak.
+       </abstracttext>
+       <copyrightinformation>
+        © 2017 The Korean Academy of Medical Sciences.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Kang
+        </lastname>
+        <forename>
+         Chang Kyung
+        </forename>
+        <initials>
+         CK
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0003-1952-072X
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Internal Medicine, Seoul National University College of Medicine, Seoul, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Song
+        </lastname>
+        <forename>
+         Kyoung Ho
+        </forename>
+        <initials>
+         KH
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0002-4517-3840
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Internal Medicine, Seoul National University College of Medicine, Seoul, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Choe
+        </lastname>
+        <forename>
+         Pyoeng Gyun
+        </forename>
+        <initials>
+         PG
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0001-6794-7918
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Internal Medicine, Seoul National University College of Medicine, Seoul, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Park
+        </lastname>
+        <forename>
+         Wan Beom
+        </forename>
+        <initials>
+         WB
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0003-0022-9625
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Internal Medicine, Seoul National University College of Medicine, Seoul, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Bang
+        </lastname>
+        <forename>
+         Ji Hwan
+        </forename>
+        <initials>
+         JH
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0002-7628-1182
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Internal Medicine, Seoul National University College of Medicine, Seoul, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Kim
+        </lastname>
+        <forename>
+         Eu Suk
+        </forename>
+        <initials>
+         ES
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0001-7132-0157
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Internal Medicine, Seoul National University College of Medicine, Seoul, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Park
+        </lastname>
+        <forename>
+         Sang Won
+        </forename>
+        <initials>
+         SW
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0002-0550-1897
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Internal Medicine, Seoul National University College of Medicine, Seoul, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Kim
+        </lastname>
+        <forename>
+         Hong Bin
+        </forename>
+        <initials>
+         HB
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0001-6262-372X
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Internal Medicine, Seoul National University College of Medicine, Seoul, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Kim
+        </lastname>
+        <forename>
+         Nam Joong
+        </forename>
+        <initials>
+         NJ
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0001-6793-9467
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Internal Medicine, Seoul National University College of Medicine, Seoul, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Cho
+        </lastname>
+        <forename>
+         Sung Il
+        </forename>
+        <initials>
+         SI
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0003-4085-1494
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          JW Lee Center for Global Medicine, Seoul National University College of Medicine, Seoul, Korea.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Graduate School of Public Health and Institute of Health and Environment, Seoul National University, Seoul, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Lee
+        </lastname>
+        <forename>
+         Jong Koo
+        </forename>
+        <initials>
+         JK
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0003-4833-1178
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          JW Lee Center for Global Medicine, Seoul National University College of Medicine, Seoul, Korea.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Graduate School of Public Health and Institute of Health and Environment, Seoul National University, Seoul, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Oh
+        </lastname>
+        <forename>
+         Myoung Don
+        </forename>
+        <initials>
+         MD
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0002-2344-7695
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Internal Medicine, Seoul National University College of Medicine, Seoul, Korea.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          JW Lee Center for Global Medicine, Seoul National University College of Medicine, Seoul, Korea. mdohmd@snu.ac.kr.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       Korea (South)
+      </country>
+      <medlineta>
+       J Korean Med Sci
+      </medlineta>
+      <nlmuniqueid>
+       8703518
+      </nlmuniqueid>
+      <issnlinking>
+       1011-8934
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <meshheadinglist>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000328">
+        Adult
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000368">
+        Aged
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D001831">
+        Body Temperature
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D018352">
+        Coronavirus Infections
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000453">
+        epidemiology
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000382">
+        microbiology
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000473">
+        pathology
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000635">
+        transmission
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D003428">
+        Cross Infection
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000453">
+        epidemiology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D004196">
+        Disease Outbreaks
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D005260">
+        Female
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D006801">
+        Humans
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D007902">
+        Length of Stay
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D008168">
+        Lung
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000821">
+        virology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D008297">
+        Male
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D008875">
+        Middle Aged
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D065207">
+        Middle East Respiratory Syndrome Coronavirus
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000302">
+        isolation &amp; purification
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D015999">
+        Multivariate Analysis
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D016017">
+        Odds Ratio
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D056910">
+        Republic of Korea
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000453">
+        epidemiology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D012307">
+        Risk Factors
+       </descriptorname>
+      </meshheading>
+     </meshheadinglist>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       Hospital Infection
+      </keyword>
+      <keyword majortopicyn="N">
+       Infection Transmission
+      </keyword>
+      <keyword majortopicyn="N">
+       Korea
+      </keyword>
+      <keyword majortopicyn="N">
+       MERS-CoV
+      </keyword>
+      <keyword majortopicyn="N">
+       Outbreak
+      </keyword>
+     </keywordlist>
+     <coistatement>
+      The authors have no potential conflicts of interest to disclose.
+     </coistatement>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2016
+       </year>
+       <month>
+        12
+       </month>
+       <day>
+        27
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2017
+       </year>
+       <month>
+        01
+       </month>
+       <day>
+        30
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2017
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        6
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2017
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        6
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2017
+       </year>
+       <month>
+        9
+       </month>
+       <day>
+        9
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      ppublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       28378546
+      </articleid>
+      <articleid idtype="pii">
+       32.744
+      </articleid>
+      <articleid idtype="doi">
+       10.3346/jkms.2017.32.5.744
+      </articleid>
+      <articleid idtype="pmc">
+       PMC5383605
+      </articleid>
+     </articleidlist>
+     <referencelist>
+      <reference>
+       <citation>
+        Lancet. 2016 Sep 3;388(10048):994-1001
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         27402381
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        N Engl J Med. 2012 Nov 8;367 (19):1814-20
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23075143
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        N Engl J Med. 2015 Feb 26;372(9):846-54
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         25714162
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        BMC Med. 2015 Sep 03;13:210
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26336062
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Osong Public Health Res Perspect. 2015 Aug;6(4):269-78
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26473095
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Sci Rep. 2016 May 05;6:25359
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         27146253
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Infect Chemother. 2016 Jun;48(2):145-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         27433388
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Infect Chemother. 2016 Jun;48(2):118-26
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         27433382
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Infect Chemother. 2015 Dec;47(4):247-51
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26788408
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Int J Infect Dis. 2011 Aug;15(8):e510-3
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21737332
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="MEDLINE">
+     <pmid version="1">
+      28153558
+     </pmid>
+     <datecompleted>
+      <year>
+       2017
+      </year>
+      <month>
+       03
+      </month>
+      <day>
+       01
+      </day>
+     </datecompleted>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       07
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1532-2939
+       </issn>
+       <journalissue citedmedium="Internet">
+        <volume>
+         95
+        </volume>
+        <issue>
+         2
+        </issue>
+        <pubdate>
+         <year>
+          2017
+         </year>
+         <month>
+          Feb
+         </month>
+        </pubdate>
+       </journalissue>
+       <title>
+        The Journal of hospital infection
+       </title>
+       <isoabbreviation>
+        J. Hosp. Infect.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Middle East respiratory syndrome coronavirus (MERS-CoV) outbreak in South Korea, 2015: epidemiology, characteristics and public health implications.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        207-213
+       </medlinepgn>
+      </pagination>
+      <elocationid eidtype="pii" validyn="Y">
+       S0195-6701(16)30443-1
+      </elocationid>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1016/j.jhin.2016.10.008
+      </elocationid>
+      <abstract>
+       <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+        Since the first case of Middle East respiratory syndrome coronavirus (MERS-CoV) in South Korea was reported on 20
+        <sup>
+         th
+        </sup>
+        May 2015, there have been 186 confirmed cases, 38 deaths and 16,752 suspected cases. Previously published research on South Korea's MERS outbreak was limited to the early stages, when few data were available. Now that the outbreak has ended, albeit unofficially, a more comprehensive review is appropriate.
+       </abstracttext>
+       <abstracttext label="METHODS" nlmcategory="METHODS">
+        Data were obtained through the MERS portal by the Ministry for Health and Welfare (MOHW) and Korea Centres for Disease Control and Prevention, press releases by MOHW, and reports by the MERS Policy Committee of the Korean Medical Association. Cases were analysed for general characteristics, exposure source, timeline and infection generation. Sex, age and underlying diseases were analysed for the 38 deaths.
+       </abstracttext>
+       <abstracttext label="FINDINGS" nlmcategory="RESULTS">
+        Beginning with the index case that infected 28 others, an in-depth analysis was conducted. The average age was 55 years, which was a little higher than the global average of 50 years. As in most other countries, more men than women were affected. The case fatality rate was 19.9%, which was lower than the global rate of 38.7% and the rate in Saudi Arabia (36.5%). In total, 184 patients were infected nosocomially and there were no community-acquired infections. The main underlying diseases were respiratory diseases, cancer and hypertension. The main contributors to the outbreak were late diagnosis, quarantine failure of 'super spreaders', familial care-giving and visiting, non-disclosure by patients, poor communication by the South Korean Government, inadequate hospital infection management, and 'doctor shopping'. The outbreak was entirely nosocomial, and was largely attributable to infection management and policy failures, rather than biomedical factors.
+       </abstracttext>
+       <copyrightinformation>
+        Copyright © 2016 The Healthcare Infection Society. Published by Elsevier Ltd. All rights reserved.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Kim
+        </lastname>
+        <forename>
+         K H
+        </forename>
+        <initials>
+         KH
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Institute for Occupational and Environmental Health, Korea University, Seoul, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Tandi
+        </lastname>
+        <forename>
+         T E
+        </forename>
+        <initials>
+         TE
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Institute for Occupational and Environmental Health, Korea University, Seoul, Korea; Graduate School of Public Health, Korea University, Seoul, Korea; Department of Preventive Medicine, Korea University College of Medicine, Seoul, Korea; Ministry of Public Health Yaounde, Yaounde, Cameroon.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Choi
+        </lastname>
+        <forename>
+         J W
+        </forename>
+        <initials>
+         JW
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Institute for Occupational and Environmental Health, Korea University, Seoul, Korea; Graduate School of Public Health, Korea University, Seoul, Korea; Department of Preventive Medicine, Korea University College of Medicine, Seoul, Korea; MERS Policy Committee of the Korean Medical Association, Seoul, Korea. Electronic address: shine@korea.ac.kr.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Moon
+        </lastname>
+        <forename>
+         J M
+        </forename>
+        <initials>
+         JM
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Institute for Occupational and Environmental Health, Korea University, Seoul, Korea; Graduate School of Public Health, Korea University, Seoul, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Kim
+        </lastname>
+        <forename>
+         M S
+        </forename>
+        <initials>
+         MS
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Institute for Occupational and Environmental Health, Korea University, Seoul, Korea; Graduate School of Public Health, Korea University, Seoul, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2016
+       </year>
+       <month>
+        10
+       </month>
+       <day>
+        14
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       England
+      </country>
+      <medlineta>
+       J Hosp Infect
+      </medlineta>
+      <nlmuniqueid>
+       8007166
+      </nlmuniqueid>
+      <issnlinking>
+       0195-6701
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <meshheadinglist>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000293">
+        Adolescent
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000328">
+        Adult
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D017677">
+        Age Distribution
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000368">
+        Aged
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000369">
+        Aged, 80 and over
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D018352">
+        Coronavirus Infections
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000453">
+        epidemiology
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000635">
+        transmission
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D003428">
+        Cross Infection
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000453">
+        epidemiology
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000635">
+        transmission
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D004196">
+        Disease Outbreaks
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D018562">
+        Disease Transmission, Infectious
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D005260">
+        Female
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D006801">
+        Humans
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D017053">
+        Infection Control
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000379">
+        methods
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D008297">
+        Male
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D008875">
+        Middle Aged
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D065207">
+        Middle East Respiratory Syndrome Coronavirus
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000302">
+        isolation &amp; purification
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D009026">
+        Mortality
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D056910">
+        Republic of Korea
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000453">
+        epidemiology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D012737">
+        Sex Factors
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D055815">
+        Young Adult
+       </descriptorname>
+      </meshheading>
+     </meshheadinglist>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       Epidemiology
+      </keyword>
+      <keyword majortopicyn="N">
+       MERS-CoV outbreak
+      </keyword>
+      <keyword majortopicyn="N">
+       Public health
+      </keyword>
+      <keyword majortopicyn="N">
+       South Korea
+      </keyword>
+     </keywordlist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2016
+       </year>
+       <month>
+        08
+       </month>
+       <day>
+        24
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2016
+       </year>
+       <month>
+        10
+       </month>
+       <day>
+        07
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2017
+       </year>
+       <month>
+        2
+       </month>
+       <day>
+        6
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2017
+       </year>
+       <month>
+        3
+       </month>
+       <day>
+        3
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2017
+       </year>
+       <month>
+        2
+       </month>
+       <day>
+        4
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      ppublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       28153558
+      </articleid>
+      <articleid idtype="pii">
+       S0195-6701(16)30443-1
+      </articleid>
+      <articleid idtype="doi">
+       10.1016/j.jhin.2016.10.008
+      </articleid>
+      <articleid idtype="pmc">
+       PMC7114867
+      </articleid>
+     </articleidlist>
+     <referencelist>
+      <reference>
+       <citation>
+        Int J Gen Med. 2014 Aug 20;7:417-23
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         25187734
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Trans R Soc Trop Med Hyg. 2015 Sep;109(9):541-2
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26286944
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Western Pac Surveill Response J. 2015 Aug 07;6(3):1-2
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26668758
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Epidemiol Health. 2015 Jul 21;37:e2015033
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26212508
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Int J Infect Dis. 2015 Jul;36:54-5
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26072036
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Nature. 2005 Nov 17;438(7066):355-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16292310
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Emerg Infect Dis. 2004 May;10(5):818-24
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15200814
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Proc Natl Acad Sci U S A. 1997 Jan 7;94(1):338-42
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         8990210
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        BMC Med. 2015 Sep 03;13:210
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26336062
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Int J Infect Dis. 2015 Sep;38:65-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26216766
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        N Engl J Med. 2013 Aug 1;369(5):407-16
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23782161
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Ann Intern Med. 1996 Mar 15;124(6):539-47
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         8597316
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        N Engl J Med. 2015 Feb 26;372(9):846-54
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         25714162
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        BMJ. 2015 Jun 24;350:h3403
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26108610
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Expert Rev Anti Infect Ther. 2015;13(9):1047-50
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26175335
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Postgrad Med J. 2004 Jul;80(945):373-81
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15254300
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Lancet Respir Med. 2015 Jul;3(7):509-10
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26050550
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Lancet. 2015 Sep 5;386(9997):995-1007
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26049252
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="PubMed-not-MEDLINE">
+     <pmid version="1">
+      27940937
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       06
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1537-6591
+       </issn>
+       <journalissue citedmedium="Internet">
+        <volume>
+         64
+        </volume>
+        <issue>
+         5
+        </issue>
+        <pubdate>
+         <year>
+          2017
+         </year>
+         <month>
+          03
+         </month>
+         <day>
+          01
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Clinical infectious diseases : an official publication of the Infectious Diseases Society of America
+       </title>
+       <isoabbreviation>
+        Clin. Infect. Dis.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Risk factors for transmission of Middle East respiratory syndrome coronavirus infection during the 2015 outbreak in South Korea.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        551-557
+       </medlinepgn>
+      </pagination>
+      <elocationid eidtype="pii" validyn="Y">
+       ciw768
+      </elocationid>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1093/cid/ciw768
+      </elocationid>
+      <abstract>
+       <abstracttext label="Background">
+        Transmission heterogeneity was observed during the 2015 South Korean outbreak of Middle East respiratory syndrome coronavirus (MERS-CoV) infection. Only 22 of 186 cases transmitted the infection, and 5 super-spreading events caused 150 transmissions. We investigated the risk factors for MERS-CoV transmission.
+       </abstracttext>
+       <abstracttext label="Methods">
+        Epidemiological reports were used to classify patients as non-spreaders, spreaders (1-4 transmission), or those associated with super-spreading event (≥4 transmissions). Logistic regression analyses were used to evaluate the factors that influenced MERS-CoV transmission.
+       </abstracttext>
+       <abstracttext label="Results">
+        Compared to non-spreaders, spreaders exhibited a longer interval from symptom onset to isolation (7 days vs. 3 days) and more frequent pre-isolation pneumonia diagnoses (68.2% vs. 17.1%). Spreaders also exhibited higher values for pre-isolation contacts (149 vs. 17.5), pre-isolation hospitalization (68.2% vs. 16.5%), and emergency room visits (50% vs. 7.3%). Spreaders exhibited lower cycle thresholds for the upE and ORF1a genes (22.7 vs. 27.2 and 23.7 vs. 27.9, respectively). Transmission was independently associated with the cycle threshold (odds ratio [OR]: 0.84, 95% confidence interval [CI]: 0.75-0.96) and pre-isolation hospitalization or emergency room visits (OR: 6.82, 95% CI: 2.06-22.84). The spreaders with ≥4 transmissions exhibited higher values for pre-isolation contacts (777 vs. 78), pre-isolation emergency room visits (100% vs. 35.3%), and doctor-shopping (100% vs. 47.1%), compared to other spreaders.
+       </abstracttext>
+       <abstracttext label="Conclusions">
+        These findings indicate that transmission is determined by host infectivity and the number of contacts, whereas super-spreading events were determined by the number of contacts and hospital visits. These relationships highlight the importance of rapidly enforcing infection control measures to prevent outbreaks.
+       </abstracttext>
+       <copyrightinformation>
+        © The Author 2016. Published by Oxford University Press for the Infectious Diseases Society of America. All rights reserved. For permissions, e-mail journals.permissions@oup.com.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Kim
+        </lastname>
+        <forename>
+         Seung Woo
+        </forename>
+        <initials>
+         SW
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Division of Epidemic Intelligence Service, Korea Centers for Disease Control and Prevention, Cheongju, Republic of Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Park
+        </lastname>
+        <forename>
+         Jung Wan
+        </forename>
+        <initials>
+         JW
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Division of Epidemic Intelligence Service, Korea Centers for Disease Control and Prevention, Cheongju, Republic of Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Jung
+        </lastname>
+        <forename>
+         Hee-Dong
+        </forename>
+        <initials>
+         HD
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Division of Respiratory Viruses, Center of Infectious Disease, Korea Centers for Disease Control and Prevention, Cheongju, Republic of Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Yang
+        </lastname>
+        <forename>
+         Jeong-Sun
+        </forename>
+        <initials>
+         JS
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Division of Respiratory Viruses, Center of Infectious Disease, Korea Centers for Disease Control and Prevention, Cheongju, Republic of Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Park
+        </lastname>
+        <forename>
+         Yong-Shik
+        </forename>
+        <initials>
+         YS
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Division of Epidemic Intelligence Service, Korea Centers for Disease Control and Prevention, Cheongju, Republic of Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Lee
+        </lastname>
+        <forename>
+         Changhwan
+        </forename>
+        <initials>
+         C
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Division of Epidemic Intelligence Service, Korea Centers for Disease Control and Prevention, Cheongju, Republic of Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Kim
+        </lastname>
+        <forename>
+         Kyung Min
+        </forename>
+        <initials>
+         KM
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Division of Epidemic Intelligence Service, Korea Centers for Disease Control and Prevention, Cheongju, Republic of Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Lee
+        </lastname>
+        <forename>
+         Keon-Joo
+        </forename>
+        <initials>
+         KJ
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Division of Epidemic Intelligence Service, Korea Centers for Disease Control and Prevention, Cheongju, Republic of Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Kwon
+        </lastname>
+        <forename>
+         Donghyok
+        </forename>
+        <initials>
+         D
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Division of Epidemic Intelligence Service, Korea Centers for Disease Control and Prevention, Cheongju, Republic of Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Hur
+        </lastname>
+        <forename>
+         Young Joo
+        </forename>
+        <initials>
+         YJ
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Center for Infectious Disease Control, Korea Centers for Disease Control and Prevention, Cheongju, Republic of Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Choi
+        </lastname>
+        <forename>
+         Bo Youl
+        </forename>
+        <initials>
+         BY
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Preventive Medicine, Hanyang University Medical College, Seoul, Republic of Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Ki
+        </lastname>
+        <forename>
+         Moran
+        </forename>
+        <initials>
+         M
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Cancer Control and Policy, Graduate School of Cancer Science and Policy, National Cancer Center, Goyang, Republic of Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2016
+       </year>
+       <month>
+        12
+       </month>
+       <day>
+        10
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       United States
+      </country>
+      <medlineta>
+       Clin Infect Dis
+      </medlineta>
+      <nlmuniqueid>
+       9203213
+      </nlmuniqueid>
+      <issnlinking>
+       1058-4838
+      </issnlinking>
+     </medlinejournalinfo>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="Y">
+       Middle East respiratory syndrome coronavirus
+      </keyword>
+      <keyword majortopicyn="Y">
+       South Korea
+      </keyword>
+      <keyword majortopicyn="Y">
+       epidemiology
+      </keyword>
+      <keyword majortopicyn="Y">
+       super-spreading event
+      </keyword>
+      <keyword majortopicyn="Y">
+       transmission
+      </keyword>
+     </keywordlist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2016
+       </year>
+       <month>
+        08
+       </month>
+       <day>
+        29
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2016
+       </year>
+       <month>
+        12
+       </month>
+       <day>
+        13
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2016
+       </year>
+       <month>
+        12
+       </month>
+       <day>
+        13
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2016
+       </year>
+       <month>
+        12
+       </month>
+       <day>
+        13
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        1
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      ppublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       27940937
+      </articleid>
+      <articleid idtype="pii">
+       ciw768
+      </articleid>
+      <articleid idtype="doi">
+       10.1093/cid/ciw768
+      </articleid>
+      <articleid idtype="pmc">
+       PMC7108049
+      </articleid>
+     </articleidlist>
+     <referencelist>
+      <reference>
+       <citation>
+        Int J Infect Dis. 2011 Aug;15(8):e510-3
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21737332
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Epidemiol Health. 2015 Sep 17;37:e2015041
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26725225
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Epidemiol Health. 2015 Aug 15;37:e2015036
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26493651
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Emerg Infect Dis. 2015 Nov;21(11):2029-35
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26488195
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Osong Public Health Res Perspect. 2015 Aug;6(4):269-78
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26473095
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Lancet. 2016 Sep 3;388(10048):994-1001
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         27402381
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Clin Infect Dis. 2015 Feb 1;60(3):369-77
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         25323704
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Clin Microbiol Infect. 2016 Oct;22(10):880-886
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         27475739
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        N Engl J Med. 2013 Aug 1;369(5):407-16
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23782161
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        PLoS One. 2012;7(4):e35797
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22563403
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        N Engl J Med. 2015 Feb 26;372(9):846-54
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         25714162
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Epidemiol Health. 2015 Jul 21;37:e2015033
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26212508
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Innov Clin Neurosci. 2012 Nov;9(11-12):42-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23346518
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Emerg Infect Dis. 2004 Feb;10(2):256-60
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15030693
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Epidemiol Health. 2015;37:e2015054
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26971695
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Nature. 2005 Nov 17;438(7066):355-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16292310
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Am J Epidemiol. 2004 Oct 15;160(8):719-28
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15466494
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Clin Infect Dis. 2007 Apr 15;44(8):1017-25
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17366443
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        BMC Med. 2015 Sep 03;13:210
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26336062
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Infect Dis. 2014 Nov 15;210(10):1590-4
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         24837403
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Epidemiol Health. 2015 Nov 14;37:e2015049
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26725226
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Genome Announc. 2015 Aug 13;3(4):
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26272558
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="MEDLINE">
+     <pmid version="1">
+      26468744
+     </pmid>
+     <datecompleted>
+      <year>
+       2016
+      </year>
+      <month>
+       07
+      </month>
+      <day>
+       25
+      </day>
+     </datecompleted>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       09
+      </day>
+     </daterevised>
+     <article pubmodel="Print">
+      <journal>
+       <issn issntype="Electronic">
+        1934-6069
+       </issn>
+       <journalissue citedmedium="Internet">
+        <volume>
+         18
+        </volume>
+        <issue>
+         4
+        </issue>
+        <pubdate>
+         <year>
+          2015
+         </year>
+         <month>
+          Oct
+         </month>
+         <day>
+          14
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Cell host &amp; microbe
+       </title>
+       <isoabbreviation>
+        Cell Host Microbe
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       MERS, SARS, and Ebola: The Role of Super-Spreaders in Infectious Disease.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        398-401
+       </medlinepgn>
+      </pagination>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1016/j.chom.2015.09.013
+      </elocationid>
+      <elocationid eidtype="pii" validyn="Y">
+       S1931-3128(15)00382-0
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        Super-spreading occurs when a single patient infects a disproportionate number of contacts. The 2015 MERS-CoV, 2003 SARS-CoV, and to a lesser extent 2014-15 Ebola virus outbreaks were driven by super-spreaders. We summarize documented super-spreading in these outbreaks, explore contributing factors, and suggest studies to better understand super-spreading.
+       </abstracttext>
+       <copyrightinformation>
+        Copyright © 2015 Elsevier Inc. All rights reserved.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Wong
+        </lastname>
+        <forename>
+         Gary
+        </forename>
+        <initials>
+         G
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing 100101, China; Center for Influenza Research and Early-warning (CASCIRE), Chinese Academy of Sciences, Beijing 100101, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Liu
+        </lastname>
+        <forename>
+         Wenjun
+        </forename>
+        <initials>
+         W
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing 100101, China; Center for Influenza Research and Early-warning (CASCIRE), Chinese Academy of Sciences, Beijing 100101, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Liu
+        </lastname>
+        <forename>
+         Yingxia
+        </forename>
+        <initials>
+         Y
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Shenzhen Key Laboratory of Pathogen and Immunity, Shenzhen Third People's Hospital, Shenzhen 518112, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Zhou
+        </lastname>
+        <forename>
+         Boping
+        </forename>
+        <initials>
+         B
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Shenzhen Key Laboratory of Pathogen and Immunity, Shenzhen Third People's Hospital, Shenzhen 518112, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Bi
+        </lastname>
+        <forename>
+         Yuhai
+        </forename>
+        <initials>
+         Y
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing 100101, China; Center for Influenza Research and Early-warning (CASCIRE), Chinese Academy of Sciences, Beijing 100101, China; Shenzhen Key Laboratory of Pathogen and Immunity, Shenzhen Third People's Hospital, Shenzhen 518112, China. Electronic address: beeyh@im.ac.cn.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Gao
+        </lastname>
+        <forename>
+         George F
+        </forename>
+        <initials>
+         GF
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          CAS Key Laboratory of Pathogenic Microbiology and Immunology, Institute of Microbiology, Chinese Academy of Sciences, Beijing 100101, China; Center for Influenza Research and Early-warning (CASCIRE), Chinese Academy of Sciences, Beijing 100101, China; Shenzhen Key Laboratory of Pathogen and Immunity, Shenzhen Third People's Hospital, Shenzhen 518112, China; Office of Director-General, Chinese Center for Disease Control and Prevention, Beijing 102206, China. Electronic address: gaof@im.ac.cn.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <grantlist completeyn="Y">
+       <grant>
+        <agency>
+         Canadian Institutes of Health Research
+        </agency>
+        <country>
+         Canada
+        </country>
+       </grant>
+      </grantlist>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+       <publicationtype ui="D013485">
+        Research Support, Non-U.S. Gov't
+       </publicationtype>
+      </publicationtypelist>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       United States
+      </country>
+      <medlineta>
+       Cell Host Microbe
+      </medlineta>
+      <nlmuniqueid>
+       101302316
+      </nlmuniqueid>
+      <issnlinking>
+       1931-3128
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <meshheadinglist>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D018352">
+        Coronavirus Infections
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000453">
+        epidemiology
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000635">
+        transmission
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000821">
+        virology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D004196">
+        Disease Outbreaks
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D018562">
+        Disease Transmission, Infectious
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D029043">
+        Ebolavirus
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000502">
+        physiology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D019142">
+        Hemorrhagic Fever, Ebola
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000453">
+        epidemiology
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000635">
+        transmission
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000821">
+        virology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D006801">
+        Humans
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D065207">
+        Middle East Respiratory Syndrome Coronavirus
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000502">
+        physiology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D045473">
+        SARS Virus
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000502">
+        physiology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D045169">
+        Severe Acute Respiratory Syndrome
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000453">
+        epidemiology
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000635">
+        transmission
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000821">
+        virology
+       </qualifiername>
+      </meshheading>
+     </meshheadinglist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2015
+       </year>
+       <month>
+        10
+       </month>
+       <day>
+        16
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2015
+       </year>
+       <month>
+        10
+       </month>
+       <day>
+        16
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2016
+       </year>
+       <month>
+        7
+       </month>
+       <day>
+        28
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      ppublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       26468744
+      </articleid>
+      <articleid idtype="pii">
+       S1931-3128(15)00382-0
+      </articleid>
+      <articleid idtype="doi">
+       10.1016/j.chom.2015.09.013
+      </articleid>
+      <articleid idtype="pmc">
+       PMC7128246
+      </articleid>
+     </articleidlist>
+     <referencelist>
+      <reference>
+       <citation>
+        Science. 2003 Jun 20;300(5627):1961-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12766206
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Science. 2014 Sep 12;345(6202):1369-72
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         25214632
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Euro Surveill. 2015 Jun 25;20(25):7-13
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26132767
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Emerg Infect Dis. 2013 Jun;19(6):864-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23731871
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        PLoS Med. 2006 May;3(5):e149
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16605302
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        PLoS Pathog. 2014 Aug 21;10(8):e1004250
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         25144235
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Am J Epidemiol. 1998 Dec 1;148(11):1103-10
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         9850133
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Lancet. 2015 Jun 13;385(9985):2349-50
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26088634
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Virology. 2004 Dec 5;330(1):8-15
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15527829
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 2015 Jan 15;89(2):1314-23
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         25392221
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        N Engl J Med. 1995 Jul 27;333(4):222-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         7791838
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        N Engl J Med. 2014 Oct 9;371(15):1418-25
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         24738640
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="MEDLINE">
+     <pmid version="1">
+      24465202
+     </pmid>
+     <datecompleted>
+      <year>
+       2014
+      </year>
+      <month>
+       11
+      </month>
+      <day>
+       12
+      </day>
+     </datecompleted>
+     <daterevised>
+      <year>
+       2019
+      </year>
+      <month>
+       10
+      </month>
+      <day>
+       08
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1553-7358
+       </issn>
+       <journalissue citedmedium="Internet">
+        <volume>
+         10
+        </volume>
+        <issue>
+         1
+        </issue>
+        <pubdate>
+         <year>
+          2014
+         </year>
+         <month>
+          Jan
+         </month>
+        </pubdate>
+       </journalissue>
+       <title>
+        PLoS computational biology
+       </title>
+       <isoabbreviation>
+        PLoS Comput. Biol.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Bayesian reconstruction of disease outbreaks by combining epidemiologic and genomic data.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        e1003457
+       </medlinepgn>
+      </pagination>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1371/journal.pcbi.1003457
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        Recent years have seen progress in the development of statistically rigorous frameworks to infer outbreak transmission trees ("who infected whom") from epidemiological and genetic data. Making use of pathogen genome sequences in such analyses remains a challenge, however, with a variety of heuristic approaches having been explored to date. We introduce a statistical method exploiting both pathogen sequences and collection dates to unravel the dynamics of densely sampled outbreaks. Our approach identifies likely transmission events and infers dates of infections, unobserved cases and separate introductions of the disease. It also proves useful for inferring numbers of secondary infections and identifying heterogeneous infectivity and super-spreaders. After testing our approach using simulations, we illustrate the method with the analysis of the beginning of the 2003 Singaporean outbreak of Severe Acute Respiratory Syndrome (SARS), providing new insights into the early stage of this epidemic. Our approach is the first tool for disease outbreak reconstruction from genetic data widely available as free software, the R package outbreaker. It is applicable to various densely sampled epidemics, and improves previous approaches by detecting unobserved and imported cases, as well as allowing multiple introductions of the pathogen. Because of its generality, we believe this method will become a tool of choice for the analysis of densely sampled disease outbreaks, and will form a rigorous framework for subsequent methodological developments.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Jombart
+        </lastname>
+        <forename>
+         Thibaut
+        </forename>
+        <initials>
+         T
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          MRC Centre for Outbreak Analysis and Modelling, Department of Infectious Disease Epidemiology, School of Public Health, Imperial College London, London, United Kingdom.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Cori
+        </lastname>
+        <forename>
+         Anne
+        </forename>
+        <initials>
+         A
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          MRC Centre for Outbreak Analysis and Modelling, Department of Infectious Disease Epidemiology, School of Public Health, Imperial College London, London, United Kingdom.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Didelot
+        </lastname>
+        <forename>
+         Xavier
+        </forename>
+        <initials>
+         X
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          MRC Centre for Outbreak Analysis and Modelling, Department of Infectious Disease Epidemiology, School of Public Health, Imperial College London, London, United Kingdom.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Cauchemez
+        </lastname>
+        <forename>
+         Simon
+        </forename>
+        <initials>
+         S
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          MRC Centre for Outbreak Analysis and Modelling, Department of Infectious Disease Epidemiology, School of Public Health, Imperial College London, London, United Kingdom.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Fraser
+        </lastname>
+        <forename>
+         Christophe
+        </forename>
+        <initials>
+         C
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          MRC Centre for Outbreak Analysis and Modelling, Department of Infectious Disease Epidemiology, School of Public Health, Imperial College London, London, United Kingdom.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Ferguson
+        </lastname>
+        <forename>
+         Neil
+        </forename>
+        <initials>
+         N
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          MRC Centre for Outbreak Analysis and Modelling, Department of Infectious Disease Epidemiology, School of Public Health, Imperial College London, London, United Kingdom.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <grantlist completeyn="Y">
+       <grant>
+        <grantid>
+         MR/K010174/1
+        </grantid>
+        <agency>
+         Medical Research Council
+        </agency>
+        <country>
+         United Kingdom
+        </country>
+       </grant>
+      </grantlist>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+       <publicationtype ui="D052061">
+        Research Support, N.I.H., Extramural
+       </publicationtype>
+       <publicationtype ui="D013485">
+        Research Support, Non-U.S. Gov't
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2014
+       </year>
+       <month>
+        01
+       </month>
+       <day>
+        23
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       United States
+      </country>
+      <medlineta>
+       PLoS Comput Biol
+      </medlineta>
+      <nlmuniqueid>
+       101238922
+      </nlmuniqueid>
+      <issnlinking>
+       1553-734X
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <meshheadinglist>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000465">
+        Algorithms
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D001499">
+        Bayes Theorem
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D003140">
+        Communicable Disease Control
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D003198">
+        Computer Simulation
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D004196">
+        Disease Outbreaks
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D019277">
+        Entropy
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D058872">
+        Epidemics
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D016679">
+        Genome, Viral
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D023281">
+        Genomics
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D006801">
+        Humans
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D009154">
+        Mutation
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D011336">
+        Probability
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D011381">
+        Programming Languages
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D045473">
+        SARS Virus
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000235">
+        genetics
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D045169">
+        Severe Acute Respiratory Syndrome
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000453">
+        epidemiology
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000821">
+        virology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" type="Geographic" ui="D012846">
+        Singapore
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D012984">
+        Software
+       </descriptorname>
+      </meshheading>
+     </meshheadinglist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2013
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        18
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2013
+       </year>
+       <month>
+        12
+       </month>
+       <day>
+        11
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2014
+       </year>
+       <month>
+        1
+       </month>
+       <day>
+        28
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2014
+       </year>
+       <month>
+        1
+       </month>
+       <day>
+        28
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2014
+       </year>
+       <month>
+        11
+       </month>
+       <day>
+        13
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      ppublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       24465202
+      </articleid>
+      <articleid idtype="doi">
+       10.1371/journal.pcbi.1003457
+      </articleid>
+      <articleid idtype="pii">
+       PCOMPBIOL-D-13-00657
+      </articleid>
+      <articleid idtype="pmc">
+       PMC3900386
+      </articleid>
+     </articleidlist>
+     <referencelist>
+      <reference>
+       <citation>
+        Am J Epidemiol. 2013 Nov 1;178(9):1505-12
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         24043437
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        BMC Infect Dis. 2006;6:14
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16445857
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        PLoS Comput Biol. 2011 Aug;7(8):e1002136
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21901082
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Am J Epidemiol. 2006 Sep 15;164(6):591-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16887892
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Am J Epidemiol. 2012 Aug 1;176(3):196-203
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22791742
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Proc Biol Sci. 2012 Feb 7;279(1728):444-50
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21733899
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Lancet Infect Dis. 2013 Feb;13(2):137-46
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23158499
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        BMC Infect Dis. 2004 Sep 6;4:32
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15347429
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Proc Biol Sci. 2003 Jan 22;270(1511):121-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12590749
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        PLoS Pathog. 2010 Apr;6(4):e1000855
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20386717
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Am J Epidemiol. 2004 Sep 15;160(6):509-16
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15353409
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Science. 2010 Jan 22;327(5964):469-74
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20093474
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        BMJ Open. 2012 Jun 06;2(3):null
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22674929
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Science. 2009 Jun 19;324(5934):1557-61
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19433588
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        PLoS Comput Biol. 2012;8(6):e1002552
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22761556
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Proc Natl Acad Sci U S A. 2012 Sep 11;109(37):15066-71
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22927414
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Science. 2003 Jun 20;300(5627):1966-70
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12766207
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Proc Natl Acad Sci U S A. 2012 Mar 20;109(12):4550-5
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22393007
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        PLoS Comput Biol. 2012;8(11):e1002768
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23166481
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nature. 2011 Sep 22;477(7365):462-5
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21866102
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Sci Transl Med. 2012 Aug 22;4(148):148ra116
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22914622
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Lancet. 2003 May 24;361(9371):1779-85
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12781537
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        PLoS Med. 2005 Feb;2(2):e43
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15736999
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Proc Natl Acad Sci U S A. 2011 Feb 15;108(7):2825-30
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21282645
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nature. 2001 Oct 4;413(6855):542-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         11586365
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nucleic Acids Res. 2004;32(5):1792-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15034147
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J R Soc Interface. 2012 Mar 7;9(68):456-69
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21831890
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Emerg Infect Dis. 2006 Jan;12(1):110-3
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16494726
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Proc Biol Sci. 2007 Feb 22;274(1609):599-604
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17476782
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Epidemiology. 2012 Mar;23(2):277-84
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22317811
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nat Rev Genet. 2012 Sep;13(9):601-12
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22868263
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        N Engl J Med. 2012 Jun 14;366(24):2267-75
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22693998
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nat Rev Genet. 2009 Aug;10(8):540-50
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19564871
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Heredity (Edinb). 2011 Feb;106(2):383-90
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20551981
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Lancet Infect Dis. 2013 Feb;13(2):130-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23158674
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Proc Biol Sci. 2008 Apr 22;275(1637):887-95
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18230598
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="MEDLINE">
+     <pmid version="1">
+      16794950
+     </pmid>
+     <datecompleted>
+      <year>
+       2006
+      </year>
+      <month>
+       08
+      </month>
+      <day>
+       02
+      </day>
+     </datecompleted>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       03
+      </month>
+      <day>
+       25
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Print">
+        0092-8240
+       </issn>
+       <journalissue citedmedium="Print">
+        <volume>
+         68
+        </volume>
+        <issue>
+         3
+        </issue>
+        <pubdate>
+         <year>
+          2006
+         </year>
+         <month>
+          Apr
+         </month>
+        </pubdate>
+       </journalissue>
+       <title>
+        Bulletin of mathematical biology
+       </title>
+       <isoabbreviation>
+        Bull. Math. Biol.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Generality of the final size formula for an epidemic of a newly invading infectious disease.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        679-702
+       </medlinepgn>
+      </pagination>
+      <abstract>
+       <abstracttext>
+        The well-known formula for the final size of an epidemic was published by Kermack and McKendrick in 1927. Their analysis was based on a simple susceptible-infected-recovered (SIR) model that assumes exponentially distributed infectious periods. More recent analyses have established that the standard final size formula is valid regardless of the distribution of infectious periods, but that it fails to be correct in the presence of certain kinds of heterogeneous mixing (e.g., if there is a core group, as for sexually transmitted diseases). We review previous work and establish more general conditions under which Kermack and McKendrick's formula is valid. We show that the final size formula is unchanged if there is a latent stage, any number of distinct infectious stages and/or a stage during which infectives are isolated (the durations of each stage can be drawn from any integrable distribution). We also consider the possibility that the transmission rates of infectious individuals are arbitrarily distributed--allowing, in particular, for the existence of super-spreaders--and prove that this potential complexity has no impact on the final size formula. Finally, we show that the final size formula is unchanged even for a general class of spatial contact structures. We conclude that whenever a new respiratory pathogen emerges, an estimate of the expected magnitude of the epidemic can be made as soon the basic reproduction number R0 can be approximated, and this estimate is likely to be improved only by more accurate estimates of R0, not by knowledge of any other epidemiological details.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Ma
+        </lastname>
+        <forename>
+         Junling
+        </forename>
+        <initials>
+         J
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Mathematics &amp; Statistics, McMaster University, Hamilton, ON, Canada, L8S 4K1. junlingm@math.mcmaster.ca
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Earn
+        </lastname>
+        <forename>
+         David J D
+        </forename>
+        <initials>
+         DJ
+        </initials>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2006
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        08
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       United States
+      </country>
+      <medlineta>
+       Bull Math Biol
+      </medlineta>
+      <nlmuniqueid>
+       0401404
+      </nlmuniqueid>
+      <issnlinking>
+       0092-8240
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <meshheadinglist>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000465">
+        Algorithms
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D003141">
+        Communicable Diseases
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000453">
+        epidemiology
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000635">
+        transmission
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D004196">
+        Disease Outbreaks
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000706">
+        statistics &amp; numerical data
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D006801">
+        Humans
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D008954">
+        Models, Biological
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D045473">
+        SARS Virus
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000254">
+        growth &amp; development
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000472">
+        pathogenicity
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D045169">
+        Severe Acute Respiratory Syndrome
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000453">
+        epidemiology
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000635">
+        transmission
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000821">
+        virology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D013997">
+        Time Factors
+       </descriptorname>
+      </meshheading>
+     </meshheadinglist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2005
+       </year>
+       <month>
+        05
+       </month>
+       <day>
+        11
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2005
+       </year>
+       <month>
+        06
+       </month>
+       <day>
+        29
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2006
+       </year>
+       <month>
+        6
+       </month>
+       <day>
+        24
+       </day>
+       <hour>
+        9
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2006
+       </year>
+       <month>
+        8
+       </month>
+       <day>
+        3
+       </day>
+       <hour>
+        9
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2006
+       </year>
+       <month>
+        6
+       </month>
+       <day>
+        24
+       </day>
+       <hour>
+        9
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      ppublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       16794950
+      </articleid>
+      <articleid idtype="doi">
+       10.1007/s11538-005-9047-7
+      </articleid>
+      <articleid idtype="pmc">
+       PMC7088645
+      </articleid>
+     </articleidlist>
+     <referencelist>
+      <reference>
+       <citation>
+        IMA J Math Appl Med Biol. 1984;1(2):169-91
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6600102
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Science. 2003 Jun 20;300(5627):1966-70
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12766207
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Science. 2000 Nov 17;290(5495):1360-4
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         11082064
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Proc Biol Sci. 2001 May 7;268(1470):985-93
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         11370974
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Am J Epidemiol. 2004 Sep 15;160(6):509-16
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15353409
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        N Engl J Med. 2003 May 15;348(20):1995-2005
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12671061
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Math Biosci. 1999 Feb;155(2):77-109
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         10067074
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        N Engl J Med. 1986 Jan 9;314(2):131-2
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         2934633
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Math Biosci. 2002 Nov-Dec;180:29-48
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12387915
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Math Biol. 2003 Jun;46(6):504-36
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12783180
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Lancet. 2003 May 24;361(9371):1761-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12781533
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        IMA J Math Appl Med Biol. 1986;3(4):229-63
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         3453839
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Ann Intern Med. 1987 Aug;107(2):234-42
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         3300461
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Science. 2000 Jan 28;287(5453):667-70
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         10650003
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Am J Epidemiol. 1973 Dec;98(6):453-68
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         4767622
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Theor Popul Biol. 2001 Aug;60(1):59-71
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         11589638
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Am Nat. 2000 Aug;156(2):105-120
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         10856195
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Biometrics. 1968 Sep;24(3):557-66
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         5686306
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Math Biol. 1983;18(3):233-53
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6663207
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        N Engl J Med. 2003 Dec 18;349(25):2381-2
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         14681502
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="MEDLINE">
+     <pmid version="1">
+      12807088
+     </pmid>
+     <datecompleted>
+      <year>
+       2003
+      </year>
+      <month>
+       06
+      </month>
+      <day>
+       16
+      </day>
+     </datecompleted>
+     <daterevised>
+      <year>
+       2008
+      </year>
+      <month>
+       02
+      </month>
+      <day>
+       14
+      </day>
+     </daterevised>
+     <article pubmodel="Print">
+      <journal>
+       <issn issntype="Print">
+        0149-2195
+       </issn>
+       <journalissue citedmedium="Print">
+        <volume>
+         52
+        </volume>
+        <issue>
+         18
+        </issue>
+        <pubdate>
+         <year>
+          2003
+         </year>
+         <month>
+          May
+         </month>
+         <day>
+          09
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        MMWR. Morbidity and mortality weekly report
+       </title>
+       <isoabbreviation>
+        MMWR Morb. Mortal. Wkly. Rep.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Severe acute respiratory syndrome--Singapore, 2003.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        405-11
+       </medlinepgn>
+      </pagination>
+      <abstract>
+       <abstracttext>
+        The Singapore Ministry of Health (MOH), with assistance from the World Health Organization (WHO), has been investigating an outbreak of severe acute respiratory syndrome (SARS). This is a novel condition caused by the SARS-associated coronavirus (SARS-CoV) and is characterized by both an atypical pneumonia and efficient nosocomial transmission. This report summarizes epidemiologic features of this outbreak in Singapore, including the influence of super spreaders and the national prevention and control strategy.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <collectivename>
+         Centers for Disease Control and Prevention (CDC)
+        </collectivename>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D002363">
+        Case Reports
+       </publicationtype>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       United States
+      </country>
+      <medlineta>
+       MMWR Morb Mortal Wkly Rep
+      </medlineta>
+      <nlmuniqueid>
+       7802429
+      </nlmuniqueid>
+      <issnlinking>
+       0149-2195
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <meshheadinglist>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000293">
+        Adolescent
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000328">
+        Adult
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000368">
+        Aged
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000369">
+        Aged, 80 and over
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D002648">
+        Child
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D002675">
+        Child, Preschool
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D016000">
+        Cluster Analysis
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D021821">
+        Communicable Diseases, Emerging
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000453">
+        epidemiology
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000517">
+        prevention &amp; control
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D003428">
+        Cross Infection
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000453">
+        epidemiology
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000517">
+        prevention &amp; control
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D004196">
+        Disease Outbreaks
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D005260">
+        Female
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D006760">
+        Hospitalization
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D006801">
+        Humans
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D017053">
+        Infection Control
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D008297">
+        Male
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D008875">
+        Middle Aged
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D045473">
+        SARS Virus
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000302">
+        isolation &amp; purification
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D045169">
+        Severe Acute Respiratory Syndrome
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000453">
+        epidemiology
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000517">
+        prevention &amp; control
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" type="Geographic" ui="D012846">
+        Singapore
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000453">
+        epidemiology
+       </qualifiername>
+      </meshheading>
+     </meshheadinglist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2003
+       </year>
+       <month>
+        6
+       </month>
+       <day>
+        17
+       </day>
+       <hour>
+        5
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2003
+       </year>
+       <month>
+        6
+       </month>
+       <day>
+        17
+       </day>
+       <hour>
+        5
+       </hour>
+       <minute>
+        1
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2003
+       </year>
+       <month>
+        6
+       </month>
+       <day>
+        17
+       </day>
+       <hour>
+        5
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      ppublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       12807088
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+  </pubmedarticleset>
+ </body>
+</html>

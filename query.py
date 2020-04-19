@@ -1,24 +1,9 @@
-from bs4 import BeautifulSoup
 from elasticsearch import Elasticsearch
 from elasticsearch_dsl import Search
 from elasticsearch_dsl.query import MultiMatch
 from config import docs, topic, SINGLE_IDX, META, VALID_ID
 import pandas as pd
-
-
-def query_dict(topic_file):
-    queries = {}
-    with open(topic_file, 'r') as topic:
-        soup = BeautifulSoup(topic.read(), 'lxml')
-        for top in soup.find_all('topic'):
-            num = top.attrs.get('number')
-            query = top.query.text
-            question = top.question.text
-            narrative = top.narrative.text
-
-            queries[num] = query
-
-    return queries
+from util import query_dict
 
 
 if __name__ == '__main__':
@@ -47,7 +32,7 @@ if __name__ == '__main__':
                         run.write(line)
                         count += 1
     else:
-        with open('./runs/' + SINGLE_IDX, 'w') as run:
+        with open('./artifact/runs/' + SINGLE_IDX, 'w') as run:
             for num, title in queries.items():
                 query = MultiMatch(query=title,
                                    fields=['abstract', 'body_text'],
