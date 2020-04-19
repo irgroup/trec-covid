@@ -1,15 +1,11 @@
 # trec-covid
-
-## Setup
+## Workflow 
+### Setup
 
 * Install docker. When running on HPC (Ubuntu VM):  
 ``` 
 sudo usermod -aG docker $USER
 ```
-* Download data from [semanticscholar](https://pages.semanticscholar.org/coronavirus-research), extract it and place it in `./data/`. 
-``` 
-./getDataSets.sh
-``` 
 * Make virtual environment and activate it
 ``` 
 python3 -m venv venv
@@ -19,41 +15,47 @@ source venv/bin/activate
 ```shell script
 pip3 install -r requirements.txt
 ```  
+* Download data from [semanticscholar](https://pages.semanticscholar.org/coronavirus-research), extract it and place it in `./data/`. 
+``` 
+./getDataSets.sh
+``` 
+* Fetch data for 30 topics from PubMed (will be written to `artifact` directory with timestamp)
+```shell script
+python3 fetchPubmedData.py
+```
 * Adapt settings in `config.py`  
 
-## Workflow
+### Cheap ranker (baseline run with vanilla Elasticsearch)
 
 * Download image and run Elasticsearch container
 ```shell script
 python3 docker-run.py
 ```
-
 * Index data  
 ```shell script
 python3 index.py
 ```
-
-* Write run files
+* Write baseline run file
 ```shell script
 python3 query.py
 ```
-
-* Optionally, delte the docker container and remove the image  
+* Optionally, delete the docker container and remove the image  
 ```shell script
 python3 docker-rm.py
 ```
 
-* Fetch data for 30 topics from PubMed (will be written to `artifact` directory with timestamp)
-```shell script
-python3 fetchPubmedData.py
-```
+### Reranking
 
 * Train model for each of the 30 topics and save models to `./artifact/model/<model-type>`
 ```shell script
 python3 train.py
 ```
+* Rerank baseline ranking:
+```shell script
+python3 rerank.py
+```
 
-## `config.py`
+### `config.py`
 
 | param | comment |
 | ---  | --- |
@@ -62,12 +64,11 @@ python3 train.py
 | `SINGLE_IDX` | if is not `None`, all data is indexed into one instance |   
 | `topic` | path to topic file | 
 
-## `runs`
+### Datasets
 
-| name | comment |
+| name | link |
 | ---  | --- |
-| `comm` | run retrieved from index with [commercial use subset](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/comm_use_subset.tar.gz) data |
-| `noncomm` | run retrieved from index with [non-commercial use subset](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/noncomm_use_subset.tar.gz) data |   
-| `custom` | run retrieved from index with [custom license subset ](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/custom_license.tar.gz) data |   
-| `biorxiv` | run retrieved from index with [bioRxiv/medRxiv subset](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/biorxiv_medrxiv.tar.gz) data | 
-| `trec-covid` | run retrieved from one single index with all subsets | 
+| `comm` | [commercial use subset](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/comm_use_subset.tar.gz) data |
+| `noncomm` | [non-commercial use subset](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/noncomm_use_subset.tar.gz) data |   
+| `custom` | [custom license subset ](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/custom_license.tar.gz) data |   
+| `biorxiv` | [bioRxiv/medRxiv subset](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/biorxiv_medrxiv.tar.gz) data | 
