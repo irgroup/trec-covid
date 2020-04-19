@@ -14,3 +14,4 @@ ESEARCH = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&
 EFETCH = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id='
 RETMODE = '&retmode=xml'
 PUBMED_FETCH = './artifact/pubmed/'
+PUBMED_DUMP_DATE = '2020-04-19'
