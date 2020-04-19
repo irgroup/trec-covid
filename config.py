@@ -7,7 +7,7 @@ BULK = True
 SINGLE_IDX = 'trec-covid'
 # SINGLE_IDX = None
 META = './download/metadata.csv'
-VALID_ID = './docids-rnd1.txt'
+VALID_ID = './download/docids-rnd1.txt'
 ESEARCH = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term='
 EFETCH = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id='
 RETMODE = '&retmode=xml'
