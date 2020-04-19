@@ -40,6 +40,7 @@ if __name__ == '__main__':
                 s = Search(using=es, index=SINGLE_IDX).query(query)
                 response = s.execute()
                 count = 1
+                id_store = []
                 for hit in s[:5000]:
                     cord_uid_series = meta[meta['sha'] == hit.sha]['cord_uid']
                     cord_uid = None
@@ -50,9 +51,10 @@ if __name__ == '__main__':
                     except:
                         continue
 
-                    if cord_uid in valid.values:
+                    if cord_uid in valid.values and cord_uid not in id_store:
                         line = num + ' Q0 ' + cord_uid + ' ' + str(count) + ' ' + str(hit.meta.score) + ' IRC ' + '\n'
                         run.write(line)
+                        id_store.append(cord_uid)
                         count += 1
 
                     if count > 1000:

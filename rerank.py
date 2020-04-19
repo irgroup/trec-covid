@@ -41,7 +41,7 @@ if __name__ == '__main__':
 
             # dict with score docid mapping
             id_score = {}
-            for i in range(0, len(test_x['id_right'])):
+            for i in range(0, 1000):
                 id_score[test_x['id_right'][i]] = scores[i].item()
 
             # sort by descending score (rerank)
