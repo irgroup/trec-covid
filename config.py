@@ -19,3 +19,5 @@ MODEL_DUMP = './artifact/model/'
 MODEL_TYPE = 'drmm'  # 'dense', 'drmm'
 RUN_DIR = './artifact/runs/'
 RERANKED_RUN = 'reranked_drmm'
+
+RERANK_WEIGHT = 0.5
