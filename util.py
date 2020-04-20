@@ -44,11 +44,13 @@ def train_data(topic_train):
                     continue
                 else:
                     abstract_text = abstract.text.replace('\n', '')
+
+                title = article.articletitle.text.replace('\n', '').strip()
                 rel = (1 if k == str(topic_train) else 0)
                 id_left.append(str(k))
                 text_left.append(v)
                 id_right.append(pbmid_str)
-                text_right.append(abstract_text)
+                text_right.append(title + abstract_text)
                 label.append(rel)
 
     df = pd.DataFrame(data={'text_left': text_left,
