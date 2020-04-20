@@ -18,7 +18,10 @@ def prep(file):
 
     sha = file.name.split('/')[-1][:-5]
 
+    title = j.get('metadata').get('title')
+
     return {'sha': sha,
+            'title': title,
             'abstract': abstract,
             'body_text': body_text}
 

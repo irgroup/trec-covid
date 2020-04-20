@@ -1,0 +1,4156 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<html>
+ <body>
+  <pubmedarticleset>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="MEDLINE">
+     <pmid version="1">
+      20228108
+     </pmid>
+     <datecompleted>
+      <year>
+       2010
+      </year>
+      <month>
+       07
+      </month>
+      <day>
+       23
+      </day>
+     </datecompleted>
+     <daterevised>
+      <year>
+       2018
+      </year>
+      <month>
+       11
+      </month>
+      <day>
+       13
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1098-5336
+       </issn>
+       <journalissue citedmedium="Internet">
+        <volume>
+         76
+        </volume>
+        <issue>
+         9
+        </issue>
+        <pubdate>
+         <year>
+          2010
+         </year>
+         <month>
+          May
+         </month>
+        </pubdate>
+       </journalissue>
+       <title>
+        Applied and environmental microbiology
+       </title>
+       <isoabbreviation>
+        Appl. Environ. Microbiol.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Effects of air temperature and relative humidity on coronavirus survival on surfaces.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        2712-7
+       </medlinepgn>
+      </pagination>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1128/AEM.02291-09
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        Assessment of the risks posed by severe acute respiratory syndrome (SARS) coronavirus (SARS-CoV) on surfaces requires data on survival of this virus on environmental surfaces and on how survival is affected by environmental variables, such as air temperature (AT) and relative humidity (RH). The use of surrogate viruses has the potential to overcome the challenges of working with SARS-CoV and to increase the available data on coronavirus survival on surfaces. Two potential surrogates were evaluated in this study; transmissible gastroenteritis virus (TGEV) and mouse hepatitis virus (MHV) were used to determine effects of AT and RH on the survival of coronaviruses on stainless steel. At 4 degrees C, infectious virus persisted for as long as 28 days, and the lowest level of inactivation occurred at 20% RH. Inactivation was more rapid at 20 degrees C than at 4 degrees C at all humidity levels; the viruses persisted for 5 to 28 days, and the slowest inactivation occurred at low RH. Both viruses were inactivated more rapidly at 40 degrees C than at 20 degrees C. The relationship between inactivation and RH was not monotonic, and there was greater survival or a greater protective effect at low RH (20%) and high RH (80%) than at moderate RH (50%). There was also evidence of an interaction between AT and RH. The results show that when high numbers of viruses are deposited, TGEV and MHV may survive for days on surfaces at ATs and RHs typical of indoor environments. TGEV and MHV could serve as conservative surrogates for modeling exposure, the risk of transmission, and control measures for pathogenic enveloped viruses, such as SARS-CoV and influenza virus, on health care surfaces.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Casanova
+        </lastname>
+        <forename>
+         Lisa M
+        </forename>
+        <initials>
+         LM
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Environmental Sciences and Engineering, Gillings School of Global Public Health, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina 27599, USA. casanova@unc.edu
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Jeon
+        </lastname>
+        <forename>
+         Soyoung
+        </forename>
+        <initials>
+         S
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Rutala
+        </lastname>
+        <forename>
+         William A
+        </forename>
+        <initials>
+         WA
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Weber
+        </lastname>
+        <forename>
+         David J
+        </forename>
+        <initials>
+         DJ
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Sobsey
+        </lastname>
+        <forename>
+         Mark D
+        </forename>
+        <initials>
+         MD
+        </initials>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <grantlist completeyn="Y">
+       <grant>
+        <grantid>
+         U01 CI000299
+        </grantid>
+        <acronym>
+         CI
+        </acronym>
+        <agency>
+         NCPDCID CDC HHS
+        </agency>
+        <country>
+         United States
+        </country>
+       </grant>
+       <grant>
+        <grantid>
+         1 U01 CI000299-01
+        </grantid>
+        <acronym>
+         CI
+        </acronym>
+        <agency>
+         NCPDCID CDC HHS
+        </agency>
+        <country>
+         United States
+        </country>
+       </grant>
+      </grantlist>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+       <publicationtype ui="D013487">
+        Research Support, U.S. Gov't, P.H.S.
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2010
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        12
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       United States
+      </country>
+      <medlineta>
+       Appl Environ Microbiol
+      </medlineta>
+      <nlmuniqueid>
+       7605801
+      </nlmuniqueid>
+      <issnlinking>
+       0099-2240
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <meshheadinglist>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000388">
+        Air
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D017934">
+        Coronavirus
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D006813">
+        Humidity
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D006517">
+        Murine hepatitis virus
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D013696">
+        Temperature
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D005760">
+        Transmissible gastroenteritis virus
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D038301">
+        Virus Inactivation
+       </descriptorname>
+      </meshheading>
+     </meshheadinglist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2010
+       </year>
+       <month>
+        3
+       </month>
+       <day>
+        16
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2010
+       </year>
+       <month>
+        3
+       </month>
+       <day>
+        17
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2010
+       </year>
+       <month>
+        7
+       </month>
+       <day>
+        24
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      ppublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       20228108
+      </articleid>
+      <articleid idtype="pii">
+       AEM.02291-09
+      </articleid>
+      <articleid idtype="doi">
+       10.1128/AEM.02291-09
+      </articleid>
+      <articleid idtype="pmc">
+       PMC2863430
+      </articleid>
+     </articleidlist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Hosp Infect. 2000 Sep;46(1):55-60
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         11023724
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Clin Infect Dis. 2009 Feb 15;48(4):438-40
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19133798
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Hosp Infect. 2004 Apr;56 Suppl 2:S64-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15110126
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Emerg Infect Dis. 2004 May;10(5):777-81
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15200808
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Clin Infect Dis. 2004 Sep 1;39(5):652-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15356778
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Emerg Infect Dis. 2004 Sep;10(9):1550-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15498155
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Gen Virol. 1974 Jul;24(1):155-65
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         4367307
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Arch Virol. 1976;51(4):263-73
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         987765
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Infect Dis. 1982 Jul;146(1):47-51
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6282993
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Gen Virol. 1985 Dec;66 ( Pt 12):2743-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         2999318
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Appl Environ Microbiol. 1991 May;57(5):1394-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         1649579
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Appl Environ Microbiol. 1994 Oct;60(10):3704-10
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         7986043
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Vet Microbiol. 1994 Nov;42(2-3):255-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         7886936
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Appl Environ Microbiol. 1998 Jan;64(1):304-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         9435082
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Appl Environ Microbiol. 1999 Mar;65(3):1186-90
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         10049881
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Orig Life Evol Biosph. 1993 Feb;23(1):29-36
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         11536524
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Infect Dis. 1950 Sep-Oct;87(2):128-32
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         14774528
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nature. 1960 Oct 29;188:430-1
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         13713229
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Hyg (Lond). 1961 Dec;59:479-86
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         13904777
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Arch Gesamte Virusforsch. 1963;13:64-71
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         13952881
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Clin Pathol. 2005 Mar;58(3):276-80
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15735160
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Infect Dis. 2005 May 1;191(9):1472-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15809906
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Med Microbiol Immunol. 2005 Jan;194(1-2):1-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15118911
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Emerg Infect Dis. 2005 Dec;11(12):1882-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16485474
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Avian Dis. 2006 Sep;50(3):315-20
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17039827
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Appl Environ Microbiol. 2007 Apr;73(8):2748-50
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17259354
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Water Res. 2009 Apr;43(7):1893-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19246070
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Lancet. 2003 Apr 19;361(9366):1319-25
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12711465
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="MEDLINE">
+     <pmid version="1">
+      24619619
+     </pmid>
+     <datecompleted>
+      <year>
+       2014
+      </year>
+      <month>
+       07
+      </month>
+      <day>
+       01
+      </day>
+     </datecompleted>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       07
+      </day>
+     </daterevised>
+     <article pubmodel="Print">
+      <journal>
+       <issn issntype="Print">
+        0065-2598
+       </issn>
+       <journalissue citedmedium="Print">
+        <volume>
+         807
+        </volume>
+        <pubdate>
+         <year>
+          2014
+         </year>
+        </pubdate>
+       </journalissue>
+       <title>
+        Advances in experimental medicine and biology
+       </title>
+       <isoabbreviation>
+        Adv. Exp. Med. Biol.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Neuroinvasive and neurotropic human respiratory coronaviruses: potential neurovirulent agents in humans.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        75-96
+       </medlinepgn>
+      </pagination>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1007/978-81-322-1777-0_6
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        In humans, viral infections of the respiratory tract are a leading cause of morbidity and mortality worldwide. Several recognized respiratory viral agents have a neuroinvasive capacity since they can spread from the respiratory tract to the central nervous system (CNS). Once there, infection of CNS cells (neurotropism) could lead to human health problems, such as encephalitis and long-term neurological diseases. Among the various respiratory viruses, coronaviruses are important pathogens of humans and animals. Human Coronaviruses (HCoV) usually infect the upper respiratory tract, where they are mainly associated with common colds. However, in more vulnerable populations, such as newborns, infants, the elderly, and immune-compromised individuals, they can also affect the lower respiratory tract, leading to pneumonia, exacerbations of asthma, respiratory distress syndrome, or even severe acute respiratory syndrome (SARS). The respiratory involvement of HCoV has been clearly established since the 1960s. In addition, for almost three decades now, the scientific literature has also demonstrated that HCoV are neuroinvasive and neurotropic and could induce an overactivation of the immune system, in part by participating in the activation of autoreactive immune cells that could be associated with autoimmunity in susceptible individuals. Furthermore, it was shown that in the murine CNS, neurons are the main target of infection, which causes these essential cells to undergo degeneration and eventually die by some form of programmed cell death after virus infection. Moreover, it appears that the viral surface glycoprotein (S) represents an important factor in the neurodegenerative process. Given all these properties, it has been suggested that these recognized human respiratory pathogens could be associated with the triggering or the exacerbation of neurological diseases for which the etiology remains unknown or poorly understood.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Desforges
+        </lastname>
+        <forename>
+         Marc
+        </forename>
+        <initials>
+         M
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Laboratory of Neuroimmunovirology, INRS-Institut Armand-Frappier, Institut national de la recherche scientifique, Université du Québec, 531 boulevard des Prairies, Laval, QC, H7V IB7, Canada, marc.desforges@iaf.inrs.ca.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Le Coupanec
+        </lastname>
+        <forename>
+         Alain
+        </forename>
+        <initials>
+         A
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Brison
+        </lastname>
+        <forename>
+         Elodie
+        </forename>
+        <initials>
+         E
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Meessen-Pinard
+        </lastname>
+        <forename>
+         Mathieu
+        </forename>
+        <initials>
+         M
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Talbot
+        </lastname>
+        <forename>
+         Pierre J
+        </forename>
+        <initials>
+         PJ
+        </initials>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+       <publicationtype ui="D016454">
+        Review
+       </publicationtype>
+      </publicationtypelist>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       United States
+      </country>
+      <medlineta>
+       Adv Exp Med Biol
+      </medlineta>
+      <nlmuniqueid>
+       0121103
+      </nlmuniqueid>
+      <issnlinking>
+       0065-2598
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <meshheadinglist>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000818">
+        Animals
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D017209">
+        Apoptosis
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D002490">
+        Central Nervous System
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000821">
+        virology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D020805">
+        Central Nervous System Viral Diseases
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000821">
+        virology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D017934">
+        Coronavirus
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000472">
+        pathogenicity
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D006801">
+        Humans
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D012141">
+        Respiratory Tract Infections
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000821">
+        virology
+       </qualifiername>
+      </meshheading>
+     </meshheadinglist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2014
+       </year>
+       <month>
+        3
+       </month>
+       <day>
+        13
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2014
+       </year>
+       <month>
+        3
+       </month>
+       <day>
+        13
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2014
+       </year>
+       <month>
+        7
+       </month>
+       <day>
+        2
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      ppublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       24619619
+      </articleid>
+      <articleid idtype="doi">
+       10.1007/978-81-322-1777-0_6
+      </articleid>
+      <articleid idtype="pmc">
+       PMC7121612
+      </articleid>
+     </articleidlist>
+     <referencelist>
+      <reference>
+       <citation>
+        Curr Opin Virol. 2013 Jun;3(3):296-306
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23773332
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Scand J Infect Dis. 2009;41(3):228-31
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19117245
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Adv Exp Med Biol. 2006;581:499-502
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17037584
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Pathol Biol (Paris). 2009 Mar;57(2):149-60
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18456429
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Nature. 2003 May 15;423(6937):240
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12748632
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 1997 Jan;71(1):800-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         8985420
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Virology. 2007 Oct 25;367(2):440-51
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17631933
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Infect Dis. 2013 Jun 1;207(11):1743-52
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23532101
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Feline Med Surg. 2003 Dec;5(6):313-22
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         14623200
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Neuroimmune Pharmacol. 2010 Sep;5(3):336-54
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20369302
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 2013 Jul;87(14):7790-2
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23678167
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        PLoS Med. 2006 Feb;3(2):e27
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16379499
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 1999 Apr;73(4):3326-37
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         10074187
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Neurovirol. 2002 Apr;8(2):76-85
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         11935460
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 1999 Apr;73(4):3338-50
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         10074188
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 2007 Feb;81(3):1162-73
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17108019
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Ann Neurol. 1996 Feb;39(2):233-40
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         8967755
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Virology. 2009 Dec 20;395(2):255-67
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19846189
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Virus Res. 2005 Aug;111(2):132-47
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15893837
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Am Vet Med Assoc. 1972 Mar 1;160(5):729-34
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         5010614
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Biochim Biophys Acta. 2009 Jul;1792(7):714-21
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18760350
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Front Biosci (Landmark Ed). 2009 Jun 01;14:5239-59
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19482613
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Leukoc Biol. 2003 Nov;74(5):650-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12960230
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Acquir Immune Defic Syndr (1988). 1990;3(11):1096-101
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         2213510
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Pathol Biol (Paris). 2010 Apr;58(2):e59-68
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20303675
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Acta Neuropathol. 2010 Sep;120(3):317-25
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20652579
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 2000 Oct;74(19):8913-21
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         10982334
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Proc R Soc Med. 1965 May;58:295-300
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         14283879
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Curr Treat Options Neurol. 2004 Mar;6(2):139-151
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         14759346
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Immunology. 2010 Feb;129(2):154-69
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20561356
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Biochim Biophys Acta. 2011 Feb;1812(2):132-40
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20600868
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 2008 Aug;82(15):7264-75
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18495771
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Neurobiol Aging. 2004 May-Jun;25(5):619-27
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15172740
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        N Engl J Med. 2012 Nov 8;367(19):1814-20
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23075143
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Crit Rev Immunol. 2010;30(2):119-30
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20370625
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Pediatr Infect Dis J. 2004 Nov;23(11):1065-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15545869
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Exp Med. 2005 Aug 1;202(3):415-24
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16043521
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Biofactors. 2011 May-Jun;37(3):228-40
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21674642
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Curr Top Microbiol Immunol. 2005;287:1-30
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15609507
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Infect Dis. 2006 May 1;193(9):1229-35
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16586359
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Clin Infect Dis. 2005 Oct 15;41(8):1089-96
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16163626
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Virus Res. 2007 Dec;130(1-2):228-40
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17669539
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Cell Death Differ. 2012 Jan;19(1):107-20
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21760595
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        N Engl J Med. 2003 May 15;348(20):1967-76
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12690091
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Clin Immunol. 2007 Jun;123(3):258-67
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17448727
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Nat Med. 2004 Dec;10(12 Suppl):S98-109
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15577938
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Curr Opin Pulm Med. 2012 May;18(3):271-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22366993
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Pediatrics. 2004 Jan;113(1 Pt 1):e73-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         14702500
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Clin Microbiol Rev. 1993 Oct;6(4):382-427
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         8269393
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Child Neurol. 2009 Dec;24(12):1499-503
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19264736
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Mol Psychiatry. 2005 Mar;10(3):299-308
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15241434
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Neurovirol. 2010 Jul;16(4):279-93
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20642316
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Am J Vet Res. 1962 Jul;23:756-62
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         13860366
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Med Virol. 2008 Aug;80(8):1441-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18551600
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Neurosci. 2012 Mar 21;32(12):3958-68
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22442063
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Lancet Neurol. 2006 Oct;5(10):887-94
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16987736
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Curr Top Microbiol Immunol. 2005;289:79-111
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15791952
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Clin Infect Dis. 2012 Jul;55(1):107-13
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22423119
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Clin Microbiol Rev. 2011 Jan;24(1):210-29
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21233513
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Proc Natl Acad Sci U S A. 2013 May 28;110(22):9112-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23650398
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Avian Pathol. 2005 Dec;34(6):439-48
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16537157
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Infect Chemother. 2011 Dec;17(6):776-81
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21647570
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Infect Immun. 1983 Jul;41(1):426-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6345398
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Clin Diagn Lab Immunol. 2002 Nov;9(6):1392-5
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12414783
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Comp Pathol. 2004 Jan;130(1):58-65
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         14693125
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Virus Res. 2008 Apr;133(1):4-12
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17825937
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Clin Virol. 2008 Jul;42(3):233-43
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18406664
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Pediatr Infect Dis J. 2003 Feb;22(2 Suppl):S21-32
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12671449
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 2013 Mar;87(6):3097-107
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23283955
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Curr Opin Microbiol. 1999 Aug;2(4):398-402
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         10458992
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Neurovirol. 2000 May;6 Suppl 2:S92-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         10871794
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Am J Vet Res. 1980 Feb;41(2):215-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6245602
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Brain Res. 2009 Mar 31;1263:143-54
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19368827
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Adv Virus Res. 2011;81:85-164
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22094080
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Clin Microbiol Rev. 1996 Jan;9(1):18-33
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         8665474
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 2007 Jan;81(2):813-21
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17079315
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Curr Top Microbiol Immunol. 2001;253:247-71
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         11417138
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Rev Prat. 2007 Oct 31;57(16):1759-66
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18092718
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Lancet Neurol. 2005 Mar;4(3):195-202
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15721830
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Neuroimmunol. 2011 Feb;231(1-2):73-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20937530
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 2012 Jan;86(1):81-93
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22013052
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Schizophr Bull. 2011 Jan;37(1):101-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19491313
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Can J Comp Med Vet Sci. 1962 Mar;26(3):49-56
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17649356
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Proc Natl Acad Sci U S A. 2005 Jun 7;102(23):8275-80
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15919828
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 2005 Dec;79(24):15064-73
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16306577
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 2011 Dec;85(23):12464-73
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21957311
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Virology. 2005 May 10;335(2):185-97
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15840518
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 2005 Jan;79(2):884-95
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15613317
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Neural Transm (Vienna). 2010 Aug;117(8):899-906
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20390431
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Nat Med. 2004 Apr;10(4):368-73
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15034574
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Curr Opin Neurol. 2010 Jun;23(3):305-11
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20455276
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Curr Opin Rheumatol. 2013 Jul;25(4):496-501
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23656710
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 2004 Feb;78(3):1473-87
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         14722303
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Sci Rep. 2012;2:736
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23071900
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Pediatr Neurol. 2012 Jul;47(1):62-4
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22704021
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Curr Opin Virol. 2012 Jun;2(3):276-86
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22709515
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Lancet. 1985 Jun 8;1(8441):1313-5
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         2860501
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Virology. 2006 Apr 10;347(2):410-21
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16413043
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Am Vet Med Assoc. 1975 Nov 15;167(10):31-2
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         52646
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Nat Rev Immunol. 2011 May;11(5):318-29
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21508982
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Curr Opin Infect Dis. 2002 Aug;15(4):355-67
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12130931
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 2004 Aug;78(16):8824-34
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15280490
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Virology. 2006 Jun 5;349(2):335-46
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16527322
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Lancet. 2003 Nov 22;362(9397):1733-45
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         14643124
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Virology. 2003 Oct 10;315(1):20-33
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         14592756
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Cell Death Differ. 2005 Aug;12 Suppl 1:893-904
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15761472
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Mayo Clin Proc. 2004 May;79(5):671-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15132411
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Pediatr Neurol. 2006 Sep;35(3):165-72
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16939854
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Infect Dev Ctries. 2013 Apr 17;7(4):308-11
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23592639
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Gen Virol. 2006 Jul;87(Pt 7):1953-60
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16760397
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Lancet. 2002 Feb 9;359(9305):507-13
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         11853816
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Vet Intern Med. 1998 Nov-Dec;12(6):415-23
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         9857333
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Travel Med Infect Dis. 2008 May;6(3):114-24
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         18486065
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Neuroimmune Pharmacol. 2010 Sep;5(3):443-55
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20419352
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="MEDLINE">
+     <pmid version="1">
+      16142653
+     </pmid>
+     <datecompleted>
+      <year>
+       2006
+      </year>
+      <month>
+       08
+      </month>
+      <day>
+       04
+      </day>
+     </datecompleted>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       03
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1537-6591
+       </issn>
+       <journalissue citedmedium="Internet">
+        <volume>
+         41
+        </volume>
+        <issue>
+         7
+        </issue>
+        <pubdate>
+         <year>
+          2005
+         </year>
+         <month>
+          Oct
+         </month>
+         <day>
+          01
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Clinical infectious diseases : an official publication of the Infectious Diseases Society of America
+       </title>
+       <isoabbreviation>
+        Clin. Infect. Dis.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Survival of severe acute respiratory syndrome coronavirus.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        e67-71
+       </medlinepgn>
+      </pagination>
+      <abstract>
+       <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+        The primary modes of transmission of severe acute respiratory syndrome (SARS) coronavirus (SARS-CoV) appear to be direct mucus membrane contact with infectious droplets and through exposure to formites. Knowledge of the survival characteristics of the virus is essential for formulating appropriate infection-control measures.
+       </abstracttext>
+       <abstracttext label="METHODS" nlmcategory="METHODS">
+        Survival of SARS-CoV strain GVU6109 was studied in stool and respiratory specimens. Survival of the virus on different environmental surfaces, including a laboratory request form, an impervious disposable gown, and a cotton nondisposable gown, was investigated. The virucidal effects of sodium hypochlorite, house detergent, and a peroxygen compound (Virkon S; Antec International) on the virus were also studied.
+       </abstracttext>
+       <abstracttext label="RESULTS" nlmcategory="RESULTS">
+        SARS-CoV GVU6109 can survive for 4 days in diarrheal stool samples with an alkaline pH, and it can remain infectious in respiratory specimens for &gt;7 days at room temperature. Even at a relatively high concentration (10(4) tissue culture infective doses/mL), the virus could not be recovered after drying of a paper request form, and its infectivity was shown to last longer on the disposable gown than on the cotton gown. All disinfectants tested were shown to be able to reduce the virus load by &gt;3 log within 5 min.
+       </abstracttext>
+       <abstracttext label="CONCLUSIONS" nlmcategory="CONCLUSIONS">
+        Fecal and respiratory samples can remain infectious for a long period of time at room temperature. The risk of infection via contact with droplet-contaminated paper is small. Absorbent material, such as cotton, is preferred to nonabsorptive material for personal protective clothing for routine patient care where risk of large spillage is unlikely. The virus is easily inactivated by commonly used disinfectants.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Lai
+        </lastname>
+        <forename>
+         Mary Y Y
+        </forename>
+        <initials>
+         MY
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Virology Division, Public Health Laboratory Services Branch, Centre for Health Protection, Department of Health, Hong Kong, China.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Cheng
+        </lastname>
+        <forename>
+         Peter K C
+        </forename>
+        <initials>
+         PK
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Lim
+        </lastname>
+        <forename>
+         Wilina W L
+        </forename>
+        <initials>
+         WW
+        </initials>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2005
+       </year>
+       <month>
+        08
+       </month>
+       <day>
+        22
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       United States
+      </country>
+      <medlineta>
+       Clin Infect Dis
+      </medlineta>
+      <nlmuniqueid>
+       9203213
+      </nlmuniqueid>
+      <issnlinking>
+       1058-4838
+      </issnlinking>
+     </medlinejournalinfo>
+     <chemicallist>
+      <chemical>
+       <registrynumber>
+        0
+       </registrynumber>
+       <nameofsubstance ui="D003902">
+        Detergents
+       </nameofsubstance>
+      </chemical>
+      <chemical>
+       <registrynumber>
+        0
+       </registrynumber>
+       <nameofsubstance ui="D004202">
+        Disinfectants
+       </nameofsubstance>
+      </chemical>
+      <chemical>
+       <registrynumber>
+        0
+       </registrynumber>
+       <nameofsubstance ui="D010545">
+        Peroxides
+       </nameofsubstance>
+      </chemical>
+      <chemical>
+       <registrynumber>
+        0
+       </registrynumber>
+       <nameofsubstance ui="D013464">
+        Sulfuric Acids
+       </nameofsubstance>
+      </chemical>
+      <chemical>
+       <registrynumber>
+        28831-12-1
+       </registrynumber>
+       <nameofsubstance ui="C071517">
+        monoperoxysulfate
+       </nameofsubstance>
+      </chemical>
+      <chemical>
+       <registrynumber>
+        DY38VHM5OD
+       </registrynumber>
+       <nameofsubstance ui="D012973">
+        Sodium Hypochlorite
+       </nameofsubstance>
+      </chemical>
+     </chemicallist>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <meshheadinglist>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000818">
+        Animals
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D002522">
+        Chlorocebus aethiops
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D003020">
+        Clothing
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D003902">
+        Detergents
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000494">
+        pharmacology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D004202">
+        Disinfectants
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000494">
+        pharmacology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D005243">
+        Feces
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000821">
+        virology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D006801">
+        Humans
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D017053">
+        Infection Control
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000379">
+        methods
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D010209">
+        Paper
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D010545">
+        Peroxides
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000494">
+        pharmacology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D045473">
+        SARS Virus
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000187">
+        drug effects
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000502">
+        physiology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D012973">
+        Sodium Hypochlorite
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000494">
+        pharmacology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D013464">
+        Sulfuric Acids
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000494">
+        pharmacology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D013997">
+        Time Factors
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D014709">
+        Vero Cells
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D019562">
+        Viral Load
+       </descriptorname>
+      </meshheading>
+     </meshheadinglist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2005
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        18
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2005
+       </year>
+       <month>
+        06
+       </month>
+       <day>
+        15
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2005
+       </year>
+       <month>
+        9
+       </month>
+       <day>
+        6
+       </day>
+       <hour>
+        9
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2006
+       </year>
+       <month>
+        8
+       </month>
+       <day>
+        5
+       </day>
+       <hour>
+        9
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2005
+       </year>
+       <month>
+        9
+       </month>
+       <day>
+        6
+       </day>
+       <hour>
+        9
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      ppublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       16142653
+      </articleid>
+      <articleid idtype="pii">
+       CID36555
+      </articleid>
+      <articleid idtype="doi">
+       10.1086/433186
+      </articleid>
+      <articleid idtype="pmc">
+       PMC7107832
+      </articleid>
+     </articleidlist>
+     <referencelist>
+      <reference>
+       <citation>
+        N Engl J Med. 2003 May 15;348(20):1953-66
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12690092
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        N Engl J Med. 2003 May 15;348(20):1967-76
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12690091
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Lancet. 2004 May 22;363(9422):1699-700
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15158632
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Clin Infect Dis. 2004 Sep 1;39(5):652-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15356778
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Hosp Infect. 2000 Sep;46(1):55-60
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         11023724
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Lancet. 2003 Apr 19;361(9366):1319-25
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12711465
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        N Engl J Med. 2004 Apr 22;350(17):1731-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15102999
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Med Microbiol Immunol. 2005 Jan;194(1-2):1-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15118911
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Clin Infect Dis. 2004 Aug 15;39(4):511-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         15356814
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Lancet. 2003 May 3;361(9368):1519-20
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         12737864
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="MEDLINE">
+     <pmid version="1">
+      11865552
+     </pmid>
+     <datecompleted>
+      <year>
+       2002
+      </year>
+      <month>
+       03
+      </month>
+      <day>
+       18
+      </day>
+     </datecompleted>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       09
+      </day>
+     </daterevised>
+     <article pubmodel="Print">
+      <journal>
+       <issn issntype="Print">
+        0929-693X
+       </issn>
+       <journalissue citedmedium="Print">
+        <volume>
+         9
+        </volume>
+        <issue>
+         1
+        </issue>
+        <pubdate>
+         <year>
+          2002
+         </year>
+         <month>
+          Jan
+         </month>
+        </pubdate>
+       </journalissue>
+       <title>
+        Archives de pediatrie : organe officiel de la Societe francaise de pediatrie
+       </title>
+       <isoabbreviation>
+        Arch Pediatr
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       [Nosocomial infections due to human coronaviruses in the newborn].
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        61-9
+       </medlinepgn>
+      </pagination>
+      <abstract>
+       <abstracttext>
+        Human coronaviruses, with two known serogroups named 229-E and OC-43, are enveloped positive-stranded RNA viruses. The large RNA is surrounded by a nucleoprotein (protein N). The envelop contains 2 or 3 glycoproteins: spike protein (or protein S), matrix protein (or protein M) and a hemagglutinin (or protein HE). Their pathogen role remains unclear because their isolation is difficult. Reliable and rapid methods as immunofluorescence with monoclonal antibodies and reverse transcription-polymerase chain reaction allow new researches on epidemiology. Human coronaviruses can survive for as long as 6 days in suspension and 3 hours after drying on surfaces, suggesting that they could be a source of hospital-acquired infections. Two prospective studies conducted in a neonatal and paediatric intensive care unit demonstrated a significant association of coronavirus-positive nasopharyngal samples with respiratory illness in hospitalised preterm neonates. Positive samples from staff suggested either a patient-to-staff or a staff-to-patient transmission. No cross-infection were observed from community-acquired respiratory-syncitial virus or influenza-infected children to neonates. Universal precautions with hand washing and surface desinfection could be proposed to prevent coronavirus transmission.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Gagneur
+        </lastname>
+        <forename>
+         A
+        </forename>
+        <initials>
+         A
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Unité de réanimation pédiatrique, département de pédiatrie, CHU, 29609 Brest, France.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Legrand
+        </lastname>
+        <forename>
+         M C
+        </forename>
+        <initials>
+         MC
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Picard
+        </lastname>
+        <forename>
+         B
+        </forename>
+        <initials>
+         B
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Baron
+        </lastname>
+        <forename>
+         R
+        </forename>
+        <initials>
+         R
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Talbot
+        </lastname>
+        <forename>
+         P J
+        </forename>
+        <initials>
+         PJ
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         de Parscau
+        </lastname>
+        <forename>
+         L
+        </forename>
+        <initials>
+         L
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Sizun
+        </lastname>
+        <forename>
+         J
+        </forename>
+        <initials>
+         J
+        </initials>
+       </author>
+      </authorlist>
+      <language>
+       fre
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D003160">
+        Comparative Study
+       </publicationtype>
+       <publicationtype ui="D004740">
+        English Abstract
+       </publicationtype>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+       <publicationtype ui="D013485">
+        Research Support, Non-U.S. Gov't
+       </publicationtype>
+      </publicationtypelist>
+      <vernaculartitle>
+       Infections nosocomiales à coronavirus humains chez le nouveau-né.
+      </vernaculartitle>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       France
+      </country>
+      <medlineta>
+       Arch Pediatr
+      </medlineta>
+      <nlmuniqueid>
+       9421356
+      </nlmuniqueid>
+      <issnlinking>
+       0929-693X
+      </issnlinking>
+     </medlinejournalinfo>
+     <chemicallist>
+      <chemical>
+       <registrynumber>
+        0
+       </registrynumber>
+       <nameofsubstance ui="D004279">
+        DNA, Viral
+       </nameofsubstance>
+      </chemical>
+     </chemicallist>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <meshheadinglist>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000328">
+        Adult
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000367">
+        Age Factors
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D017934">
+        Coronavirus
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000235">
+        genetics
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000302">
+        isolation &amp; purification
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D028941">
+        Coronavirus 229E, Human
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000302">
+        isolation &amp; purification
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D018352">
+        Coronavirus Infections
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000175">
+        diagnosis
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000821">
+        virology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D028962">
+        Coronavirus OC43, Human
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000302">
+        isolation &amp; purification
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D003428">
+        Cross Infection
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000175">
+        diagnosis
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000517">
+        prevention &amp; control
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000821">
+        virology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D004279">
+        DNA, Viral
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000032">
+        analysis
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D005455">
+        Fluorescent Antibody Technique
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D006801">
+        Humans
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D007223">
+        Infant
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D007231">
+        Infant, Newborn
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D007363">
+        Intensive Care Units, Neonatal
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D011446">
+        Prospective Studies
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D020133">
+        Reverse Transcriptase Polymerase Chain Reaction
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D012307">
+        Risk Factors
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D012621">
+        Seasons
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D013997">
+        Time Factors
+       </descriptorname>
+      </meshheading>
+     </meshheadinglist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2002
+       </year>
+       <month>
+        2
+       </month>
+       <day>
+        28
+       </day>
+       <hour>
+        10
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2002
+       </year>
+       <month>
+        3
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        10
+       </hour>
+       <minute>
+        1
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2002
+       </year>
+       <month>
+        2
+       </month>
+       <day>
+        28
+       </day>
+       <hour>
+        10
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      ppublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       11865552
+      </articleid>
+      <articleid idtype="pii">
+       S0929-693X(01)00696-0
+      </articleid>
+      <articleid idtype="doi">
+       10.1016/s0929-693x(01)00696-0
+      </articleid>
+      <articleid idtype="pmc">
+       PMC7126531
+      </articleid>
+     </articleidlist>
+     <referencelist>
+      <reference>
+       <citation>
+        Infect Control Hosp Epidemiol. 1991 Apr;12(4):231-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         2061581
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Infect Dis. 1974 Mar;129(3):271-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         4816305
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Pediatrics. 1998 Aug;102(2 Pt 1):291-5
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         9685428
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Med Virol. 1980;6(3):259-65
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6262459
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Arch Pediatr. 2000 Jun;7 Suppl 3:531s-535s
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         10941476
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Am Geriatr Soc. 1997 Jun;45(6):706-11
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         9180664
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Acta Paediatr. 1995 Jun;84(6):617-20
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         7670241
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Gen Virol. 1985 Dec;66 ( Pt 12):2743-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         2999318
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Adv Virus Res. 1997;48:1-100
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         9233431
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 1999 Apr;73(4):3326-37
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         10074187
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Presse Med. 1998 Nov 14;27(35):1813-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         9850702
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Arch Dis Child. 1991 Jan;66(1):124-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         1847281
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 1999 Apr;73(4):3338-50
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         10074188
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Med Virol. 1983;11(4):319-25
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6308142
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Pediatr Infect Dis J. 1998 Jan;17(1):49-53
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         9469395
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Clin Microbiol. 1996 Dec;34(12):3007-11
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         8940439
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Acta Paediatr. 1993 Mar;82(3):238
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         8388276
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Med Virol. 1989 Feb;27(2):164-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         2921603
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 2000 Oct;74(19):8913-21
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         10982334
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Clin Microbiol Rev. 1997 Apr;10(2):242-56
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         9105753
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Arch Pediatr. 1996 Jul;3(7):723-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         8881187
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Clin Virol. 1999 Aug;13(3):131-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         10443789
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol Methods. 1998 Jun;72(2):145-52
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         9694322
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        MMWR Recomm Rep. 1997 Jan 3;46(RR-1):1-79
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         9036304
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Proc Natl Acad Sci U S A. 1967 Dec;58(6):2268-73
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         4298953
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Pediatrics. 1982 Feb;69(2):209-14
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6276855
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Pediatr Infect Dis J. 1989 Oct;8(10):668-75
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         2812911
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Science. 1985 Sep 6;229(4717):978-81
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         2992091
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Proc Soc Exp Biol Med. 1966 Jan;121(1):190-3
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         4285768
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Hosp Infect. 2000 Sep;46(1):55-60
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         11023724
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Am J Respir Crit Care Med. 1995 Oct;152(4 Pt 2):S46-52
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         7551413
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Pediatr. 1982 May;100(5):722-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6279812
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Br Med J. 1965 Jun 5;1(5448):1467-70
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         14288084
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Semin Respir Infect. 1989 Dec;4(4):253-60
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         2697050
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="MEDLINE">
+     <pmid version="1">
+      11023724
+     </pmid>
+     <datecompleted>
+      <year>
+       2000
+      </year>
+      <month>
+       11
+      </month>
+      <day>
+       07
+      </day>
+     </datecompleted>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       09
+      </day>
+     </daterevised>
+     <article pubmodel="Print">
+      <journal>
+       <issn issntype="Print">
+        0195-6701
+       </issn>
+       <journalissue citedmedium="Print">
+        <volume>
+         46
+        </volume>
+        <issue>
+         1
+        </issue>
+        <pubdate>
+         <year>
+          2000
+         </year>
+         <month>
+          Sep
+         </month>
+        </pubdate>
+       </journalissue>
+       <title>
+        The Journal of hospital infection
+       </title>
+       <isoabbreviation>
+        J. Hosp. Infect.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Survival of human coronaviruses 229E and OC43 in suspension and after drying onsurfaces: a possible source ofhospital-acquired infections.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        55-60
+       </medlinepgn>
+      </pagination>
+      <abstract>
+       <abstracttext>
+        Strains OC43 and 229E of human coronaviruses (HCoV) cause one-third of common colds and hospital-acquired upper respiratory tract HCoV infections have been reported in premature newborns. To evaluate possible sources of infection, virus survival was studied in aqueous suspensions and on absorptive and non-absorptive surfaces representative of a hospital environment. Virus susceptibility to chemical disinfection with standard products was also characterized. Virus survived in saline solution for as long as six days but less in culture medium, with or without added cells. After drying, HCoV-229E infectivity was still detectable after 3h on various surfaces (aluminum, sterile latex surgical gloves, sterile sponges) but HCoV-OC43 survived 1h or less. Of the various chemical disinfectants tested, Proviodine reduced the virus infectious titre by at least 50%. This study suggests that surfaces and suspensions can be considered as possible sources of contamination that may lead to hospital-acquired infections with HCoV and should be appropriately disinfected.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Sizun
+        </lastname>
+        <forename>
+         J
+        </forename>
+        <initials>
+         J
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Human Health Research Center, INRS-Institut Armand-Frappier, University of Quebec, Laboratory of Neuroimmunovirology, Laval, Québec, H7V 1B7, Canada. Jacques.Sizun@univ-brest.fr
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Yu
+        </lastname>
+        <forename>
+         M W
+        </forename>
+        <initials>
+         MW
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Talbot
+        </lastname>
+        <forename>
+         P J
+        </forename>
+        <initials>
+         PJ
+        </initials>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+       <publicationtype ui="D013485">
+        Research Support, Non-U.S. Gov't
+       </publicationtype>
+      </publicationtypelist>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       England
+      </country>
+      <medlineta>
+       J Hosp Infect
+      </medlineta>
+      <nlmuniqueid>
+       8007166
+      </nlmuniqueid>
+      <issnlinking>
+       0195-6701
+      </issnlinking>
+     </medlinejournalinfo>
+     <chemicallist>
+      <chemical>
+       <registrynumber>
+        0
+       </registrynumber>
+       <nameofsubstance ui="D004202">
+        Disinfectants
+       </nameofsubstance>
+      </chemical>
+      <chemical>
+       <registrynumber>
+        0
+       </registrynumber>
+       <nameofsubstance ui="D013535">
+        Suspensions
+       </nameofsubstance>
+      </chemical>
+     </chemicallist>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <meshheadinglist>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D017934">
+        Coronavirus
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000145">
+        classification
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000187">
+        drug effects
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000302">
+        isolation &amp; purification
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000502">
+        physiology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D028941">
+        Coronavirus 229E, Human
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D018352">
+        Coronavirus Infections
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000517">
+        prevention &amp; control
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D028962">
+        Coronavirus OC43, Human
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D003428">
+        Cross Infection
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000517">
+        prevention &amp; control
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D004202">
+        Disinfectants
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000494">
+        pharmacology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D004203">
+        Disinfection
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000379">
+        methods
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D004784">
+        Environmental Monitoring
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000379">
+        methods
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D004866">
+        Equipment Contamination
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D004865">
+        Equipment and Supplies, Hospital
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000382">
+        microbiology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" type="Geographic" ui="D005602">
+        France
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D006801">
+        Humans
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D007231">
+        Infant, Newborn
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D007234">
+        Infant, Premature
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D012141">
+        Respiratory Tract Infections
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000517">
+        prevention &amp; control
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D013535">
+        Suspensions
+       </descriptorname>
+      </meshheading>
+     </meshheadinglist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2000
+       </year>
+       <month>
+        10
+       </month>
+       <day>
+        12
+       </day>
+       <hour>
+        11
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2001
+       </year>
+       <month>
+        2
+       </month>
+       <day>
+        28
+       </day>
+       <hour>
+        10
+       </hour>
+       <minute>
+        1
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2000
+       </year>
+       <month>
+        10
+       </month>
+       <day>
+        12
+       </day>
+       <hour>
+        11
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      ppublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       11023724
+      </articleid>
+      <articleid idtype="doi">
+       10.1053/jhin.2000.0795
+      </articleid>
+      <articleid idtype="pii">
+       S0195-6701(00)90795-3
+      </articleid>
+      <articleid idtype="pmc">
+       PMC7134510
+      </articleid>
+     </articleidlist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 1999 Apr;73(4):3338-50
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         10074188
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Acta Paediatr. 1993 Mar;82(3):238
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         8388276
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Can J Microbiol. 1987 Sep;33(9):802-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         2825955
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Clin Microbiol. 1991 Oct;29(10):2115-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         1658033
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Pediatr Infect Dis J. 1993 Jul;12(7):582-4
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         8346001
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Am Geriatr Soc. 1997 Jun;45(6):706-11
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         9180664
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Gen Virol. 1992 Oct;73 ( Pt 10):2731-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         1402806
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Hosp Infect. 1995 Jun;30 Suppl:389-96
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         7560977
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Virus Res. 1992 Feb;22(2):125-41
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         1373555
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Br Med J. 1967 Sep 23;3(5568):767-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6043624
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Am J Infect Control. 1990 Feb;18(1):18-23
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         2156469
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Can J Microbiol. 1989 Oct;35(10):972-4
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         2819602
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol. 1999 Apr;73(4):3326-37
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         10074187
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Virol Methods. 1998 Jun;72(2):145-52
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         9694322
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Med Virol. 1980;5(3):221-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         6262450
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Acta Paediatr. 1995 Jun;84(6):617-20
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         7670241
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Infect Dis. 1980 Jan;141(1):98-102
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         7365274
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        N Engl J Med. 1973 Jun 28;288(26):1361-4
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         4350527
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Gen Virol. 1985 Dec;66 ( Pt 12):2743-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         2999318
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+    </pubmeddata>
+   </pubmedarticle>
+  </pubmedarticleset>
+ </body>
+</html>

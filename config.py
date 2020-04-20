@@ -20,4 +20,8 @@ MODEL_TYPE = 'drmm'  # 'dense', 'drmm'
 RUN_DIR = './artifact/runs/'
 RERANKED_RUN = 'reranked_drmm'
 
+PUBMED_SCRAPE = True
+PUBMED_FRONT = 'https://pubmed.ncbi.nlm.nih.gov/?term='
+RESULT_SIZE = 20
+
 RERANK_WEIGHT = 0.5
