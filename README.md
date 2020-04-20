@@ -2,6 +2,9 @@
 ## Workflow 
 ![workflow](doc/workflow.png)
 ### Setup
+Our retrieval pipeline relies on the following dependencies:  
+[[docker](https://docker-py.readthedocs.io/en/stable/)][[elasticsearch](https://elasticsearch-py.readthedocs.io/en/master/)][[requests](https://2.python-requests.org/en/master/)][[beautifulsoup](https://www.crummy.com/software/BeautifulSoup/)][[matchzoo](https://github.com/NTMC-Community/MatchZoo)]
+
 * Install docker. When running on HPC (Ubuntu VM):  
 ``` 
 sudo usermod -aG docker $USER
@@ -61,15 +64,32 @@ python3 rerank.py
 ### `config.py`
 | param | comment |
 | ---  | --- |
-| `docs` | dictionary with index names as keys and paths to data as values |
-| `BULK` | if set to `True` data is indexed in bulk |   
-| `SINGLE_IDX` | if is not `None`, all data is indexed into one instance |   
-| `topic` | path to topic file | 
+| docs | dictionary with index names as keys and paths to data as values |
+| BULK | if set to `True` data is indexed in bulk |   
+| SINGLE_IDX | if is not `None`, all data is indexed into one instance |   
+| topic | path to topic file | 
+| BASELINE | |
+| DATA | |
+| META | |
+| VALID_ID | |
+| ESEARCH | |
+| EFETCH | |
+| RETMODE | |
+| PUBMED_FETCH | |
+| PUBMED_DUMP_DATE | |
+| MODEL_DUMP | |
+| MODEL_TYPE | |
+| RUN_DIR | |
+| RERANKED_RUN | |
+| PUBMED_SCRAPE | |
+| PUBMED_FRONT | |
+| RESULT_SIZE | |
+| RERANK_WEIGHT | |
 
 ### Datasets
 | name | link |
 | ---  | --- |
-| `comm` | [commercial use subset](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/comm_use_subset.tar.gz) data |
-| `noncomm` | [non-commercial use subset](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/noncomm_use_subset.tar.gz) data |   
-| `custom` | [custom license subset ](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/custom_license.tar.gz) data |   
-| `biorxiv` | [bioRxiv/medRxiv subset](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/biorxiv_medrxiv.tar.gz) data | 
+| `comm` | [commercial use subset](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/comm_use_subset.tar.gz) |
+| `noncomm` | [non-commercial use subset](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/noncomm_use_subset.tar.gz) |   
+| `custom` | [custom license subset ](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/custom_license.tar.gz) |   
+| `biorxiv` | [bioRxiv/medRxiv subset](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/biorxiv_medrxiv.tar.gz) | 
