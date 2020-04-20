@@ -15,6 +15,11 @@ source venv/bin/activate
 ```shell script
 pip3 install -r requirements.txt
 ```  
+Run `python3` and install nltk data:  
+```shell script
+>>> import nltk
+>>> nltk.download('punkt')
+```
 * Download data from [semanticscholar](https://pages.semanticscholar.org/coronavirus-research), extract it and place it in `./data/`. 
 ``` 
 ./getDataSets.sh
