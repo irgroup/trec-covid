@@ -3,7 +3,7 @@ import json
 import pandas as pd
 from bs4 import BeautifulSoup as bs
 import matchzoo as mz
-from config import topic, PUBMED_FETCH, PUBMED_DUMP_DATE
+from config import TOPIC, PUBMED_FETCH, PUBMED_DUMP_DATE
 
 
 def query_dict(topic_file):
@@ -22,7 +22,7 @@ def query_dict(topic_file):
 
 
 def train_data(topic_train):
-    queries = query_dict(topic)
+    queries = query_dict(TOPIC)
 
     text_left = []
     id_left = []

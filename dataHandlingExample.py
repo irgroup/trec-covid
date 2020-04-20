@@ -2,11 +2,11 @@ import os
 import pandas as pd
 from bs4 import BeautifulSoup as bs
 import matchzoo as mz
-from config import topic, PUBMED_FETCH, PUBMED_DUMP_DATE
+from config import TOPIC, PUBMED_FETCH, PUBMED_DUMP_DATE
 from util import query_dict
 
 topic_train = 1
-queries = query_dict(topic)
+queries = query_dict(TOPIC)
 
 text_left = []
 id_left = []

@@ -64,10 +64,10 @@ python3 rerank.py
 ### `config.py`
 | param | comment |
 | ---  | --- |
-| docs | dictionary with index names as keys and paths to data as values |
+| DOCS | dictionary with index names as keys and paths to data as values |
 | BULK | if set to `True` data is indexed in bulk |   
 | SINGLE_IDX | if is not `None`, all data is indexed into one instance |   
-| topic | path to topic file | 
+| TOPIC | path to topic file | 
 | BASELINE | name of the baseline run |
 | DATA | path to directory with subsets |
 | META | path to `metadata.csv` |

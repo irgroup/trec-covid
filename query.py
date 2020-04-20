@@ -1,7 +1,7 @@
 from elasticsearch import Elasticsearch
 from elasticsearch_dsl import Search
 from elasticsearch_dsl.query import MultiMatch
-from config import docs, topic, SINGLE_IDX, META, VALID_ID, RUN_DIR
+from config import DOCS, TOPIC, SINGLE_IDX, META, VALID_ID, RUN_DIR
 import pandas as pd
 from util import query_dict
 
@@ -15,10 +15,10 @@ if __name__ == '__main__':
                          'port': 9200,
                          'timeout': 3600}])
 
-    queries = query_dict(topic)
+    queries = query_dict(TOPIC)
 
     if SINGLE_IDX is None:
-        for idx,path in docs.items():
+        for idx,path in DOCS.items():
             with open('./runs/' + idx, 'w') as run:
                 for num, title in queries.items():
                     query = MultiMatch(query=title,

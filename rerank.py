@@ -2,7 +2,7 @@ import os
 import pandas as pd
 import numpy as np
 import matchzoo as mz
-from config import META, MODEL_DUMP, MODEL_TYPE, RERANKED_RUN, DATA, RUN_DIR, BASELINE, RERANK_WEIGHT, topic
+from config import META, MODEL_DUMP, MODEL_TYPE, RERANKED_RUN, DATA, RUN_DIR, BASELINE, RERANK_WEIGHT, TOPIC
 from util import query_dict, map_sha_path, test_data, train_data
 
 
@@ -20,7 +20,7 @@ if __name__ == '__main__':
     glove_embedding = mz.datasets.embeddings.load_glove_embedding(dimension=300)
 
 
-    for topic_number, query in query_dict(topic).items():
+    for topic_number, query in query_dict(TOPIC).items():
         topic_df = df_baseline[df_baseline['topic'] == int(topic_number)]
         cord_uids = topic_df['cord_uid']
 

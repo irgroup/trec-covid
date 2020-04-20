@@ -2,12 +2,12 @@ import os
 import numpy as np
 import matchzoo as mz
 from util import train_data, query_dict
-from config import MODEL_DUMP, MODEL_TYPE, topic
+from config import MODEL_DUMP, MODEL_TYPE, TOPIC
 
 
 if __name__ == '__main__':
 
-    for topic_number, query in query_dict(topic).items():
+    for topic_number, query in query_dict(TOPIC).items():
 
         if MODEL_TYPE == 'dense':
             task = mz.tasks.Ranking()

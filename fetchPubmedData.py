@@ -4,10 +4,10 @@ import requests as rq
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-from config import EFETCH, ESEARCH, RETMODE, PUBMED_FETCH, PUBMED_SCRAPE, PUBMED_FRONT, RESULT_SIZE, topic
+from config import EFETCH, ESEARCH, RETMODE, PUBMED_FETCH, PUBMED_SCRAPE, PUBMED_FRONT, RESULT_SIZE, TOPIC
 from util import query_dict
 
-queries = query_dict(topic)
+queries = query_dict(TOPIC)
 
 now = datetime.now()
 date_str = now.date().strftime("%Y-%m-%d")
