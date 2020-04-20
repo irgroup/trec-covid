@@ -68,23 +68,23 @@ python3 rerank.py
 | BULK | if set to `True` data is indexed in bulk |   
 | SINGLE_IDX | if is not `None`, all data is indexed into one instance |   
 | topic | path to topic file | 
-| BASELINE | |
-| DATA | |
-| META | |
-| VALID_ID | |
-| ESEARCH | |
-| EFETCH | |
-| RETMODE | |
-| PUBMED_FETCH | |
-| PUBMED_DUMP_DATE | |
-| MODEL_DUMP | |
-| MODEL_TYPE | |
-| RUN_DIR | |
-| RERANKED_RUN | |
-| PUBMED_SCRAPE | |
-| PUBMED_FRONT | |
-| RESULT_SIZE | |
-| RERANK_WEIGHT | |
+| BASELINE | name of the baseline run |
+| DATA | path to directory with subsets |
+| META | path to `metadata.csv` |
+| VALID_ID | path to xml file with valid doc ids |
+| ESEARCH | pubmed eutils api to retrieve pmids given a query term |
+| EFETCH | pubmed eutils to retrieve document data given one or more pmids |
+| RETMODE | datatype of pubmed eutils results |
+| PUBMED_FETCH | directory to fetched data from pubmed |
+| PUBMED_DUMP_DATE | specify date of pubmed data for training |
+| MODEL_DUMP | path to directory where model weights are stored |
+| MODEL_TYPE | specify model type. at the moment `dense` and `drmm` are supported |
+| RUN_DIR | path to the output runs |
+| RERANKED_RUN | name of the reranked run |
+| PUBMED_SCRAPE | bool. if set to `True`, pmids are scraped from pubmed frontend |
+| PUBMED_FRONT | URL of the pubmed frontend |
+| RESULT_SIZE | number of results to be retrieved from PUBMED_FRONT |
+| RERANK_WEIGHT | weight param for reranker score. `default: 0.5` |
 
 ### Datasets
 | name | link |
