@@ -43,9 +43,11 @@ def train_data(topic_train):
                     titles = article.find_all('article-title')
 
                     for title in titles:
-                        txt = txt + ' ' + title.text.replace('\n', ' ').strip(' ')
+                        title_text = title.text.replace('\n', ' ').strip(' ')
+                        ''.join([txt, ' ', title_text])
                     for section in sections:
-                        txt = txt + ' ' + section.text.replace('\n', '').strip(' ')
+                        section_text = section.text.replace('\n', '').strip(' ')
+                        ''.join([txt, ' ', section_text])
 
                     rel = (1 if k == str(topic_train) else 0)
                     id_left.append(str(k))
