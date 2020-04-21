@@ -3,7 +3,7 @@ import json
 import pandas as pd
 from bs4 import BeautifulSoup as bs
 import matchzoo as mz
-from config import TOPIC, PUBMED_FETCH, PUBMED_DUMP_DATE
+from config import TOPIC, PUBMED_FETCH, PUBMED_DUMP_DATE, FULLTEXT_PMC
 
 
 def query_dict(topic_file):
@@ -35,23 +35,45 @@ def train_data(topic_train):
         with open(file_path, 'r') as input:
             soup = bs(input.read(), 'lxml')
 
-            articles = soup.find_all('pubmedarticle')
-            for article in articles:
-                pbmid = article.find('articleid', {"idtype": "pubmed"})
-                pbmid_str = pbmid.text.replace('\n', '').strip()
-                abstract = article.find('abstract')
-                if abstract is None:
-                    continue
-                else:
-                    abstract_text = abstract.text.replace('\n', '')
+            if FULLTEXT_PMC:
+                articles = soup.find('pmc-articleset').find_all('article')
+                for article in articles:
+                    txt = article.abstract.text.replace('\n', ' ').strip(' ')
+                    sections = article.find_all('sec')
+                    titles = article.find_all('article-title')
 
-                title = article.articletitle.text.replace('\n', '').strip()
-                rel = (1 if k == str(topic_train) else 0)
-                id_left.append(str(k))
-                text_left.append(v)
-                id_right.append(pbmid_str)
-                text_right.append(title + abstract_text)
-                label.append(rel)
+                    for title in titles:
+                        txt = txt + ' ' + title.text.replace('\n', ' ').strip(' ')
+                    for section in sections:
+                        txt = txt + ' ' + section.text.replace('\n', '').strip(' ')
+
+                    rel = (1 if k == str(topic_train) else 0)
+                    id_left.append(str(k))
+                    text_left.append(v)
+                    id_right.append(pbmid_str)
+                    text_right.append(txt)
+                    label.append(rel)
+
+            else:
+                articles = soup.find_all('pubmedarticle')
+                for article in articles:
+                    pbmid = article.find('articleid', {"idtype": "pubmed"})
+                    pbmid_str = pbmid.text.replace('\n', '').strip()
+                    abstract = article.find('abstract')
+                    if abstract is None:
+                        continue
+                    else:
+                        abstract_text = abstract.text.replace('\n', '')
+
+                    title = article.articletitle.text.replace('\n', '').strip()
+                    txt = title + abstract_text
+
+                    rel = (1 if k == str(topic_train) else 0)
+                    id_left.append(str(k))
+                    text_left.append(v)
+                    id_right.append(pbmid_str)
+                    text_right.append(txt)
+                    label.append(rel)
 
     df = pd.DataFrame(data={'text_left': text_left,
                             'id_left': id_left,

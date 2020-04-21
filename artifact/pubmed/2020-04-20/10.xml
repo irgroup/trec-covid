@@ -1,0 +1,4565 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<html>
+ <body>
+  <pubmedarticleset>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32217113
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       03
+      </month>
+      <day>
+       28
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1097-6868
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Mar
+         </month>
+         <day>
+          23
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        American journal of obstetrics and gynecology
+       </title>
+       <isoabbreviation>
+        Am. J. Obstet. Gynecol.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Coronavirus Disease 2019 (COVID-19) Pandemic and Pregnancy.
+      </articletitle>
+      <elocationid eidtype="pii" validyn="Y">
+       S0002-9378(20)30343-4
+      </elocationid>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1016/j.ajog.2020.03.021
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        The current coronavirus disease 2019 (COVID-19) pneumonia pandemic, caused by the severe acute respiratory syndrome 2 (SARS-CoV-2) virus, is spreading globally at an accelerated rate, with a basic reproduction number (R0) of 2 - 2.5, indicating that 2 - 3 persons will be infected from an index patient. A serious public health emergency, it is particularly deadly in vulnerable populations and communities in which healthcare providers are insufficiently prepared to manage the infection. As of March 16, 2020, there are more than 180,000 confirmed cases of COVID-19 worldwide, with over 7,000 related deaths. The SARS-CoV-2 virus has been isolated from asymptomatic individuals, and affected patients continue to be infectious two weeks after cessation of symptoms. The substantial morbidity and socioeconomic impact have necessitated drastic measures across all continents, including nationwide lockdowns and border closures. Pregnant women and their fetuses represent a high-risk population during infectious disease outbreaks. To date, the outcomes of 55 pregnant women infected with COVID-19 and 46 neonates have been reported in the literature, with no definite evidence of vertical transmission. Physiological and mechanical changes in pregnancy increase susceptibility to infections in general, particularly when the cardiorespiratory system is affected, and encourage rapid progression to respiratory failure in the gravida. Furthermore, the pregnancy bias towards T-helper 2 (Th2) system dominance which protects the fetus, leaves the mother vulnerable to viral infections, which are more effectively contained by the Th1 system. These unique challenges mandate an integrated approach to pregnancies affected by SARS-CoV-2. Here we present a review of COVID-19 in pregnancy, bringing together the various factors integral to the understanding of pathophysiology and susceptibility, diagnostic challenges with real-time reverse transcriptase polymerase chain reaction (RT-PCR) assays, therapeutic controversies, intrauterine transmission and maternal-fetal complications. We discuss the latest options in antiviral therapy and vaccine development, including the novel use of chloroquine in the management of COVID-19. Fetal surveillance, in view of the predisposition to growth restriction and special considerations during labor and delivery are addressed. Additionally, we focus on keeping frontline obstetric care providers safe while continuing to provide essential services. Our clinical service model is built around the principles of workplace segregation, responsible social distancing, containment of cross-infection to healthcare providers, judicious use of personal protective equipment and telemedicine. Our aim is to share a framework which can be adopted by tertiary maternity units managing pregnant women in the flux of a pandemic while maintaining the safety of the patient and healthcare provider at its core.
+       </abstracttext>
+       <copyrightinformation>
+        Copyright © 2020 Elsevier Inc. All rights reserved.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Dashraath
+        </lastname>
+        <forename>
+         Pradip
+        </forename>
+        <initials>
+         P
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Obstetrics &amp; Gynaecology, National University Hospital, Singapore. Electronic address: pradip_dashraath_vijayakumar@nuhs.edu.sg.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Jing Lin Jeslyn
+        </lastname>
+        <forename>
+         Wong
+        </forename>
+        <initials>
+         W
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Obstetrics &amp; Gynaecology, National University Hospital, Singapore.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Mei Xian Karen
+        </lastname>
+        <forename>
+         Lim
+        </forename>
+        <initials>
+         L
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Obstetrics &amp; Gynaecology, National University Hospital, Singapore.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Li Min
+        </lastname>
+        <forename>
+         Lim
+        </forename>
+        <initials>
+         L
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Obstetrics &amp; Gynaecology, National University Hospital, Singapore.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Sarah
+        </lastname>
+        <forename>
+         Li
+        </forename>
+        <initials>
+         L
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Obstetrics &amp; Gynaecology, National University Hospital, Singapore.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Biswas
+        </lastname>
+        <forename>
+         Arijit
+        </forename>
+        <initials>
+         A
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Obstetrics &amp; Gynaecology, National University Hospital, Singapore; Yong Loo Lin School of Medicine, National University of Singapore.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Arjandas Choolani
+        </lastname>
+        <forename>
+         Mahesh
+        </forename>
+        <initials>
+         M
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Obstetrics &amp; Gynaecology, National University Hospital, Singapore; Yong Loo Lin School of Medicine, National University of Singapore.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Mattar
+        </lastname>
+        <forename>
+         Citra
+        </forename>
+        <initials>
+         C
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Obstetrics &amp; Gynaecology, National University Hospital, Singapore; Yong Loo Lin School of Medicine, National University of Singapore.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Lin
+        </lastname>
+        <forename>
+         Su Lin
+        </forename>
+        <initials>
+         SL
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Obstetrics &amp; Gynaecology, National University Hospital, Singapore; Yong Loo Lin School of Medicine, National University of Singapore.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        23
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       United States
+      </country>
+      <medlineta>
+       Am J Obstet Gynecol
+      </medlineta>
+      <nlmuniqueid>
+       0370476
+      </nlmuniqueid>
+      <issnlinking>
+       0002-9378
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      AIM
+     </citationsubset>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       COVID-19
+      </keyword>
+      <keyword majortopicyn="N">
+       MERS-CoV
+      </keyword>
+      <keyword majortopicyn="N">
+       SARS-CoV
+      </keyword>
+      <keyword majortopicyn="N">
+       SARS-CoV-2
+      </keyword>
+      <keyword majortopicyn="N">
+       antiviral
+      </keyword>
+      <keyword majortopicyn="N">
+       baricitinib
+      </keyword>
+      <keyword majortopicyn="N">
+       chloroquine
+      </keyword>
+      <keyword majortopicyn="N">
+       coronavirus
+      </keyword>
+      <keyword majortopicyn="N">
+       fever
+      </keyword>
+      <keyword majortopicyn="N">
+       mask
+      </keyword>
+      <keyword majortopicyn="N">
+       morbidity
+      </keyword>
+      <keyword majortopicyn="N">
+       mortality
+      </keyword>
+      <keyword majortopicyn="N">
+       obstetric management
+      </keyword>
+      <keyword majortopicyn="N">
+       pandemic
+      </keyword>
+      <keyword majortopicyn="N">
+       pregnancy
+      </keyword>
+      <keyword majortopicyn="N">
+       remdesivir
+      </keyword>
+      <keyword majortopicyn="N">
+       respiratory distress syndrome
+      </keyword>
+      <keyword majortopicyn="N">
+       respiratory failure
+      </keyword>
+      <keyword majortopicyn="N">
+       sepsis
+      </keyword>
+      <keyword majortopicyn="N">
+       susceptibility
+      </keyword>
+      <keyword majortopicyn="N">
+       virus
+      </keyword>
+     </keywordlist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2020
+       </year>
+       <month>
+        02
+       </month>
+       <day>
+        25
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="revised">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        17
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        17
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        3
+       </month>
+       <day>
+        29
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2020
+       </year>
+       <month>
+        3
+       </month>
+       <day>
+        29
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2020
+       </year>
+       <month>
+        3
+       </month>
+       <day>
+        29
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32217113
+      </articleid>
+      <articleid idtype="pii">
+       S0002-9378(20)30343-4
+      </articleid>
+      <articleid idtype="doi">
+       10.1016/j.ajog.2020.03.021
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32234338
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       14
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1090-2139
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Mar
+         </month>
+         <day>
+          29
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Brain, behavior, and immunity
+       </title>
+       <isoabbreviation>
+        Brain Behav. Immun.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Using psychoneuroimmunity against COVID-19.
+      </articletitle>
+      <elocationid eidtype="pii" validyn="Y">
+       S0889-1591(20)30391-3
+      </elocationid>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1016/j.bbi.2020.03.025
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        The worldwide outbreak of coronavirus disease 2019 (COVID-19) raises concerns of widespread panic and anxiety in individuals subjected to the real or perceived threat of the virus. Compared to general populations, patients who are institutionalized in a closed unit are also very vulnerable to COVID-19 infection and complications. This crisis touched on difficult issues of not only psychiatric care and ethics, but also psychological impacts to psychiatric care givers. In this Viewpoint, we address both physical and biopsychosocial aspects of this infection, as well as the psychoneuroimmunity of preventive strategies of healthy lifestyle, regular exercise, balanced nutrition, quality sleep and a strong connection with people. Social distancing and wearing masks might help us from pathogen exposure, yet such these measures also prevent us from expressing compassion and friendliness. Therefore, all forms of psychological support should be routinely implemented not only to consider psychological resilience but also to enhance psychoneuroimmunity against COVID-19.
+       </abstracttext>
+       <copyrightinformation>
+        Copyright © 2020 Elsevier Inc. All rights reserved.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Kim
+        </lastname>
+        <forename>
+         Sung-Wan
+        </forename>
+        <initials>
+         SW
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Psychiatry, Chonnam National University Medical School; Mindlink, Gwangju Bukgu Community Mental Health Center, Gwangju, Republic of Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Su
+        </lastname>
+        <forename>
+         Kuan-Pin
+        </forename>
+        <initials>
+         KP
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Psychiatry &amp; Mind-Body Interface Laboratory (MBI-Lab), China Medical University Hospital, Taichung, Taiwan; College of Medicine, China Medical University, Taichung, Taiwan; An-Nan Hospital, China Medical University, Tainan, Taiwan. Electronic address: cobolsu@gmail.com.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+       <publicationtype ui="D016454">
+        Review
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        29
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       Netherlands
+      </country>
+      <medlineta>
+       Brain Behav Immun
+      </medlineta>
+      <nlmuniqueid>
+       8800478
+      </nlmuniqueid>
+      <issnlinking>
+       0889-1591
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        23
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="revised">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        25
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        25
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        3
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        3
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        3
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32234338
+      </articleid>
+      <articleid idtype="pii">
+       S0889-1591(20)30391-3
+      </articleid>
+      <articleid idtype="doi">
+       10.1016/j.bbi.2020.03.025
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="MEDLINE">
+     <pmid version="1">
+      32267544
+     </pmid>
+     <datecompleted>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       13
+      </day>
+     </datecompleted>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       13
+      </day>
+     </daterevised>
+     <article pubmodel="Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1469-493X
+       </issn>
+       <journalissue citedmedium="Internet">
+        <volume>
+         4
+        </volume>
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          04
+         </month>
+         <day>
+          08
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        The Cochrane database of systematic reviews
+       </title>
+       <isoabbreviation>
+        Cochrane Database Syst Rev
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Quarantine alone or in combination with other public health measures to control COVID-19: a rapid review.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        CD013574
+       </medlinepgn>
+      </pagination>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1002/14651858.CD013574
+      </elocationid>
+      <abstract>
+       <abstracttext label="BACKGROUND">
+        Coronavirus disease 2019 (COVID-19) is a rapidly emerging disease that has been classified a pandemic by the World Health Organization (WHO). To support WHO with their recommendations on quarantine, we conducted a rapid review on the effectiveness of quarantine during severe coronavirus outbreaks.
+       </abstracttext>
+       <abstracttext label="OBJECTIVES">
+        We conducted a rapid review to assess the effects of quarantine (alone or in combination with other measures) of individuals who had contact with confirmed cases of COVID-19, who travelled from countries with a declared outbreak, or who live in regions with high transmission of the disease.
+       </abstracttext>
+       <abstracttext label="SEARCH METHODS">
+        An information specialist searched PubMed, Ovid MEDLINE, WHO Global Index Medicus, Embase, and CINAHL on 12 February 2020 and updated the search on 12 March 2020. WHO provided records from daily searches in Chinese databases up to 16 March 2020.
+       </abstracttext>
+       <abstracttext label="SELECTION CRITERIA">
+        Cohort studies, case-control-studies, case series, time series, interrupted time series, and mathematical modelling studies that assessed the effect of any type of quarantine to control COVID-19. We also included studies on SARS (severe acute respiratory syndrome) and MERS (Middle East respiratory syndrome) as indirect evidence for the current coronavirus outbreak.
+       </abstracttext>
+       <abstracttext label="DATA COLLECTION AND ANALYSIS">
+        Two review authors independently screened 30% of records; a single review author screened the remaining 70%. Two review authors screened all potentially relevant full-text publications independently. One review author extracted data and assessed evidence quality with GRADE and a second review author checked the assessment. We rated the certainty of evidence for the four primary outcomes: incidence, onward transmission, mortality, and resource use.
+       </abstracttext>
+       <abstracttext label="MAIN RESULTS">
+        We included 29 studies; 10 modelling studies on COVID-19, four observational studies and 15 modelling studies on SARS and MERS. Because of the diverse methods of measurement and analysis across the outcomes of interest, we could not conduct a meta-analysis and conducted a narrative synthesis. Due to the type of evidence found for this review, GRADE rates the certainty of the evidence as low to very low. Modeling studies consistently reported a benefit of the simulated quarantine measures, for example, quarantine of people exposed to confirmed or suspected cases averted 44% to 81% incident cases and 31% to 63% of deaths compared to no measures based on different scenarios (incident cases: 4 modelling studies on COVID-19, SARS; mortality: 2 modelling studies on COVID-19, SARS, low-certainty evidence). Very low-certainty evidence suggests that the earlier quarantine measures are implemented, the greater the cost savings (2 modelling studies on SARS). Very low-certainty evidence indicated that the effect of quarantine of travellers from a country with a declared outbreak on reducing incidence and deaths was small (2 modelling studies on SARS). When the models combined quarantine with other prevention and control measures, including school closures, travel restrictions and social distancing, the models demonstrated a larger effect on the reduction of new cases, transmissions and deaths than individual measures alone (incident cases: 4 modelling studies on COVID-19; onward transmission: 2 modelling studies on COVID-19; mortality: 2 modelling studies on COVID-19; low-certainty evidence). Studies on SARS and MERS were consistent with findings from the studies on COVID-19.
+       </abstracttext>
+       <abstracttext label="AUTHORS' CONCLUSIONS">
+        Current evidence for COVID-19 is limited to modelling studies that make parameter assumptions based on the current, fragmented knowledge. Findings consistently indicate that quarantine is important in reducing incidence and mortality during the COVID-19 pandemic. Early implementation of quarantine and combining quarantine with other public health measures is important to ensure effectiveness. In order to maintain the best possible balance of measures, decision makers must constantly monitor the outbreak situation and the impact of the measures implemented. Testing in representative samples in different settings could help assess the true prevalence of infection, and would reduce uncertainty of modelling assumptions. This review was commissioned by WHO and supported by Danube-University-Krems.
+       </abstracttext>
+       <copyrightinformation>
+        Copyright © 2020 The Cochrane Collaboration. Published by John Wiley &amp; Sons, Ltd.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Nussbaumer-Streit
+        </lastname>
+        <forename>
+         Barbara
+        </forename>
+        <initials>
+         B
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Danube University Krems, Cochrane Austria, Department for Evidence-based Medicine and Evaluation, Dr.-Karl-Dorrek-Str. 30, Krems, Austria, 3500.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Mayr
+        </lastname>
+        <forename>
+         Verena
+        </forename>
+        <initials>
+         V
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Danube University Krems, Cochrane Austria, Department for Evidence-based Medicine and Evaluation, Dr.-Karl-Dorrek-Str. 30, Krems, Austria, 3500.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Dobrescu
+        </lastname>
+        <forename>
+         Andreea Iulia
+        </forename>
+        <initials>
+         AI
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Danube University Krems, Cochrane Austria, Department for Evidence-based Medicine and Evaluation, Dr.-Karl-Dorrek-Str. 30, Krems, Austria, 3500.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Chapman
+        </lastname>
+        <forename>
+         Andrea
+        </forename>
+        <initials>
+         A
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Danube University Krems, Cochrane Austria, Department for Evidence-based Medicine and Evaluation, Dr.-Karl-Dorrek-Str. 30, Krems, Austria, 3500.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Persad
+        </lastname>
+        <forename>
+         Emma
+        </forename>
+        <initials>
+         E
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Danube University Krems, Cochrane Austria, Department for Evidence-based Medicine and Evaluation, Dr.-Karl-Dorrek-Str. 30, Krems, Austria, 3500.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Klerings
+        </lastname>
+        <forename>
+         Irma
+        </forename>
+        <initials>
+         I
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Danube University Krems, Cochrane Austria, Department for Evidence-based Medicine and Evaluation, Dr.-Karl-Dorrek-Str. 30, Krems, Austria, 3500.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Wagner
+        </lastname>
+        <forename>
+         Gernot
+        </forename>
+        <initials>
+         G
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Danube University Krems, Cochrane Austria, Department for Evidence-based Medicine and Evaluation, Dr.-Karl-Dorrek-Str. 30, Krems, Austria, 3500.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Siebert
+        </lastname>
+        <forename>
+         Uwe
+        </forename>
+        <initials>
+         U
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Health Services Research and Health Technology Assessment, UMIT - University for Health Sciences, Medical Informatics and Technology, Department of Public Health, Hall in Tirol, Austria.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Oncotyrol - Center for Personalized Cancer Medicine, Division of Health Technology Assessment and Bioinformatics, Innsbruck, Austria.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Harvard T.H. Chan School of Public Health, Center for Health Decision Science, Department of Health Policy and Management, Boston, USA.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Massachusetts General Hospital, Harvard Medical School, Institute for Technology Assessment and Department of Radiology, Boston, Massachusetts, USA.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Christof
+        </lastname>
+        <forename>
+         Claudia
+        </forename>
+        <initials>
+         C
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Danube University Krems, Cochrane Austria, Department for Evidence-based Medicine and Evaluation, Dr.-Karl-Dorrek-Str. 30, Krems, Austria, 3500.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Zachariah
+        </lastname>
+        <forename>
+         Casey
+        </forename>
+        <initials>
+         C
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Danube University Krems, Cochrane Austria, Department for Evidence-based Medicine and Evaluation, Dr.-Karl-Dorrek-Str. 30, Krems, Austria, 3500.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Gartlehner
+        </lastname>
+        <forename>
+         Gerald
+        </forename>
+        <initials>
+         G
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Danube University Krems, Cochrane Austria, Department for Evidence-based Medicine and Evaluation, Dr.-Karl-Dorrek-Str. 30, Krems, Austria, 3500.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          RTI International, Research Triangle Park, North Carolina, USA.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+       <publicationtype ui="D013485">
+        Research Support, Non-U.S. Gov't
+       </publicationtype>
+       <publicationtype ui="D000078182">
+        Systematic Review
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        08
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       England
+      </country>
+      <medlineta>
+       Cochrane Database Syst Rev
+      </medlineta>
+      <nlmuniqueid>
+       100909747
+      </nlmuniqueid>
+      <issnlinking>
+       1361-6137
+      </issnlinking>
+     </medlinejournalinfo>
+     <supplmeshlist>
+      <supplmeshname type="Disease" ui="C000657245">
+       COVID-19
+      </supplmeshname>
+      <supplmeshname type="Organism" ui="C000656484">
+       severe acute respiratory syndrome coronavirus 2
+      </supplmeshname>
+     </supplmeshlist>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <meshheadinglist>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D000073640">
+        Betacoronavirus
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000472">
+        pathogenicity
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D018352">
+        Coronavirus Infections
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000453">
+        epidemiology
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000517">
+        prevention &amp; control
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000635">
+        transmission
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D062665">
+        Epidemiological Monitoring
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D019317">
+        Evidence-Based Medicine
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D014943">
+        Global Health
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D006802">
+        Human Activities
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D006801">
+        Humans
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D015994">
+        Incidence
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D009026">
+        Mortality
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000639">
+        trends
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D058873">
+        Pandemics
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000517">
+        prevention &amp; control
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D011024">
+        Pneumonia, Viral
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000453">
+        epidemiology
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000517">
+        prevention &amp; control
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000635">
+        transmission
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D011634">
+        Public Health
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D011790">
+        Quarantine
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D014195">
+        Travel
+       </descriptorname>
+      </meshheading>
+     </meshheadinglist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        9
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        9
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        14
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      epublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32267544
+      </articleid>
+      <articleid idtype="doi">
+       10.1002/14651858.CD013574
+      </articleid>
+     </articleidlist>
+     <referencelist>
+      <title>
+       References
+      </title>
+     </referencelist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32251626
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       06
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        2468-2667
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          03
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        The Lancet. Public health
+       </title>
+       <isoabbreviation>
+        Lancet Public Health
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Impact of school closures for COVID-19 on the US health-care workforce and net mortality: a modelling study.
+      </articletitle>
+      <elocationid eidtype="pii" validyn="Y">
+       S2468-2667(20)30082-7
+      </elocationid>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1016/S2468-2667(20)30082-7
+      </elocationid>
+      <abstract>
+       <abstracttext label="BACKGROUND" nlmcategory="BACKGROUND">
+        The coronavirus disease 2019 (COVID-19) pandemic is leading to social (physical) distancing policies worldwide, including in the USA. Some of the first actions taken by governments are the closing of schools. The evidence that mandatory school closures reduce the number of cases and, ultimately, mortality comes from experience with influenza or from models that do not include the effect of school closure on the health-care labour force. The potential benefits from school closures need to be weighed against costs of health-care worker absenteeism associated with additional child-care obligations. In this study, we aimed to measure child-care obligations for US health-care workers arising from school closures when these are used as a social distancing measure. We then assessed how important the contribution of health-care workers would have to be in reducing mortality for their absenteeism due to child-care obligations to undo the benefits of school closures in reducing the number of cases.
+       </abstracttext>
+       <abstracttext label="METHODS" nlmcategory="METHODS">
+        For this modelling analysis, we used data from the monthly releases of the US Current Population Survey to characterise the family structure and probable within-household child-care options of US health-care workers. We accounted for the occupation within the health-care sector, state, and household structure to identify the segments of the health-care workforce that are most exposed to child-care obligations from school closures. We used these estimates to identify the critical level at which the importance of health-care labour supply in increasing the survival probability of a patient with COVID-19 would undo the benefits of school closures and ultimately increase cumulative mortality.
+       </abstracttext>
+       <abstracttext label="FINDINGS" nlmcategory="RESULTS">
+        Between January, 2018, and January, 2020, the US Current Population Survey included information on more than 3·1 million individuals across 1·3 million households. We found that the US health-care sector has some of the highest child-care obligations in the USA, with 28·8% (95% CI 28·5-29·1) of the health-care workforce needing to provide care for children aged 3-12 years. Assuming non-working adults or a sibling aged 13 years or older can provide child care, 15·0% (14·8-15·2) of the health-care workforce would still be in need of child care during a school closure. We observed substantial variation within the health-care system. We estimated that, combined with reasonable parameters for COVID-19 such as a 15·0% case reduction from school closings and 2·0% baseline mortality rate, a 15·0% decrease in the health-care labour force would need to decrease the survival probability per percent health-care worker lost by 17·6% for a school closure to increase cumulative mortality. Our model estimates that if the infection mortality rate of COVID-19 increases from 2·00% to 2·35% when the health-care workforce declines by 15·0%, school closures could lead to a greater number of deaths than they prevent.
+       </abstracttext>
+       <abstracttext label="INTERPRETATION" nlmcategory="CONCLUSIONS">
+        School closures come with many trade-offs, and can create unintended child-care obligations. Our results suggest that the potential contagion prevention from school closures needs to be carefully weighted with the potential loss of health-care workers from the standpoint of reducing cumulative mortality due to COVID-19, in the absence of mitigating measures.
+       </abstracttext>
+       <abstracttext label="FUNDING" nlmcategory="BACKGROUND">
+        None.
+       </abstracttext>
+       <copyrightinformation>
+        Copyright © 2020 The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY-NC-ND 4.0 license. Published by Elsevier Ltd.. All rights reserved.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Bayham
+        </lastname>
+        <forename>
+         Jude
+        </forename>
+        <initials>
+         J
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Agricultural and Resource Economics, Colorado State University, Fort Collins, CO, USA.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Fenichel
+        </lastname>
+        <forename>
+         Eli P
+        </forename>
+        <initials>
+         EP
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          School of Forestry and Environmental Studies, Yale University, New Haven, CT, USA. Electronic address: eli.fenichel@yale.edu.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        03
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       England
+      </country>
+      <medlineta>
+       Lancet Public Health
+      </medlineta>
+      <nlmuniqueid>
+       101699003
+      </nlmuniqueid>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        10
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="revised">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        23
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        30
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        7
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        7
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        7
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32251626
+      </articleid>
+      <articleid idtype="pii">
+       S2468-2667(20)30082-7
+      </articleid>
+      <articleid idtype="doi">
+       10.1016/S2468-2667(20)30082-7
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32305533
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       19
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1743-9159
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          16
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        International journal of surgery (London, England)
+       </title>
+       <isoabbreviation>
+        Int J Surg
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       The Socio-Economic Implications of the Coronavirus and COVID-19 Pandemic: A Review.
+      </articletitle>
+      <elocationid eidtype="pii" validyn="Y">
+       S1743-9191(20)30316-2
+      </elocationid>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1016/j.ijsu.2020.04.018
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        The COVID-19 pandemic has resulted in over 1.4 million confirmed cases and over 83,000 deaths globally. It has also sparked fears of an impending economic crisis and recession. Social distancing, self-isolation and travel restrictions forced a decrease in the workforce across all economic sectors and caused many jobs to be lost. Schools have closed down, and the need of commodities and manufactured products has decreased. In contrast, the need for medical supplies has significantly increased. The food sector has also seen a great demand due to panic-buying and stockpiling of food products. In response to this global outbreak, we summarise the socio-economic effects of COVID-19 on individual aspects of the world economy.
+       </abstracttext>
+       <copyrightinformation>
+        Copyright © 2020. Published by Elsevier Ltd.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Nicola
+        </lastname>
+        <forename>
+         Maria
+        </forename>
+        <initials>
+         M
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Imperial College Healthcare NHS Trust, London, United Kingdom. Electronic address: maria_n02@hotmail.com.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Alsafi
+        </lastname>
+        <forename>
+         Zaid
+        </forename>
+        <initials>
+         Z
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          UCL Medical School, University College London, United Kingdom. Electronic address: zchazal@ucl.ac.uk.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Sohrabi
+        </lastname>
+        <forename>
+         Catrin
+        </forename>
+        <initials>
+         C
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Barts and The London School of Medicine and Dentistry, Queen Mary University of London, United Kingdom. Electronic address: ha17021@qmul.ac.uk.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Kerwan
+        </lastname>
+        <forename>
+         Ahmed
+        </forename>
+        <initials>
+         A
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          GKT School of Medical Education, King's College London. Electronic address: ahmedkerwan@live.co.uk.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Al-Jabir
+        </lastname>
+        <forename>
+         Ahmed
+        </forename>
+        <initials>
+         A
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          GKT School of Medical Education, King's College London. Electronic address: ahmed@aljabir.co.uk.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Iosifidis
+        </lastname>
+        <forename>
+         Christos
+        </forename>
+        <initials>
+         C
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Barts and The London School of Medicine and Dentistry, Queen Mary University of London, United Kingdom. Electronic address: Iosifidischristos1@gmail.com.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Agha
+        </lastname>
+        <forename>
+         Maliha
+        </forename>
+        <initials>
+         M
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          IJS Publishing Group. Electronic address: maliha@ijspg.com.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Agha
+        </lastname>
+        <forename>
+         Riaz
+        </forename>
+        <initials>
+         R
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Barts Health NHS Trust, London, United Kingdom. Electronic address: mail@riazagha.com.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+       <publicationtype ui="D016454">
+        Review
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        16
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       England
+      </country>
+      <medlineta>
+       Int J Surg
+      </medlineta>
+      <nlmuniqueid>
+       101228232
+      </nlmuniqueid>
+      <issnlinking>
+       1743-9159
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       COVID-19
+      </keyword>
+      <keyword majortopicyn="N">
+       Coronavirus
+      </keyword>
+      <keyword majortopicyn="N">
+       Economy
+      </keyword>
+      <keyword majortopicyn="N">
+       SARS-CoV-2
+      </keyword>
+      <keyword majortopicyn="N">
+       economic impact
+      </keyword>
+     </keywordlist>
+     <coistatement>
+      Declaration of Competing Interest No conflicts of interest.
+     </coistatement>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        24
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="revised">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        09
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        12
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        20
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        20
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        20
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32305533
+      </articleid>
+      <articleid idtype="pii">
+       S1743-9191(20)30316-2
+      </articleid>
+      <articleid idtype="doi">
+       10.1016/j.ijsu.2020.04.018
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32294617
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       15
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1540-1413
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          15
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Journal of the National Comprehensive Cancer Network : JNCCN
+       </title>
+       <isoabbreviation>
+        J Natl Compr Canc Netw
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Safety at the Time of the COVID-19 Pandemic: How to Keep our Oncology Patients and Healthcare Workers Safe.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        1-6
+       </medlinepgn>
+      </pagination>
+      <elocationid eidtype="doi" validyn="Y">
+       10.6004/jnccn.2020.7572
+      </elocationid>
+      <elocationid eidtype="pii" validyn="Y">
+       jnccn20157
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        The novel coronavirus, SARS-CoV-2, was first detected as a respiratory illness in December 2019 in Wuhan City, China. Since then, coronavirus disease 2019 (COVID-19) has impacted every aspect of our lives worldwide. In a time when terms such as social distancing and flattening the curve have become a part of our vernacular, it is essential that we understand what measures can be implemented to protect our patients and healthcare workers. Undoubtedly, healthcare providers have had to rapidly alter care delivery models while simultaneously acknowledging the crucial unknowns of how these changes may affect clinical outcomes. This special feature reviews strategies on how to mitigate transmission of COVID-19 in an effort to reduce morbidity and mortality associated with the disease for patients with cancer without infection, for patients with cancer with COVID-19 infection, and for the healthcare workers caring for them, while continuing to provide the best possible cancer care. [Editor's Note: This article includes the most current information available at time of publication; however, recommendations regarding public safety and practice may change rapidly in this situation. Individuals should get the most up to date information from the CDC website.].
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Cinar
+        </lastname>
+        <forename>
+         Pelin
+        </forename>
+        <initials>
+         P
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          1Division of Medical Oncology, Department of Medicine, University of California San Francisco, California.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Kubal
+        </lastname>
+        <forename>
+         Timothy
+        </forename>
+        <initials>
+         T
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          2Moffitt Cancer Center, Tampa, Florida.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Freifeld
+        </lastname>
+        <forename>
+         Alison
+        </forename>
+        <initials>
+         A
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          3Fred &amp; Pamela Buffett Cancer Center, Omaha, Nebraska.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Mishra
+        </lastname>
+        <forename>
+         Asmita
+        </forename>
+        <initials>
+         A
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          2Moffitt Cancer Center, Tampa, Florida.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Shulman
+        </lastname>
+        <forename>
+         Lawrence
+        </forename>
+        <initials>
+         L
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          4Abramson Cancer Center at the University of Pennsylvania, Philadelphia, Pennsylvania.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Bachman
+        </lastname>
+        <forename>
+         James
+        </forename>
+        <initials>
+         J
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          5University of Colorado Cancer Center, Aurora, Colorado.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Fonseca
+        </lastname>
+        <forename>
+         Rafael
+        </forename>
+        <initials>
+         R
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          6Mayo Clinic Cancer Center, Phoenix, Arizona.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Uronis
+        </lastname>
+        <forename>
+         Hope
+        </forename>
+        <initials>
+         H
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          7Duke Cancer Institute, Durham, North Carolina.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Klemanski
+        </lastname>
+        <forename>
+         Dori
+        </forename>
+        <initials>
+         D
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          8Ohio State Comprehensive Cancer Center - James Cancer Hospital and Solove Research Institute, Columbus, Ohio.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Slusser
+        </lastname>
+        <forename>
+         Kim
+        </forename>
+        <initials>
+         K
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          9Yale Cancer Center/Smilow Cancer Hospital, New Haven, Connecticut.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Lunning
+        </lastname>
+        <forename>
+         Matthew
+        </forename>
+        <initials>
+         M
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          3Fred &amp; Pamela Buffett Cancer Center, Omaha, Nebraska.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Liu
+        </lastname>
+        <forename>
+         Catherine
+        </forename>
+        <initials>
+         C
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          10Vaccine and Infectious Diseases Division, Fred Hutchinson Cancer Research Center; and.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          11Division of Allergy and Infectious Diseases, Department of Medicine, University of Washington, Seattle, Washington.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        15
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       United States
+      </country>
+      <medlineta>
+       J Natl Compr Canc Netw
+      </medlineta>
+      <nlmuniqueid>
+       101162515
+      </nlmuniqueid>
+      <issnlinking>
+       1540-1405
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        16
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        16
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        16
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32294617
+      </articleid>
+      <articleid idtype="doi">
+       10.6004/jnccn.2020.7572
+      </articleid>
+      <articleid idtype="pii">
+       jnccn20157
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="PubMed-not-MEDLINE">
+     <pmid version="1">
+      32098289
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       03
+      </month>
+      <day>
+       20
+      </day>
+     </daterevised>
+     <article pubmodel="Electronic">
+      <journal>
+       <issn issntype="Print">
+        2077-0383
+       </issn>
+       <journalissue citedmedium="Print">
+        <volume>
+         9
+        </volume>
+        <issue>
+         2
+        </issue>
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Feb
+         </month>
+         <day>
+          22
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Journal of clinical medicine
+       </title>
+       <isoabbreviation>
+        J Clin Med
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Short-term Forecasts of the COVID-19 Epidemic in Guangdong and Zhejiang, China: February 13-23, 2020.
+      </articletitle>
+      <elocationid eidtype="pii" validyn="Y">
+       E596
+      </elocationid>
+      <elocationid eidtype="doi" validyn="Y">
+       10.3390/jcm9020596
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        The ongoing COVID-19 epidemic continues to spread within and outside of China, despite several social distancing measures implemented by the Chinese government. Limited epidemiological data are available, and recent changes in case definition and reporting further complicate our understanding of the impact of the epidemic, particularly in the epidemic's epicenter. Here we use previously validated phenomenological models to generate short-term forecasts of cumulative reported cases in Guangdong and Zhejiang, China. Using daily reported cumulative case data up until 13 February 2020 from the National Health Commission of China, we report 5- and 10-day ahead forecasts of cumulative case reports. Specifically, we generate forecasts using a generalized logistic growth model, the Richards growth model, and a sub-epidemic wave model, which have each been previously used to forecast outbreaks due to different infectious diseases. Forecasts from each of the models suggest the outbreaks may be nearing extinction in both Guangdong and Zhejiang; however, the sub-epidemic model predictions also include the potential for further sustained transmission, particularly in Zhejiang. Our 10-day forecasts across the three models predict an additional 65-81 cases (upper bounds: 169-507) in Guangdong and an additional 44-354 (upper bounds: 141-875) cases in Zhejiang by February 23, 2020. In the best-case scenario, current data suggest that transmission in both provinces is slowing down.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Roosa
+        </lastname>
+        <forename>
+         Kimberlyn
+        </forename>
+        <initials>
+         K
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Population Health Sciences, School of Public Health, Georgia State University, Atlanta, GA 30302, USA.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Lee
+        </lastname>
+        <forename>
+         Yiseul
+        </forename>
+        <initials>
+         Y
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Population Health Sciences, School of Public Health, Georgia State University, Atlanta, GA 30302, USA.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Luo
+        </lastname>
+        <forename>
+         Ruiyan
+        </forename>
+        <initials>
+         R
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Population Health Sciences, School of Public Health, Georgia State University, Atlanta, GA 30302, USA.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Kirpich
+        </lastname>
+        <forename>
+         Alexander
+        </forename>
+        <initials>
+         A
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Population Health Sciences, School of Public Health, Georgia State University, Atlanta, GA 30302, USA.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Rothenberg
+        </lastname>
+        <forename>
+         Richard
+        </forename>
+        <initials>
+         R
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Population Health Sciences, School of Public Health, Georgia State University, Atlanta, GA 30302, USA.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Hyman
+        </lastname>
+        <forename>
+         James M
+        </forename>
+        <initials>
+         JM
+        </initials>
+        <identifier source="ORCID">
+         0000-0001-5247-5794
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Mathematics, Center for Computational Science, Tulane University, New Orleans, LA 70118, USA.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Yan
+        </lastname>
+        <forename>
+         Ping
+        </forename>
+        <initials>
+         P
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Infectious Disease Prevention and Control Branch, Public Health Agency of Canada, Ottawa, ON K1A 0K9, Canada.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Chowell
+        </lastname>
+        <forename>
+         Gerardo
+        </forename>
+        <initials>
+         G
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Population Health Sciences, School of Public Health, Georgia State University, Atlanta, GA 30302, USA.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <grantlist completeyn="Y">
+       <grant>
+        <grantid>
+         1610429
+        </grantid>
+        <agency>
+         National Science Foundation
+        </agency>
+        <country>
+        </country>
+       </grant>
+       <grant>
+        <grantid>
+         1633381
+        </grantid>
+        <agency>
+         National Science Foundation
+        </agency>
+        <country>
+        </country>
+       </grant>
+      </grantlist>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        02
+       </month>
+       <day>
+        22
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       Switzerland
+      </country>
+      <medlineta>
+       J Clin Med
+      </medlineta>
+      <nlmuniqueid>
+       101606588
+      </nlmuniqueid>
+      <issnlinking>
+       2077-0383
+      </issnlinking>
+     </medlinejournalinfo>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       COVID-19
+      </keyword>
+      <keyword majortopicyn="N">
+       China
+      </keyword>
+      <keyword majortopicyn="N">
+       coronavirus
+      </keyword>
+      <keyword majortopicyn="N">
+       phenomenological models
+      </keyword>
+      <keyword majortopicyn="N">
+       real-time forecasts
+      </keyword>
+      <keyword majortopicyn="N">
+       sub-epidemic model
+      </keyword>
+     </keywordlist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2020
+       </year>
+       <month>
+        02
+       </month>
+       <day>
+        14
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="revised">
+       <year>
+        2020
+       </year>
+       <month>
+        02
+       </month>
+       <day>
+        18
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2020
+       </year>
+       <month>
+        02
+       </month>
+       <day>
+        19
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        2
+       </month>
+       <day>
+        27
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2020
+       </year>
+       <month>
+        2
+       </month>
+       <day>
+        27
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2020
+       </year>
+       <month>
+        2
+       </month>
+       <day>
+        27
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        1
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      epublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32098289
+      </articleid>
+      <articleid idtype="pii">
+       jcm9020596
+      </articleid>
+      <articleid idtype="doi">
+       10.3390/jcm9020596
+      </articleid>
+      <articleid idtype="pmc">
+       PMC7073898
+      </articleid>
+     </articleidlist>
+     <referencelist>
+      <reference>
+       <citation>
+        Epidemics. 2016 Jun;15:27-37
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         27266847
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Epidemiol Infect. 2018 Oct 15;:1-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         30318028
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Theor Biol. 2012 Nov 21;313:12-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22889641
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Theor Biol Med Model. 2019 Jan 14;16(1):1
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         30642334
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Epidemics. 2018 Mar;22:62-70
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         27913131
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        N Engl J Med. 2020 Jan 29;:
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         31995857
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Epidemics. 2019 Dec 21;30:100379
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         31887571
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Math Biosci Eng. 2019 May 16;16(5):4299-4313
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         31499663
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Infect Dis Model. 2020 Feb 14;5:256-263
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         32110742
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        PLoS Curr. 2016 May 31;8:
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         27366586
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        BMC Med. 2015 Sep 03;13:210
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26336062
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        Infect Dis Model. 2017 Aug;2(3):379-398
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         29250607
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        BMC Med. 2019 Aug 22;17(1):164
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         31438953
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="MEDLINE">
+     <pmid version="1">
+      32282789
+     </pmid>
+     <datecompleted>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       15
+      </day>
+     </datecompleted>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       15
+      </day>
+     </daterevised>
+     <article pubmodel="Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1643-3750
+       </issn>
+       <journalissue citedmedium="Internet">
+        <volume>
+         26
+        </volume>
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          13
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Medical science monitor : international medical journal of experimental and clinical research
+       </title>
+       <isoabbreviation>
+        Med. Sci. Monit.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Public Health Interventions to Mitigate Early Spread of SARS-CoV-2 in Poland.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        e924730
+       </medlinepgn>
+      </pagination>
+      <elocationid eidtype="doi" validyn="Y">
+       10.12659/MSM.924730
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        This study aimed (1) to present public health interventions to mitigate the early spread of SARS-CoV-2 implemented in Poland between January 9 and March 29, 2020, and (2) to analyze the potential impact of these regulations on the early phase of the COVID-19 outbreak in Poland. All legal regulations published in the Journal of Laws between January 9 and March 29, 2020, were analyzed. Out of 406 legal regulations identified, 56 were related to the COVID-19 outbreak. Moreover, the official announcements published on the governmental websites dedicated to the coronavirus and health issues were analyzed. On March 4, Poland reported the first laboratory-confirmed COVID-19 case. On March 9, Poland introduced border sanitary control. Six days after the first laboratory-confirmed COVID-19 case, all mass events in Poland were banned. All schools and universities were closed 8 days after the first COVID-19 case. All gastronomic facilities and sport and entertainment services were limited starting on March 14. Eleven days after the first COVID-19 case, controls at all Polish borders were introduced, and a ban on entry into Poland by foreigners (with some exemptions) was implemented. Starting on March 15, all citizens returning from abroad had to undergo compulsory 14 days self-quarantine. On March 20, a state of epidemic was announced, which resulted in new social distancing measures starting on March 25. In Poland, compared to other European countries, far-reaching solutions were implemented relatively early to reduce the spread of infection.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Pinkas
+        </lastname>
+        <forename>
+         Jarosław
+        </forename>
+        <initials>
+         J
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          School of Public Health, Centre of Postgraduate Medical Education, Warsaw, Poland.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Jankowski
+        </lastname>
+        <forename>
+         Mateusz
+        </forename>
+        <initials>
+         M
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          School of Public Health, Centre of Postgraduate Medical Education, Warsaw, Poland.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Szumowski
+        </lastname>
+        <forename>
+         Łukasz
+        </forename>
+        <initials>
+         Ł
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Cardiac Arrhythmia, National Institute of Cardiology, Warsaw, Poland.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Lusawa
+        </lastname>
+        <forename>
+         Aleksandra
+        </forename>
+        <initials>
+         A
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Satellite Campus in Warsaw, University of Humanities and Economics in Łódź, Warsaw, Poland.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Zgliczyński
+        </lastname>
+        <forename>
+         Wojciech S
+        </forename>
+        <initials>
+         WS
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          School of Public Health, Centre of Postgraduate Medical Education, Warsaw, Poland.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Raciborski
+        </lastname>
+        <forename>
+         Filip
+        </forename>
+        <initials>
+         F
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Prevention of Environmental Hazards and Allergology, Medical University of Warsaw, Warsaw, Poland.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Wierzba
+        </lastname>
+        <forename>
+         Waldemar
+        </forename>
+        <initials>
+         W
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Satellite Campus in Warsaw, University of Humanities and Economics in Łódź, Warsaw, Poland.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Gujski
+        </lastname>
+        <forename>
+         Mariusz
+        </forename>
+        <initials>
+         M
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Prevention of Environmental Hazards and Allergology, Medical University of Warsaw, Warsaw, Poland.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        13
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       United States
+      </country>
+      <medlineta>
+       Med Sci Monit
+      </medlineta>
+      <nlmuniqueid>
+       9609063
+      </nlmuniqueid>
+      <issnlinking>
+       1234-1010
+      </issnlinking>
+     </medlinejournalinfo>
+     <supplmeshlist>
+      <supplmeshname type="Disease" ui="C000657245">
+       COVID-19
+      </supplmeshname>
+      <supplmeshname type="Organism" ui="C000656484">
+       severe acute respiratory syndrome coronavirus 2
+      </supplmeshname>
+     </supplmeshlist>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <meshheadinglist>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000073640">
+        Betacoronavirus
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D003140">
+        Communicable Disease Control
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000379">
+        methods
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D018352">
+        Coronavirus Infections
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000453">
+        epidemiology
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000517">
+        prevention &amp; control
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D004630">
+        Emergencies
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000453">
+        epidemiology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D058872">
+        Epidemics
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000517">
+        prevention &amp; control
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D006801">
+        Humans
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D058873">
+        Pandemics
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000517">
+        prevention &amp; control
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D011024">
+        Pneumonia, Viral
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000453">
+        epidemiology
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000517">
+        prevention &amp; control
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" type="Geographic" ui="D011044">
+        Poland
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000453">
+        epidemiology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D011790">
+        Quarantine
+       </descriptorname>
+      </meshheading>
+     </meshheadinglist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        14
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        14
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        16
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      epublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32282789
+      </articleid>
+      <articleid idtype="pii">
+       924730
+      </articleid>
+      <articleid idtype="doi">
+       10.12659/MSM.924730
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32292232
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       18
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Print">
+        0377-1237
+       </issn>
+       <journalissue citedmedium="Print">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          02
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Medical journal, Armed Forces India
+       </title>
+       <isoabbreviation>
+        Med J Armed Forces India
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Healthcare impact of COVID-19 epidemic in India: A stochastic mathematical model.
+      </articletitle>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1016/j.mjafi.2020.03.022
+      </elocationid>
+      <abstract>
+       <abstracttext label="Background" nlmcategory="UNASSIGNED">
+        In India, the SARS-CoV2 COVID-19 epidemic has grown to 1,251 cases and 32 deaths as on 30 Mar 2020. The healthcare impact of the epidemic in India was studied with a stochastic mathematical model.
+       </abstracttext>
+       <abstracttext label="Methods" nlmcategory="UNASSIGNED">
+        A compartmental SEIR model was developed, in which the flow of individuals through compartments is modeled using a set of differential equations. Different scenarios were modeled with 1000 runs of Monte Carlo simulation each using MATLAB. Hospitalization, ICU requirements and deaths were modeled on SimVoi software. The impact of Non-Pharmacological Interventions (NPI) including social distancing and lockdown on checking the epidemic was estimated.
+       </abstracttext>
+       <abstracttext label="Results" nlmcategory="UNASSIGNED">
+        Uninterrupted epidemic in India would have resulted in over 364 million cases and 1.56 million deaths with peak by mid-July. As per the model, at growth rate of 1.15, India is likely to reach approximately 3 million cases by 25 May, implying 125,455 (±18,034) hospitalizations, 26,130 (±3,298) ICU admissions and 13,447 (±1,819) deaths. This would overwhelm India's healthcare system. The model shows that with immediate institution of NPIs, the epidemic might still be checked by mid-April 2020. It would then result in 241,974 (±33,735) total infections, 10,214 (±1,649) hospitalizations, 2,121 (±334) ICU admissions and 1,081(±169) deaths.
+       </abstracttext>
+       <abstracttext label="Conclusion" nlmcategory="UNASSIGNED">
+        At current growth rate of epidemic, India's healthcare resources will be overwhelmed by end-May. With the immediate institution of NPIs, total cases, hospitalizations, ICU requirements and deaths can be reduced by almost 90%.
+       </abstracttext>
+       <copyrightinformation>
+        © 2020 Director General, Armed Forces Medical Services. Published by Elsevier, a division of RELX India Pvt. Ltd.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Chatterjee
+        </lastname>
+        <forename>
+         Kaustuv
+        </forename>
+        <initials>
+         K
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Medical Informatics, INHS Asvini, Colaba, Mumbai, India.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Chatterjee
+        </lastname>
+        <forename>
+         Kaushik
+        </forename>
+        <initials>
+         K
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Dept of Psychiatry, Armed Forces Medical College, Pune 411040, India.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Kumar
+        </lastname>
+        <forename>
+         Arun
+        </forename>
+        <initials>
+         A
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Dept of Community Medicine, Armed Forces Medical College, Pune 411040, India.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Shankar
+        </lastname>
+        <forename>
+         Subramanian
+        </forename>
+        <initials>
+         S
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Dept of Internal Medicine, Armed Forces Medical College, Pune 411040, India.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        02
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       India
+      </country>
+      <medlineta>
+       Med J Armed Forces India
+      </medlineta>
+      <nlmuniqueid>
+       7602492
+      </nlmuniqueid>
+      <issnlinking>
+       0377-1237
+      </issnlinking>
+     </medlinejournalinfo>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       COVID-19
+      </keyword>
+      <keyword majortopicyn="N">
+       Coronavirus
+      </keyword>
+      <keyword majortopicyn="N">
+       Epidemiology
+      </keyword>
+      <keyword majortopicyn="N">
+       Models
+      </keyword>
+      <keyword majortopicyn="N">
+       Quarantine
+      </keyword>
+      <keyword majortopicyn="N">
+       SARS-CoV2
+      </keyword>
+      <keyword majortopicyn="N">
+       Theoretical
+      </keyword>
+     </keywordlist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        23
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="revised">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        31
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        31
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        16
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        16
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        16
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32292232
+      </articleid>
+      <articleid idtype="doi">
+       10.1016/j.mjafi.2020.03.022
+      </articleid>
+      <articleid idtype="pii">
+       S0377-1237(20)30060-5
+      </articleid>
+      <articleid idtype="pmc">
+       PMC7126697
+      </articleid>
+     </articleidlist>
+     <?pmcsd ?>
+     <referencelist>
+      <reference>
+       <citation>
+        Indian J Crit Care Med. 2008 Apr;12(2):55-61
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         19742248
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+     <referencelist>
+      <reference>
+       <citation>
+        N Engl J Med. 2020 Mar 19;382(12):1177-1179
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         32074444
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32303077
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       17
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1098-8785
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          17
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        American journal of perinatology
+       </title>
+       <isoabbreviation>
+        Am J Perinatol
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Considerations for Obstetric Care during the COVID-19 Pandemic.
+      </articletitle>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1055/s-0040-1710051
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        The novel coronavirus disease 2019 (COVID-19) is a growing pandemic that is impacting daily life across the globe. Though disease is often mild, in high-risk populations, severe disease often leads to intubation, intensive care admission (ICU) admission, and in many cases death. The implications for pregnancy remain largely unknown. Early data suggest that COVID-19 may not pose increased risk in the pregnant population. Vertical transmission has not been confirmed. Because no treatment, no vaccine and no herd immunity exist, social distancing is the best mechanism available to protect patients and health care workers from infection. This review will discuss what is known about the virus as it relates to pregnancy and then consider management considerations based on these data. KEY POINTS: · COVID-19 severity in pregnancy is unclear.. · Social distancing is the best protective mechanism.. · No clear evidence of vertical transmission exists.. · Mother/baby separation avoids transmission..
+       </abstracttext>
+       <copyrightinformation>
+        Thieme Medical Publishers 333 Seventh Avenue, New York, NY 10001, USA.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author equalcontrib="N" validyn="Y">
+        <lastname>
+         Dotters-Katz
+        </lastname>
+        <forename>
+         Sarah K
+        </forename>
+        <initials>
+         SK
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Obstetrics and Gynecology, Duke University Medical Center, Durham, North Carolina.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author equalcontrib="N" validyn="Y">
+        <lastname>
+         Hughes
+        </lastname>
+        <forename>
+         Brenna L
+        </forename>
+        <initials>
+         BL
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          Department of Obstetrics and Gynecology, Duke University Medical Center, Durham, North Carolina.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        17
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       United States
+      </country>
+      <medlineta>
+       Am J Perinatol
+      </medlineta>
+      <nlmuniqueid>
+       8405212
+      </nlmuniqueid>
+      <issnlinking>
+       0735-1631
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <coistatement>
+      None declared.
+     </coistatement>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        18
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        18
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        18
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32303077
+      </articleid>
+      <articleid idtype="doi">
+       10.1055/s-0040-1710051
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="Publisher">
+     <pmid version="1">
+      32303607
+     </pmid>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       18
+      </day>
+     </daterevised>
+     <article pubmodel="Print-Electronic">
+      <journal>
+       <issn issntype="Electronic">
+        1468-3288
+       </issn>
+       <journalissue citedmedium="Internet">
+        <pubdate>
+         <year>
+          2020
+         </year>
+         <month>
+          Apr
+         </month>
+         <day>
+          17
+         </day>
+        </pubdate>
+       </journalissue>
+       <title>
+        Gut
+       </title>
+       <isoabbreviation>
+        Gut
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       British Society of Gastroenterology guidance for management of inflammatory bowel disease during the COVID-19 pandemic.
+      </articletitle>
+      <elocationid eidtype="pii" validyn="Y">
+       gutjnl-2020-321244
+      </elocationid>
+      <elocationid eidtype="doi" validyn="Y">
+       10.1136/gutjnl-2020-321244
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        The COVID-19 pandemic is putting unprecedented pressures on healthcare systems globally. Early insights have been made possible by rapid sharing of data from China and Italy. In the UK, we have rapidly mobilised inflammatory bowel disease (IBD) centres in order that preparations can be made to protect our patients and the clinical services they rely on. This is a novel coronavirus; much is unknown as to how it will affect people with IBD. We also lack information about the impact of different immunosuppressive medications. To address this uncertainty, the British Society of Gastroenterology (BSG) COVID-19 IBD Working Group has used the best available data and expert opinion to generate a risk grid that groups patients into highest, moderate and lowest risk categories. This grid allows patients to be instructed to follow the UK government's advice for shielding, stringent and standard advice regarding social distancing, respectively. Further considerations are given to service provision, medical and surgical therapy, endoscopy, imaging and clinical trials.
+       </abstracttext>
+       <copyrightinformation>
+        © Author(s) (or their employer(s)) 2020. Re-use permitted under CC BY-NC. No commercial re-use. See rights and permissions. Published by BMJ.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Kennedy
+        </lastname>
+        <forename>
+         Nicholas A
+        </forename>
+        <initials>
+         NA
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0003-4368-1961
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Royal Devon and Exeter NHS Foundation Trust, Exeter, UK.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          University of Exeter, Exeter, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Jones
+        </lastname>
+        <forename>
+         Gareth-Rhys
+        </forename>
+        <initials>
+         GR
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0001-7355-2357
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          University of Edinburgh, Edinburgh, UK.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Western General Hospital, Edinburgh, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Lamb
+        </lastname>
+        <forename>
+         Christopher A
+        </forename>
+        <initials>
+         CA
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0002-7271-4956
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Newcastle University, Newcastle upon Tyne, UK.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Newcastle upon Tyne Hospitals NHS Foundation Trust, Newcastle upon Tyne, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Appleby
+        </lastname>
+        <forename>
+         Richard
+        </forename>
+        <initials>
+         R
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0001-5887-8922
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Chelsea and Westminster Hospital NHS Foundation Trust, London, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Arnott
+        </lastname>
+        <forename>
+         Ian
+        </forename>
+        <initials>
+         I
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0003-3352-9253
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Western General Hospital, Edinburgh, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Beattie
+        </lastname>
+        <forename>
+         R Mark
+        </forename>
+        <initials>
+         RM
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0003-4721-0577
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Southampton Children's Hospital, University Hospital Southampton NHS Foundation Trust, Southampton, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Bloom
+        </lastname>
+        <forename>
+         Stuart
+        </forename>
+        <initials>
+         S
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0002-6361-4662
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          University College London Hospitals NHS Foundation Trust, London, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Brooks
+        </lastname>
+        <forename>
+         Alenka J
+        </forename>
+        <initials>
+         AJ
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0001-7162-7845
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Sheffield Teaching Hospitals NHS Foundation Trust, Sheffield, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Cooney
+        </lastname>
+        <forename>
+         Rachel
+        </forename>
+        <initials>
+         R
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0003-3710-157X
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Queen Elizabeth Hospital Birmingham NHS Foundation Trust, Birmingham, UK.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          University of Birmingham, Birmingham, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Dart
+        </lastname>
+        <forename>
+         Robin J
+        </forename>
+        <initials>
+         RJ
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0003-3470-8210
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          King's College London, London, UK.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          The Royal Free Hospital, London, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Edwards
+        </lastname>
+        <forename>
+         Cathryn
+        </forename>
+        <initials>
+         C
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0002-5550-9184
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Torbay and South Devon NHS Foundation Trust, Torquay, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Fraser
+        </lastname>
+        <forename>
+         Aileen
+        </forename>
+        <initials>
+         A
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0001-6462-5091
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          University Hospitals Bristol NHS Foundation Trust, Bristol, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Gaya
+        </lastname>
+        <forename>
+         Daniel R
+        </forename>
+        <initials>
+         DR
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0003-1942-7568
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Glasgow Royal Infirmary, Glasgow, UK.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          University of Glasgow, Glasgow, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Ghosh
+        </lastname>
+        <forename>
+         Subrata
+        </forename>
+        <initials>
+         S
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0002-1713-7797
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Queen Elizabeth Hospital Birmingham NHS Foundation Trust, Birmingham, UK.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          University of Birmingham, Birmingham, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Greveson
+        </lastname>
+        <forename>
+         Kay
+        </forename>
+        <initials>
+         K
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0003-4713-7306
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          The Royal Free Hospital, London, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Hansen
+        </lastname>
+        <forename>
+         Richard
+        </forename>
+        <initials>
+         R
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0002-3944-6646
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          University of Glasgow, Glasgow, UK.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Royal Hospital for Children, Glasgow, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Hart
+        </lastname>
+        <forename>
+         Ailsa
+        </forename>
+        <initials>
+         A
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0002-7141-6076
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          St Mark's Hospital, London, UK.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Imperial College London, London, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Hawthorne
+        </lastname>
+        <forename>
+         A Barney
+        </forename>
+        <initials>
+         AB
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0002-8768-4550
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          University Hospital of Wales, Cardiff, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Hayee
+        </lastname>
+        <forename>
+         Bu'Hussain
+        </forename>
+        <initials>
+         B
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0003-1670-8815
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          King's College London, London, UK.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          King's College Hospital NHS Foundation Trust, London, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Limdi
+        </lastname>
+        <forename>
+         Jimmy K
+        </forename>
+        <initials>
+         JK
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0002-1039-6251
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          The Pennine Acute Hospitals NHS Trust, Manchester, UK.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          University of Manchester, Manchester, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Murray
+        </lastname>
+        <forename>
+         Charles D
+        </forename>
+        <initials>
+         CD
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0001-6736-1546
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          The Royal Free Hospital, London, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Parkes
+        </lastname>
+        <forename>
+         Gareth C
+        </forename>
+        <initials>
+         GC
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0002-5285-7714
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Barts and the London School of Medicine and Dentistry, London, UK.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          The Royal London Hospital, Barts Health NHS Trust, London, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Parkes
+        </lastname>
+        <forename>
+         Miles
+        </forename>
+        <initials>
+         M
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0002-6467-0631
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Patel
+        </lastname>
+        <forename>
+         Kamal
+        </forename>
+        <initials>
+         K
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          St George's University Hospitals NHS Foundation Trust, London, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Pollok
+        </lastname>
+        <forename>
+         Richard C
+        </forename>
+        <initials>
+         RC
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0001-6452-6763
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          St George's University Hospitals NHS Foundation Trust, London, UK.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          St George's, University of London, London, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Powell
+        </lastname>
+        <forename>
+         Nick
+        </forename>
+        <initials>
+         N
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0003-3231-6950
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Imperial College London, London, UK.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Imperial College Healthcare NHS Trust, London, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Probert
+        </lastname>
+        <forename>
+         Chris S
+        </forename>
+        <initials>
+         CS
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0003-0477-6714
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Liverpool University Hospitals NHS Foundation Trusts, Liverpool, UK.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          University of Liverpool, Liverpool, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Raine
+        </lastname>
+        <forename>
+         Tim
+        </forename>
+        <initials>
+         T
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0002-5855-9873
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Sebastian
+        </lastname>
+        <forename>
+         Shaji
+        </forename>
+        <initials>
+         S
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0002-3670-6545
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Hull University Teaching Hospitals NHS Trust, Hull, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Selinger
+        </lastname>
+        <forename>
+         Christian
+        </forename>
+        <initials>
+         C
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0003-2022-5859
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Leeds Teaching Hospitals NHS Trust, Leeds, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Smith
+        </lastname>
+        <forename>
+         Philip J
+        </forename>
+        <initials>
+         PJ
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0003-1568-3978
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Liverpool University Hospitals NHS Foundation Trusts, Liverpool, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Stansfield
+        </lastname>
+        <forename>
+         Catherine
+        </forename>
+        <initials>
+         C
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0002-7775-2337
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Salford Royal NHS Foundation Trust, Salford, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Younge
+        </lastname>
+        <forename>
+         Lisa
+        </forename>
+        <initials>
+         L
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0002-3436-9696
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Crohn's and Colitis UK, St Albans, Hertfordshire, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Lindsay
+        </lastname>
+        <forename>
+         James O
+        </forename>
+        <initials>
+         JO
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0003-3353-9590
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Barts and the London School of Medicine and Dentistry, London, UK.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          The Royal London Hospital, Barts Health NHS Trust, London, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Irving
+        </lastname>
+        <forename>
+         Peter M
+        </forename>
+        <initials>
+         PM
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0003-0972-8148
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          King's College London, London, UK.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Guy's and St Thomas' NHS Foundation Trust, London, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Lees
+        </lastname>
+        <forename>
+         Charlie W
+        </forename>
+        <initials>
+         CW
+        </initials>
+        <identifier source="ORCID">
+         http://orcid.org/0000-0002-0732-8215
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          University of Edinburgh, Edinburgh, UK charlie.lees@ed.ac.uk.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Western General Hospital, Edinburgh, UK.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+      <articledate datetype="Electronic">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        17
+       </day>
+      </articledate>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       England
+      </country>
+      <medlineta>
+       Gut
+      </medlineta>
+      <nlmuniqueid>
+       2985108R
+      </nlmuniqueid>
+      <issnlinking>
+       0017-5749
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      AIM
+     </citationsubset>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       crohn's colitis
+      </keyword>
+      <keyword majortopicyn="N">
+       crohn's disease
+      </keyword>
+      <keyword majortopicyn="N">
+       ulcerative colitis
+      </keyword>
+     </keywordlist>
+     <coistatement>
+      Competing interests: For details of conflicts of interest see online supplementary table 1.
+     </coistatement>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2020
+       </year>
+       <month>
+        03
+       </month>
+       <day>
+        28
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="revised">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        03
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2020
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        06
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2020
+       </year>
+       <month>
+        4
+       </month>
+       <day>
+        19
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      aheadofprint
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       32303607
+      </articleid>
+      <articleid idtype="pii">
+       gutjnl-2020-321244
+      </articleid>
+      <articleid idtype="doi">
+       10.1136/gutjnl-2020-321244
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+  </pubmedarticleset>
+ </body>
+</html>

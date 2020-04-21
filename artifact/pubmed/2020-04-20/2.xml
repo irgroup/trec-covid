@@ -1,0 +1,1569 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<html>
+ <body>
+  <pubmedarticleset>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="MEDLINE">
+     <pmid version="1">
+      31364317
+     </pmid>
+     <datecompleted>
+      <year>
+       2019
+      </year>
+      <month>
+       11
+      </month>
+      <day>
+       15
+      </day>
+     </datecompleted>
+     <daterevised>
+      <year>
+       2020
+      </year>
+      <month>
+       02
+      </month>
+      <day>
+       25
+      </day>
+     </daterevised>
+     <article pubmodel="Print">
+      <journal>
+       <issn issntype="Electronic">
+        1976-555X
+       </issn>
+       <journalissue citedmedium="Internet">
+        <volume>
+         20
+        </volume>
+        <issue>
+         4
+        </issue>
+        <pubdate>
+         <year>
+          2019
+         </year>
+         <month>
+          Jul
+         </month>
+        </pubdate>
+       </journalissue>
+       <title>
+        Journal of veterinary science
+       </title>
+       <isoabbreviation>
+        J. Vet. Sci.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Generation and protective efficacy of a cold-adapted attenuated genotype 2b porcine epidemic diarrhea virus.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        e32
+       </medlinepgn>
+      </pagination>
+      <elocationid eidtype="doi" validyn="Y">
+       10.4142/jvs.2019.20.e32
+      </elocationid>
+      <abstract>
+       <abstracttext>
+        The recent emergence and re-emergence of porcine epidemic diarrhea virus (PEDV) underscore the urgent need for the development of novel, safe, and effective vaccines against the prevailing strain. In this study, we generated a cold-adapted live attenuated vaccine candidate (Aram-P29-CA) by short-term passage of a virulent PEDV isolate at successively lower temperatures in Vero cells. Whole genome sequencing identified 12 amino acid changes in the cold-adapted strain with no insertions and deletions throughout the genome. Animal inoculation experiments confirmed the attenuated phenotype of Aram-P29-CA virus in the natural host. Pregnant sows were orally administered P29-CA live vaccines two doses at 2-week intervals prior to parturition, and the newborn piglets were challenged with the parental virus. The oral homologous prime-boost vaccination of P29-CA significantly improved the survival rate of the piglets and notably mitigated the severity of diarrhea and PEDV fecal shedding after the challenge. Furthermore, strong antibody responses to PEDV were detected in the sera and colostrum of immunized sows and in the sera of their offspring. These results demonstrated that the cold-adapted attenuated virus can be used as a live vaccine in maternal vaccination strategies to provide durable lactogenic immunity and confer passive protection to litters against PEDV.
+       </abstracttext>
+       <copyrightinformation>
+        Â© 2019 The Korean Society of Veterinary Science.
+       </copyrightinformation>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Won
+        </lastname>
+        <forename>
+         Hokeun
+        </forename>
+        <initials>
+         H
+        </initials>
+        <identifier source="ORCID">
+         https://orcid.org/0000-0003-4568-4429
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          ChoongAng Vaccine Laboratories, Daejeon 34055, Korea.
+         </affiliation>
+        </affiliationinfo>
+        <affiliationinfo>
+         <affiliation>
+          Department of Infectious Diseases, College of Veterinary Medicine, Seoul National University, Seoul 08826, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Lee
+        </lastname>
+        <forename>
+         Dong Uk
+        </forename>
+        <initials>
+         DU
+        </initials>
+        <identifier source="ORCID">
+         https://orcid.org/0000-0002-9431-0303
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          ChoongAng Vaccine Laboratories, Daejeon 34055, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Jang
+        </lastname>
+        <forename>
+         Guehwan
+        </forename>
+        <initials>
+         G
+        </initials>
+        <identifier source="ORCID">
+         https://orcid.org/0000-0003-3108-8087
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Animal Virology Laboratory, School of Life Sciences, BK21 plus KNU Creative BioResearch Group, Kyungpook National University, Daegu 41566, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Noh
+        </lastname>
+        <forename>
+         Yun Hee
+        </forename>
+        <initials>
+         YH
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          ChoongAng Vaccine Laboratories, Daejeon 34055, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Lee
+        </lastname>
+        <forename>
+         Seung Chul
+        </forename>
+        <initials>
+         SC
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          ChoongAng Vaccine Laboratories, Daejeon 34055, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Choi
+        </lastname>
+        <forename>
+         Hwan Won
+        </forename>
+        <initials>
+         HW
+        </initials>
+        <identifier source="ORCID">
+         https://orcid.org/0000-0003-4838-8123
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          ChoongAng Vaccine Laboratories, Daejeon 34055, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Yoon
+        </lastname>
+        <forename>
+         In Joong
+        </forename>
+        <initials>
+         IJ
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          ChoongAng Vaccine Laboratories, Daejeon 34055, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Yoo
+        </lastname>
+        <forename>
+         Han Sang
+        </forename>
+        <initials>
+         HS
+        </initials>
+        <identifier source="ORCID">
+         https://orcid.org/0000-0003-0548-0835
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Department of Infectious Diseases, College of Veterinary Medicine, Seoul National University, Seoul 08826, Korea.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Lee
+        </lastname>
+        <forename>
+         Changhee
+        </forename>
+        <initials>
+         C
+        </initials>
+        <identifier source="ORCID">
+         https://orcid.org/0000-0002-5930-5461
+        </identifier>
+        <affiliationinfo>
+         <affiliation>
+          Animal Virology Laboratory, School of Life Sciences, BK21 plus KNU Creative BioResearch Group, Kyungpook National University, Daegu 41566, Korea. changhee@knu.ac.kr.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <grantlist completeyn="Y">
+       <grant>
+        <grantid>
+         NRF-2018R1D1A1B07040334
+        </grantid>
+        <acronym>
+         NRF
+        </acronym>
+        <agency>
+         National Research Foundation of Korea
+        </agency>
+        <country>
+         Korea
+        </country>
+       </grant>
+      </grantlist>
+      <publicationtypelist>
+       <publicationtype ui="D000077522">
+        Clinical Trial, Veterinary
+       </publicationtype>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+      </publicationtypelist>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       Korea (South)
+      </country>
+      <medlineta>
+       J Vet Sci
+      </medlineta>
+      <nlmuniqueid>
+       100964185
+      </nlmuniqueid>
+      <issnlinking>
+       1229-845X
+      </issnlinking>
+     </medlinejournalinfo>
+     <chemicallist>
+      <chemical>
+       <registrynumber>
+        0
+       </registrynumber>
+       <nameofsubstance ui="D014613">
+        Vaccines, Attenuated
+       </nameofsubstance>
+      </chemical>
+      <chemical>
+       <registrynumber>
+        0
+       </registrynumber>
+       <nameofsubstance ui="D014765">
+        Viral Vaccines
+       </nameofsubstance>
+      </chemical>
+     </chemicallist>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <meshheadinglist>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000818">
+        Animals
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000831">
+        Animals, Newborn
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D002522">
+        Chlorocebus aethiops
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D003080">
+        Cold Temperature
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D018352">
+        Coronavirus Infections
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000517">
+        prevention &amp; control
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000662">
+        veterinary
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000821">
+        virology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D005260">
+        Female
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D005838">
+        Genotype
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D053485">
+        Porcine epidemic diarrhea virus
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000235">
+        genetics
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000276">
+        immunology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D011247">
+        Pregnancy
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D011897">
+        Random Allocation
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D034421">
+        Sus scrofa
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D013552">
+        Swine
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D013553">
+        Swine Diseases
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000517">
+        prevention &amp; control
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000821">
+        virology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D014613">
+        Vaccines, Attenuated
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000494">
+        pharmacology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D014709">
+        Vero Cells
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D014765">
+        Viral Vaccines
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000494">
+        pharmacology
+       </qualifiername>
+      </meshheading>
+     </meshheadinglist>
+     <keywordlist owner="NOTNLM">
+      <keyword majortopicyn="N">
+       Attenuated vaccine
+      </keyword>
+      <keyword majortopicyn="N">
+       cold adaptation
+      </keyword>
+      <keyword majortopicyn="N">
+       porcine epidemic diarrhea virus
+      </keyword>
+      <keyword majortopicyn="N">
+       protection
+      </keyword>
+      <keyword majortopicyn="N">
+       whole genome sequencing
+      </keyword>
+     </keywordlist>
+     <coistatement>
+      The authors declare no conflicts of interest.
+     </coistatement>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="received">
+       <year>
+        2019
+       </year>
+       <month>
+        02
+       </month>
+       <day>
+        28
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="revised">
+       <year>
+        2019
+       </year>
+       <month>
+        04
+       </month>
+       <day>
+        29
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="accepted">
+       <year>
+        2019
+       </year>
+       <month>
+        05
+       </month>
+       <day>
+        13
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        2019
+       </year>
+       <month>
+        8
+       </month>
+       <day>
+        1
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        2019
+       </year>
+       <month>
+        8
+       </month>
+       <day>
+        1
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        2019
+       </year>
+       <month>
+        11
+       </month>
+       <day>
+        16
+       </day>
+       <hour>
+        6
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      ppublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       31364317
+      </articleid>
+      <articleid idtype="pii">
+       20.e32
+      </articleid>
+      <articleid idtype="doi">
+       10.4142/jvs.2019.20.e32
+      </articleid>
+      <articleid idtype="pmc">
+       PMC6669205
+      </articleid>
+     </articleidlist>
+     <referencelist>
+      <reference>
+       <citation>
+        J Clin Microbiol. 2000 Feb;38(2):839-45
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         10655394
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Virology. 2006 Apr 10;347(2):296-306
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         16413592
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Mol Biol Evol. 2007 Aug;24(8):1596-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17488738
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Virol Methods. 2007 Dec;146(1-2):172-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17697717
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Virus Genes. 2008 Feb;36(1):95-104
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         17932736
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Virus Res. 2010 May;149(2):175-82
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         20132850
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Virus Genes. 2011 Aug;43(1):72-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21559974
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Arch Virol. 2011 Dec;156(12):2187-95
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         21947566
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        FEBS Lett. 2012 Feb 17;586(4):384-91
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         22245155
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Arch Virol. 2013 Aug;158(8):1765-72
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23807746
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nature. 2013 Jul 25;499(7459):388
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23887408
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        PLoS One. 2013 Aug 02;8(8):e69997
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23936367
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Vet Diagn Invest. 2013 Sep;25(5):649-54
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         23963154
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        J Vet Med Sci. 2014 Sep;76(9):1297-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         24898162
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Emerg Infect Dis. 2014 Jul;20(7):1223-6
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         24960370
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Arch Virol. 2014 Nov;159(11):2977-87
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         25008896
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Vet Microbiol. 2014 Nov 7;174(1-2):60-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         25278366
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Emerg Infect Dis. 2014 Oct;20(10):1620-8
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         25279722
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Vet Microbiol. 2015 Mar 23;176(1-2):161-4
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         25601801
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Arch Virol. 2015 Apr;160(4):1055-64
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         25666198
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Virus Res. 2015 Oct 2;208:215-24
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26196056
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Infect Genet Evol. 2015 Dec;36:363-368
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26477934
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Virol J. 2015 Dec 22;12:193
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         26689811
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        PLoS One. 2016 Apr 06;11(4):e0153041
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         27050556
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Vet Immunol Immunopathol. 2016 Jun;174:45-9
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         27185262
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Virus Res. 2016 Dec 2;226:93-107
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         27212686
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Virus Res. 2016 Dec 2;226:85-92
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         27287711
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Sci Rep. 2016 Jul 26;6:30382
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         27457755
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Porcine Health Manag. 2015 Sep 29;1:12
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         28405418
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Virology. 2017 Sep;509:185-194
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         28647506
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Vet Microbiol. 2017 Aug;207:248-258
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         28757031
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Mol Biol Evol. 1987 Jul;4(4):406-25
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         3447015
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Vaccine. 1985 Dec;3(5):355-69
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         3909681
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Infect Immun. 1972 Sep;6(3):289-301
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         4629259
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Arch Virol. 1978;58(3):243-7
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         83132
+        </articleid>
+       </articleidlist>
+      </reference>
+      <reference>
+       <citation>
+        Nucleic Acids Res. 1997 Dec 15;25(24):4876-82
+       </citation>
+       <articleidlist>
+        <articleid idtype="pubmed">
+         9396791
+        </articleid>
+       </articleidlist>
+      </reference>
+     </referencelist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="MEDLINE">
+     <pmid version="1">
+      9876834
+     </pmid>
+     <datecompleted>
+      <year>
+       1999
+      </year>
+      <month>
+       03
+      </month>
+      <day>
+       23
+      </day>
+     </datecompleted>
+     <daterevised>
+      <year>
+       2013
+      </year>
+      <month>
+       11
+      </month>
+      <day>
+       21
+      </day>
+     </daterevised>
+     <article pubmodel="Print">
+      <journal>
+       <issn issntype="Print">
+        0005-2086
+       </issn>
+       <journalissue citedmedium="Print">
+        <volume>
+         42
+        </volume>
+        <issue>
+         4
+        </issue>
+        <pubdate>
+         <medlinedate>
+          1998 Oct-Dec
+         </medlinedate>
+        </pubdate>
+       </journalissue>
+       <title>
+        Avian diseases
+       </title>
+       <isoabbreviation>
+        Avian Dis.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Efficacy of a temperature-sensitive Mycoplasma synoviae live vaccine.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        671-6
+       </medlinepgn>
+      </pagination>
+      <abstract>
+       <abstracttext>
+        A temperature-sensitive clone of Mycoplasma synoviae (MS), MS-H, derived from the chemical mutagenesis of the Australian field isolate 86079/7NS, was investigated for efficacy as a live vaccine. Titers of MS-H vaccine ranged between 1.16 x 10(8) and 8.4 x 10(8) color changing units/ml when incubated at 33 C and were consistently &gt; or = 10(2) lower when incubated at 39.5 C. Laboratory-produced MS-H vaccine protected 8 out of 10 specific-pathogen-free Webster white leghorn chickens against a combined experimental challenge of aerosols of the virulent wild MS strain 88064/FP and T-strain infectious bronchitis vaccine administered intratracheally. Laboratory and commercially produced vaccines were compared for efficacy against thoracic air sac challenge, with both achieving similar levels of air sac protection. Air sac lesion incidences of five air sacs with lesions out of 32 and four out of 32 were seen in groups vaccinated with laboratory and commercial vaccines, respectively, compared with 13 out of 20 in nonvaccinated specific-pathogen-free hybrid white leghorn chickens. An attempt to determine the dose response of the commercial vaccine was conducted with 0.5, 2, and 4 times the standard dose. Air sac lesion incidences of 16 air sacs with lesions out of 32 in the 0.5 times, 11 out of 32 in the 2 times, and 1 out of 32 in the 4 times dose groups were observed.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Markham
+        </lastname>
+        <forename>
+         J F
+        </forename>
+        <initials>
+         JF
+        </initials>
+        <affiliationinfo>
+         <affiliation>
+          School of Veterinary Science, University of Melbourne, Parkville, Victoria, Australia.
+         </affiliation>
+        </affiliationinfo>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Morrow
+        </lastname>
+        <forename>
+         C J
+        </forename>
+        <initials>
+         CJ
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Whithear
+        </lastname>
+        <forename>
+         K G
+        </forename>
+        <initials>
+         KG
+        </initials>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+       <publicationtype ui="D013485">
+        Research Support, Non-U.S. Gov't
+       </publicationtype>
+      </publicationtypelist>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       United States
+      </country>
+      <medlineta>
+       Avian Dis
+      </medlineta>
+      <nlmuniqueid>
+       0370617
+      </nlmuniqueid>
+      <issnlinking>
+       0005-2086
+      </issnlinking>
+     </medlinejournalinfo>
+     <chemicallist>
+      <chemical>
+       <registrynumber>
+        0
+       </registrynumber>
+       <nameofsubstance ui="D001428">
+        Bacterial Vaccines
+       </nameofsubstance>
+      </chemical>
+      <chemical>
+       <registrynumber>
+        12H3O2UGSF
+       </registrynumber>
+       <nameofsubstance ui="D008769">
+        Methylnitronitrosoguanidine
+       </nameofsubstance>
+      </chemical>
+     </chemicallist>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <meshheadinglist>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000400">
+        Air Sacs
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000382">
+        microbiology
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000473">
+        pathology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000818">
+        Animals
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D001428">
+        Bacterial Vaccines
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D002645">
+        Chickens
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D018352">
+        Coronavirus Infections
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000150">
+        complications
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000276">
+        immunology
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000662">
+        veterinary
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D001351">
+        Infectious bronchitis virus
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D008769">
+        Methylnitronitrosoguanidine
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D016296">
+        Mutagenesis
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D009174">
+        Mycoplasma
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000235">
+        genetics
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000254">
+        growth &amp; development
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000276">
+        immunology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D009175">
+        Mycoplasma Infections
+       </descriptorname>
+       <qualifiername majortopicyn="N" ui="Q000276">
+        immunology
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000517">
+        prevention &amp; control
+       </qualifiername>
+       <qualifiername majortopicyn="Y" ui="Q000662">
+        veterinary
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D011201">
+        Poultry Diseases
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000276">
+        immunology
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000517">
+        prevention &amp; control
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D013047">
+        Specific Pathogen-Free Organisms
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D013696">
+        Temperature
+       </descriptorname>
+      </meshheading>
+     </meshheadinglist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        1999
+       </year>
+       <month>
+        1
+       </month>
+       <day>
+        7
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        1999
+       </year>
+       <month>
+        1
+       </month>
+       <day>
+        7
+       </day>
+       <hour>
+        0
+       </hour>
+       <minute>
+        1
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        1999
+       </year>
+       <month>
+        1
+       </month>
+       <day>
+        7
+       </day>
+       <hour>
+        0
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      ppublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       9876834
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+   <pubmedarticle>
+    <medlinecitation owner="NLM" status="MEDLINE">
+     <pmid version="1">
+      3029299
+     </pmid>
+     <datecompleted>
+      <year>
+       1987
+      </year>
+      <month>
+       04
+      </month>
+      <day>
+       20
+      </day>
+     </datecompleted>
+     <daterevised>
+      <year>
+       2007
+      </year>
+      <month>
+       11
+      </month>
+      <day>
+       14
+      </day>
+     </daterevised>
+     <article pubmodel="Print">
+      <journal>
+       <issn issntype="Print">
+        0022-1317
+       </issn>
+       <journalissue citedmedium="Print">
+        <volume>
+         68 ( Pt 3)
+        </volume>
+        <pubdate>
+         <year>
+          1987
+         </year>
+         <month>
+          Mar
+         </month>
+        </pubdate>
+       </journalissue>
+       <title>
+        The Journal of general virology
+       </title>
+       <isoabbreviation>
+        J. Gen. Virol.
+       </isoabbreviation>
+      </journal>
+      <articletitle>
+       Induction of demyelination by a temperature-sensitive mutant of the coronavirus MHV-A59 is associated with restriction of viral replication in the brain.
+      </articletitle>
+      <pagination>
+       <medlinepgn>
+        703-14
+       </medlinepgn>
+      </pagination>
+      <abstract>
+       <abstracttext>
+        The neurovirulence of eight temperature-sensitive (ts) mutants of mouse hepatitis virus strain A59 in 4-week-old BALB/c mice was investigated. Whereas a dose of 100 p.f.u. of wild-type virus killed mice within a week, a 1000-fold higher dose of ts mutants did not. Three ts mutants induced demyelinating disease in the central nervous system (CNS). The pathology of the demyelinating disease caused by one mutant, designated ts-342, was studied in detail. Pathological changes, starting 3 days post-inoculation (p.i.), were characterized by inflammation and demyelination in the CNS. Antibody responses directed against all virus-specific structural proteins were present at 7 days p.i. No virus particles were observed by electron microscopy at 14 days p.i. However, macrophages and lymphocytes were abundant in the areas of demyelination. The growth kinetics in vivo of wild-type virus, ts-342 and a revertant of ts-342 were compared. Wild-type virus and the revertant replicated rapidly in the brain and spread to the liver causing a lethal hepatitis. Ts-342, however, replicated to a much lesser extent within the brain and could not be detected in the blood or liver. The ts lesion in the genome of ts-342 seems, therefore, to determine the outcome of the infection.
+       </abstracttext>
+      </abstract>
+      <authorlist completeyn="Y">
+       <author validyn="Y">
+        <lastname>
+         Koolen
+        </lastname>
+        <forename>
+         M J
+        </forename>
+        <initials>
+         MJ
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Love
+        </lastname>
+        <forename>
+         S
+        </forename>
+        <initials>
+         S
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Wouda
+        </lastname>
+        <forename>
+         W
+        </forename>
+        <initials>
+         W
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Calafat
+        </lastname>
+        <forename>
+         J
+        </forename>
+        <initials>
+         J
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         Horzinek
+        </lastname>
+        <forename>
+         M C
+        </forename>
+        <initials>
+         MC
+        </initials>
+       </author>
+       <author validyn="Y">
+        <lastname>
+         van der Zeijst
+        </lastname>
+        <forename>
+         B A
+        </forename>
+        <initials>
+         BA
+        </initials>
+       </author>
+      </authorlist>
+      <language>
+       eng
+      </language>
+      <grantlist completeyn="Y">
+       <grant>
+        <grantid>
+         TW 03560
+        </grantid>
+        <acronym>
+         TW
+        </acronym>
+        <agency>
+         FIC NIH HHS
+        </agency>
+        <country>
+         United States
+        </country>
+       </grant>
+      </grantlist>
+      <publicationtypelist>
+       <publicationtype ui="D016428">
+        Journal Article
+       </publicationtype>
+       <publicationtype ui="D013485">
+        Research Support, Non-U.S. Gov't
+       </publicationtype>
+       <publicationtype ui="D013487">
+        Research Support, U.S. Gov't, P.H.S.
+       </publicationtype>
+      </publicationtypelist>
+     </article>
+     <medlinejournalinfo>
+      <country>
+       England
+      </country>
+      <medlineta>
+       J Gen Virol
+      </medlineta>
+      <nlmuniqueid>
+       0077340
+      </nlmuniqueid>
+      <issnlinking>
+       0022-1317
+      </issnlinking>
+     </medlinejournalinfo>
+     <citationsubset>
+      IM
+     </citationsubset>
+     <meshheadinglist>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D000818">
+        Animals
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D001921">
+        Brain
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000382">
+        microbiology
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000473">
+        pathology
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000648">
+        ultrastructure
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D004261">
+        DNA Replication
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D006524">
+        Hepatitis, Viral, Animal
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000473">
+        pathology
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D051379">
+        Mice
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D008854">
+        Microscopy, Electron
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D006517">
+        Murine hepatitis virus
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000235">
+        genetics
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000472">
+        pathogenicity
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="Y" ui="D009154">
+        Mutation
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D009186">
+        Myelin Sheath
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000648">
+        ultrastructure
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D013116">
+        Spinal Cord
+       </descriptorname>
+       <qualifiername majortopicyn="Y" ui="Q000382">
+        microbiology
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000473">
+        pathology
+       </qualifiername>
+       <qualifiername majortopicyn="N" ui="Q000648">
+        ultrastructure
+       </qualifiername>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D013696">
+        Temperature
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D014774">
+        Virulence
+       </descriptorname>
+      </meshheading>
+      <meshheading>
+       <descriptorname majortopicyn="N" ui="D014779">
+        Virus Replication
+       </descriptorname>
+      </meshheading>
+     </meshheadinglist>
+    </medlinecitation>
+    <pubmeddata>
+     <history>
+      <pubmedpubdate pubstatus="pubmed">
+       <year>
+        1987
+       </year>
+       <month>
+        3
+       </month>
+       <day>
+        1
+       </day>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="medline">
+       <year>
+        1987
+       </year>
+       <month>
+        3
+       </month>
+       <day>
+        1
+       </day>
+       <hour>
+        0
+       </hour>
+       <minute>
+        1
+       </minute>
+      </pubmedpubdate>
+      <pubmedpubdate pubstatus="entrez">
+       <year>
+        1987
+       </year>
+       <month>
+        3
+       </month>
+       <day>
+        1
+       </day>
+       <hour>
+        0
+       </hour>
+       <minute>
+        0
+       </minute>
+      </pubmedpubdate>
+     </history>
+     <publicationstatus>
+      ppublish
+     </publicationstatus>
+     <articleidlist>
+      <articleid idtype="pubmed">
+       3029299
+      </articleid>
+      <articleid idtype="doi">
+       10.1099/0022-1317-68-3-703
+      </articleid>
+     </articleidlist>
+    </pubmeddata>
+   </pubmedarticle>
+  </pubmedarticleset>
+ </body>
+</html>
