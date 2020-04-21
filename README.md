@@ -12,12 +12,15 @@ and the documents of the other 29 topics as non-relevant training data.
 Given a baseline run, the trained system reranks documents.
 
 The baseline run is retrieved with the default ranker of Elasticsearch/Lucene and queries using the contents of the `<query>` tags only.
-For our reranker we use glove embeddings in combination with the Deep Relevance Matching Model (DRMM).
+For our reranker we use Glove embeddings in combination with the Deep Relevance Matching Model (DRMM).
 
 Our three run submissions that differ by the training data retrieved from PubMed/PMC.
-1. The first run is trained on title and abstracts retrieved from PubMed's Entrez Programming Utilities API with "type=relevance".
-2. The second run is trained on title and abstracts retrieved from PubMed articles that are returned by the search interface with "best match". We scrape the PMIDs and retrieve the titles and abstracts afterwards.
-3. The third run is trained on full text documents retrieved from PMC.
+1. `irc_entrez`:  
+The first run is trained on title and abstracts retrieved from the Entrez Programming Utilities API with "type=relevance".
+2. `irc_pubmed`:   
+The second run is trained on title and abstracts retrieved from PubMed's search interface with "best match". We scrape the PMIDs and retrieve the titles and abstracts afterwards.
+3. `irc_pmc`:  
+The third run is trained on full text documents retrieved from PMC.
 
 ## Workflow 
 ![workflow](doc/workflow.png)
