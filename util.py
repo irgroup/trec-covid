@@ -38,8 +38,11 @@ def train_data(topic_train):
             if FULLTEXT_PMC:
                 articles = soup.find('pmc-articleset').find_all('article')
                 for article in articles:
-                    pbmid_str = article.find("article-id", {"pub-id-type": "pmid"}).text.replace('\n', ' ').strip()
-                    txt = article.abstract.text.replace('\n', ' ').strip(' ')
+                    pbmid_str = article.find("article-id", {"pub-id-type": "pmc"}).text.replace('\n', ' ').strip()
+                    txt = ''
+                    abstract = article.abstract
+                    if abstract:
+                        txt = abstract.text.replace('\n', ' ').strip(' ')
                     sections = article.find_all('sec')
                     titles = article.find_all('article-title')
 
