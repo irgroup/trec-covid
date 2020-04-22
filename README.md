@@ -11,7 +11,7 @@ For each topic a new reranker is trained. We consider those documents retrieved 
 and the documents of the other 29 topics as non-relevant training data.
 Given a baseline run, the trained system reranks documents.
 
-The baseline run is retrieved with the default ranker of Elasticsearch/Lucene and queries using the contents of the `<query>` tags only.
+The baseline run is retrieved with the default ranker of Elasticsearch/Lucene ([BM25](https://www.elastic.co/guide/en/elasticsearch/reference/current/index-modules-similarity.html)) and queries using the contents of the `<query>` tags only.
 For our reranker we use Glove embeddings in combination with the Deep Relevance Matching Model (DRMM).
 
 Our three run submissions that differ by the training data retrieved from PubMed/PMC.
