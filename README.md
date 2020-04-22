@@ -3,7 +3,7 @@
 ## Submission details round #1
 
 #### Description:
-In the course of our participation in TREC-COVID, we submit automatic runs based on (pseudo) relevance feedback in combination with a reranking approach.
+As part of [TREC-COVID](https://ir.nist.gov/covidSubmit/), we submit automatic runs based on (pseudo) relevance feedback in combination with a reranking approach.
 The reranker is trained on relevance feedback data that is retrieved from PubMed/PubMed Central (PMC). 
 The training data is retrieved with queries using the contents of the `<query>` tags only.
 
@@ -11,16 +11,16 @@ For each topic a new reranker is trained. We consider those documents retrieved 
 and the documents of the other 29 topics as non-relevant training data.
 Given a baseline run, the trained system reranks documents.
 
-The baseline run is retrieved with the default ranker of Elasticsearch/Lucene ([BM25](https://www.elastic.co/guide/en/elasticsearch/reference/current/index-modules-similarity.html)) and queries using the contents of the `<query>` tags only.
-For our reranker we use Glove embeddings in combination with the Deep Relevance Matching Model (DRMM).
+The baseline run is retrieved with the default ranker of Elasticsearch/Lucene ([BM25](https://www.elastic.co/guide/en/elasticsearch/reference/7.4/index-modules-similarity.html)) and queries using the contents of the `<query>` tags only.
+For our reranker we use [GloVe embeddings](https://nlp.stanford.edu/projects/glove/) in combination with the [Deep Relevance Matching Model (DRMM)](www.bigdatalab.ac.cn/~gjf/papers/2016/CIKM2016a_guo.pdf).
 
-Our three run submissions that differ by the training data retrieved from PubMed/PMC.
+Our three run submissions differ by the way training data is retrieved from PubMed/PMC.
 1. `irc_entrez`:  
-The first run is trained on title and abstracts retrieved from the Entrez Programming Utilities API with "type=relevance".
+The first run is trained on titles and abstracts retrieved from the [Entrez Programming Utilities API](https://www.ncbi.nlm.nih.gov/books/NBK25500/) with "type=relevance".
 2. `irc_pubmed`:   
-The second run is trained on title and abstracts retrieved from PubMed's search interface with "best match". We scrape the PMIDs and retrieve the titles and abstracts afterwards.
+The second run is trained on titles and abstracts retrieved from [PubMed's search interface](https://pubmed.ncbi.nlm.nih.gov/) with "best match". We scrape the PMIDs and retrieve the titles and abstracts afterwards.
 3. `irc_pmc`:  
-The third run is trained on full text documents retrieved from PMC.
+The third run is trained on full text documents retrieved from [PMC](https://www.ncbi.nlm.nih.gov/pmc/).
 
 ## Workflow 
 ![workflow](doc/workflow.png)
@@ -28,7 +28,7 @@ The third run is trained on full text documents retrieved from PMC.
 Our retrieval pipeline relies on the following dependencies:  
 [[docker](https://docker-py.readthedocs.io/en/stable/)][[elasticsearch](https://elasticsearch-py.readthedocs.io/en/master/)][[requests](https://2.python-requests.org/en/master/)][[beautifulsoup](https://www.crummy.com/software/BeautifulSoup/)][[matchzoo](https://github.com/NTMC-Community/MatchZoo)]
 
-* Install docker. When running on HPC (Ubuntu VM):  
+* Install docker. When running on SciComp (Ubuntu VM):  
 ``` 
 sudo usermod -aG docker $USER
 ```
