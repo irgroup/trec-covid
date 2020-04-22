@@ -1,7 +1,7 @@
 from elasticsearch import Elasticsearch
 from elasticsearch_dsl import Search
 from elasticsearch_dsl.query import MultiMatch
-from config import DOCS, TOPIC, SINGLE_IDX, META, VALID_ID, RUN_DIR
+from config import DOCS, TOPIC, SINGLE_IDX, META, VALID_ID, RUN_DIR, RUN_TAG
 import pandas as pd
 from util import query_dict
 
@@ -52,7 +52,7 @@ if __name__ == '__main__':
                         continue
 
                     if cord_uid in valid.values and cord_uid not in id_store:
-                        line = num + ' Q0 ' + cord_uid + ' ' + str(count) + ' ' + str(hit.meta.score) + ' IRC ' + '\n'
+                        line = num + ' Q0 ' + cord_uid + ' ' + str(count) + ' ' + str(hit.meta.score) + ' ' + RUN_TAG + '\n'
                         run.write(line)
                         id_store.append(cord_uid)
                         count += 1

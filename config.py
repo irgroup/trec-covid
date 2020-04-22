@@ -21,6 +21,7 @@ MODEL_DUMP = './artifact/model/'
 MODEL_TYPE = 'drmm'  # 'dense', 'drmm'
 RUN_DIR = './artifact/runs/'
 RERANKED_RUN = 'reranked_drmm'
+RUN_TAG = 'irc_pubmed'  # 'irc_pubmed', 'irc_pmc', 'irc_entrez'
 
 PUBMED_SCRAPE = False
 PUBMED_FRONT = 'https://pubmed.ncbi.nlm.nih.gov/?term='

@@ -2,7 +2,7 @@ import os
 import pandas as pd
 import numpy as np
 import matchzoo as mz
-from config import META, MODEL_DUMP, MODEL_TYPE, RERANKED_RUN, DATA, RUN_DIR, BASELINE, RERANK_WEIGHT, TOPIC
+from config import META, MODEL_DUMP, MODEL_TYPE, RERANKED_RUN, DATA, RUN_DIR, BASELINE, RERANK_WEIGHT, TOPIC, RUN_TAG
 from util import query_dict, map_sha_path, test_data, train_data
 
 
@@ -105,6 +105,6 @@ if __name__ == '__main__':
         count = 1
         with open(os.path.join(RUN_DIR, RERANKED_RUN), 'a') as run:
             for index, row in final_score_sorted.iterrows():
-                line = topic_number + ' Q0 ' + row['cord_uid'] + ' ' + str(count) + ' ' + str(row['weighted_score']) + ' IRC\n'
+                line = topic_number + ' Q0 ' + row['cord_uid'] + ' ' + str(count) + ' ' + str(row['weighted_score']) + ' ' + RUN_TAG + '\n'
                 run.write(line)
                 count += 1
