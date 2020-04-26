@@ -5,7 +5,7 @@ from tqdm import tqdm
 from elasticsearch import helpers
 from elasticsearch_dsl import Search
 from elasticsearch_dsl.query import MultiMatch
-from config import IMAGE_TAG, CONTAINER_NAME, RUN_DIR, DOCS
+from config.config import IMAGE_TAG, CONTAINER_NAME, RUN_DIR, DOCS
 
 
 settings = {"settings":

@@ -4,3 +4,5 @@ download/
 __pycache__/
 tmp.py
 venv/
+ignore/
+artifact/
