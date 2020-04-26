@@ -1,10 +1,21 @@
 import os
 import json
+from datetime import datetime
 import pandas as pd
 from bs4 import BeautifulSoup as bs
 import matchzoo as mz
 from config import TOPIC, PUBMED_FETCH, PUBMED_DUMP_DATE, FULLTEXT_PMC
 from PyPDF2 import PdfFileReader
+
+
+def mkdir(path):
+    if not os.path.exists(path):
+        os.makedirs(path)
+
+
+def date_str():
+    now = datetime.now()
+    return now.date().strftime("%Y-%m-%d")
 
 
 def text_from_pdf(file):

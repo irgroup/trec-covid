@@ -1,7 +1,7 @@
 import os
 import numpy as np
 import matchzoo as mz
-from util import train_data, query_dict
+from core.util import train_data, query_dict
 from config import MODEL_DUMP, MODEL_TYPE, TOPIC
 
 

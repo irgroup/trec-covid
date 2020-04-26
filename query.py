@@ -3,7 +3,7 @@ from elasticsearch_dsl import Search
 from elasticsearch_dsl.query import MultiMatch
 from config import DOCS, TOPIC, SINGLE_IDX, META, VALID_ID, RUN_DIR, RUN_TAG
 import pandas as pd
-from util import query_dict
+from core.util import query_dict
 
 
 if __name__ == '__main__':

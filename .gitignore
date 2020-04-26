@@ -3,3 +3,4 @@ download/
 .idea/
 __pycache__/
 tmp.py
+venv/
