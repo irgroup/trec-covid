@@ -3,9 +3,9 @@ import time
 import requests as rq
 from bs4 import BeautifulSoup
 
-from config import (EFETCH, ESEARCH, RETMODE, PUBMED_FETCH, PUBMED_SCRAPE,
-                    PUBMED_FRONT, RESULT_SIZE, ESEARCH_PMC, EFETCH_PMC,
-                    FULLTEXT_PMC)
+from config.config import (EFETCH, ESEARCH, RETMODE, PUBMED_FETCH, PUBMED_SCRAPE,
+                           PUBMED_FRONT, RESULT_SIZE, ESEARCH_PMC, EFETCH_PMC,
+                           FULLTEXT_PMC)
 
 
 def fetch(queries, date_str):
