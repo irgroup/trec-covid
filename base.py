@@ -14,7 +14,7 @@ def main():
                          'port': 9200,
                          'timeout': 3600}])
 
-    query(es, meta, valid, queries, write_run=True, IDX_NAME=SINGLE_IDX)
+    query(es, meta, valid, queries, IDX_NAME=SINGLE_IDX)
 
 
 if __name__ == '__main__':

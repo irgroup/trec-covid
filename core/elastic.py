@@ -137,49 +137,39 @@ def query_multi_idx(es, queries, DOCS):
                     count += 1
 
 
-def query_single_idx(es, meta, valid, queries, IDX_NAME, write_run: bool):
+def query_single_idx(es, meta, valid, queries, IDX_NAME):
 
-    base_rank = {}
+    with open(RUN_DIR + IDX_NAME, 'w') as run:
+        for num, title in queries.items():
+            query = MultiMatch(query=title,
+                               fields=['abstract', 'body_text'],
+                               fuzziness='AUTO')
+            s = Search(using=es, index=IDX_NAME).query(query)
+            response = s.execute()
+            count = 1
+            id_store = []
+            for hit in s[:5000]:
+                cord_uid_series = meta[meta['sha'] == hit.sha]['cord_uid']
+                cord_uid = None
+                try:
+                    if len(cord_uid_series.values) > 1:
+                        pass
+                    cord_uid = cord_uid_series.values[0]
+                except:
+                    continue
 
-    for num, title in queries.items():
-        query = MultiMatch(query=title,
-                           fields=['abstract', 'body_text'],
-                           fuzziness='AUTO')
-        s = Search(using=es, index=IDX_NAME).query(query)
-        s.execute()
-        count = 1
-        id_store = []
-        for hit in s[:5000]:
-            cord_uid_series = meta[meta['sha'] == hit.sha]['cord_uid']
-            cord_uid = None
-            try:
-                if len(cord_uid_series.values) > 1:
-                    pass
-                cord_uid = cord_uid_series.values[0]
-            except:
-                continue
-
-            if cord_uid in valid.values and cord_uid not in id_store:
-                base_rank[num] = {count: {'cord_uid': cord_uid, 'score': hit.meta.score}}
-                id_store.append(cord_uid)
-                count += 1
+                if cord_uid in valid.values and cord_uid not in id_store:
+                    line = num + ' Q0 ' + cord_uid + ' ' + str(count) + ' ' + str(hit.meta.score) + ' IRC ' + '\n'
+                    run.write(line)
+                    id_store.append(cord_uid)
+                    count += 1
 
                 if count > 1000:
                     break
 
-    if write_run:
-        with open(RUN_DIR + IDX_NAME, 'w') as run:
-            for top in range(1,31):
-                for rank in range(1,1001):
-                    base_rank[top][rank]['cord_uid']
-                    line = str(top) + ' Q0 ' + base_rank[top][rank]['cord_uid'] + ' ' + str(rank) + ' ' + base_rank[top][rank]['score'] + ' irc_base\n'
-                    run.write(line)
 
-    return base_rank
-
-
-def query(es, meta, valid, queries, write_run=True, IDX_NAME=None):
+def query(es, meta, valid, queries, IDX_NAME=None):
     if IDX_NAME:
-        query_single_idx(es, meta, valid, queries, IDX_NAME, write_run)
+        query_single_idx(es, meta, valid, queries, IDX_NAME)
     else:
         query_multi_idx(es, queries, DOCS=DOCS)

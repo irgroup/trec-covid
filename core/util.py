@@ -4,7 +4,7 @@ from datetime import datetime
 import pandas as pd
 from bs4 import BeautifulSoup as bs
 import matchzoo as mz
-from config import TOPIC, PUBMED_FETCH, PUBMED_DUMP_DATE, FULLTEXT_PMC
+from config.config import TOPIC, PUBMED_FETCH, PUBMED_DUMP_DATE, FULLTEXT_PMC
 from PyPDF2 import PdfFileReader
 
 
