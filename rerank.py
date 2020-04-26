@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import matchzoo as mz
 from config.config import META, MODEL_DUMP, MODEL_TYPE, RERANKED_RUN, DATA, RUN_DIR, BASELINE, RERANK_WEIGHT, TOPIC, RUN_TAG
+from core.clf import get_model_and_data
 from core.util import query_dict, map_sha_path, test_data, train_data
 
 
@@ -19,7 +20,6 @@ if __name__ == '__main__':
 
     glove_embedding = mz.datasets.embeddings.load_glove_embedding(dimension=300)
 
-
     for topic_number, query in query_dict(TOPIC).items():
         topic_df = df_baseline[df_baseline['topic'] == int(topic_number)]
         cord_uids = topic_df['cord_uid']
@@ -27,53 +27,19 @@ if __name__ == '__main__':
         # make datapack
         d_pack_test = test_data(topic_number, cord_uids, query, meta, msp)
 
-        if MODEL_TYPE == 'dense':
-            # load model
-            model = mz.load_model(os.path.join(MODEL_DUMP, MODEL_TYPE, str(topic_number)))
-
-            # prepare preprocessor
-            train_raw = train_data(topic_number)
-            preprocessor = mz.preprocessors.BasicPreprocessor()
-            preprocessor.fit(train_raw)
-
-            # transform document data
-            test_processed = preprocessor.transform(d_pack_test)
-            test_x, test_y = test_processed.unpack()
-
-        if MODEL_TYPE == 'drmm':
-            # load model
-            model = mz.load_model(os.path.join(MODEL_DUMP, MODEL_TYPE, str(topic_number)))
-            task = mz.tasks.Ranking()
-            train_raw = train_data(topic_number)
-            preprocessor = mz.preprocessors.BasicPreprocessor(fixed_length_left=10,
-                                                              fixed_length_right=100,
-                                                              remove_stop_words=False)
-            preprocessor.fit(train_raw)
-
-            test_processed = preprocessor.transform(d_pack_test)
-            embedding_matrix = glove_embedding.build_matrix(preprocessor.context['vocab_unit'].state['term_index'])
-            # normalize the word embedding for fast histogram generating.
-            l2_norm = np.sqrt((embedding_matrix * embedding_matrix).sum(axis=1))
-            embedding_matrix = embedding_matrix / l2_norm[:, np.newaxis]
-            model.load_embedding_matrix(embedding_matrix)
-            hist_callback = mz.data_generator.callbacks.Histogram(embedding_matrix,
-                                                                  bin_size=30,
-                                                                  hist_mode='LCH')
-            test_generator = mz.DataGenerator(data_pack=test_processed, mode='point',
-                                              callbacks=[hist_callback])
-            test_x, test_y = test_generator[:]
+        # get model and transformed data
+        model, pred_x = get_model_and_data(topic_number, d_pack_test, model_type=MODEL_TYPE, embedding=glove_embedding)
 
         # predict score for each doc
-        scores = model.predict(test_x)
+        scores = model.predict(pred_x)
 
         # dict with score docid mapping
         id_score = {}
         for i in range(0, 1000):
-            id_score[test_x['id_right'][i]] = scores[i].item()
+            id_score[pred_x['id_right'][i]] = scores[i].item()
 
         # sort by descending score (rerank)
         id_score_sort = {k: v for k, v in sorted(id_score.items(), key=lambda item: item[1], reverse=True)}
-
 
         # normalize baseline scores
         baseline_score_normalized = (topic_df['score'] - topic_df['score'].min()) / (
@@ -91,7 +57,7 @@ if __name__ == '__main__':
 
         id_score_normalized = {}
         for i in range(0, 1000):
-            id_score_normalized[test_x['id_right'][i]] = sorted_scores_normalized[i].item()
+            id_score_normalized[pred_x['id_right'][i]] = sorted_scores_normalized[i].item()
 
         for cord_uid, score in id_score_normalized.items():
             df_scores.at[df_scores[df_scores['cord_uid'] == cord_uid].index, 'rerank_score'] = score

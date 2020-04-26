@@ -84,3 +84,44 @@ def train(topic_number, model_type='drmm'):
             if not os.path.exists(os.path.join(MODEL_DUMP, MODEL_TYPE)):
                 os.makedirs(os.path.join(MODEL_DUMP, MODEL_TYPE))
             model.save(os.path.join(MODEL_DUMP, MODEL_TYPE, str(topic_number)))
+
+
+def get_model_and_data(topic_number, d_pack_test, model_type, embedding):
+
+    if model_type == 'dense':
+        # load model
+        model = mz.load_model(os.path.join(MODEL_DUMP, MODEL_TYPE, str(topic_number)))
+
+        # prepare preprocessor
+        train_raw = train_data(topic_number)
+        preprocessor = mz.preprocessors.BasicPreprocessor()
+        preprocessor.fit(train_raw)
+
+        # transform document data
+        test_processed = preprocessor.transform(d_pack_test)
+        test_x, test_y = test_processed.unpack()
+
+    if model_type == 'drmm':
+        # load model
+        model = mz.load_model(os.path.join(MODEL_DUMP, MODEL_TYPE, str(topic_number)))
+        task = mz.tasks.Ranking()
+        train_raw = train_data(topic_number)
+        preprocessor = mz.preprocessors.BasicPreprocessor(fixed_length_left=10,
+                                                          fixed_length_right=100,
+                                                          remove_stop_words=False)
+        preprocessor.fit(train_raw)
+
+        test_processed = preprocessor.transform(d_pack_test)
+        embedding_matrix = embedding.build_matrix(preprocessor.context['vocab_unit'].state['term_index'])
+        # normalize the word embedding for fast histogram generating.
+        l2_norm = np.sqrt((embedding_matrix * embedding_matrix).sum(axis=1))
+        embedding_matrix = embedding_matrix / l2_norm[:, np.newaxis]
+        model.load_embedding_matrix(embedding_matrix)
+        hist_callback = mz.data_generator.callbacks.Histogram(embedding_matrix,
+                                                              bin_size=30,
+                                                              hist_mode='LCH')
+        test_generator = mz.DataGenerator(data_pack=test_processed, mode='point',
+                                          callbacks=[hist_callback])
+        test_x, test_y = test_generator[:]
+
+    return model, test_x
