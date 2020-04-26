@@ -4,6 +4,18 @@ import pandas as pd
 from bs4 import BeautifulSoup as bs
 import matchzoo as mz
 from config import TOPIC, PUBMED_FETCH, PUBMED_DUMP_DATE, FULLTEXT_PMC
+from PyPDF2 import PdfFileReader
+
+
+def text_from_pdf(file):
+    txt = ''
+    with open(file, "rb") as filehandle:
+        pdf = PdfFileReader(filehandle)
+        txt = ''
+        for nr in range(0, pdf.getNumPages()):
+            page = pdf.getPage(nr)
+            txt += page.extractText()
+    return txt
 
 
 def query_dict(topic_file):

@@ -7,3 +7,4 @@ pandas
 lxml
 matchzoo
 tensorflow
+PyPDF2
