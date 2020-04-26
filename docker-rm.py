@@ -1,8 +1,8 @@
-from core.elastic import start_container
+from core.elastic import stop_rm_container
 
 
 def main():
-    start_container()
+    stop_rm_container()
 
 
 if __name__ == '__main__':
