@@ -3,6 +3,8 @@ DOCS = {'comm': './data/comm_use_subset/',
         'biorxiv': './data/biorxiv_medrxiv/',
         'custom': './data/custom_license/'}
 TOPIC = './topics/topics-rnd1.xml'
+IMAGE_TAG = 'elasticsearch:7.4.2'
+CONTAINER_NAME = 'elasticsearch'
 BULK = True
 SINGLE_IDX = 'trec-covid'
 BASELINE = 'trec-covid'
