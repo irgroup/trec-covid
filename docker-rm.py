@@ -1,4 +1,4 @@
-from .core import elastic
+from core import elastic
 
 
 def main():
