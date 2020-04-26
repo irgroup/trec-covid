@@ -2,7 +2,7 @@ import os
 import pandas as pd
 import numpy as np
 import matchzoo as mz
-from config import META, MODEL_DUMP, MODEL_TYPE, RERANKED_RUN, DATA, RUN_DIR, BASELINE, RERANK_WEIGHT, TOPIC, RUN_TAG
+from config.config import META, MODEL_DUMP, MODEL_TYPE, RERANKED_RUN, DATA, RUN_DIR, BASELINE, RERANK_WEIGHT, TOPIC, RUN_TAG
 from core.util import query_dict, map_sha_path, test_data, train_data
 
 

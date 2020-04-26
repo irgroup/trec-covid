@@ -1,4 +1,4 @@
-from config import TOPIC, PUBMED_FETCH
+from config.config import TOPIC, PUBMED_FETCH
 from core.util import query_dict, mkdir, date_str
 from core.pubmed import fetch
 

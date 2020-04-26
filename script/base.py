@@ -2,7 +2,7 @@ import pandas as pd
 from elasticsearch import Elasticsearch
 from core.util import query_dict
 from core.elastic import query
-from config import TOPIC, SINGLE_IDX, META, VALID_ID
+from config.config import TOPIC, SINGLE_IDX, META, VALID_ID
 
 
 def main():

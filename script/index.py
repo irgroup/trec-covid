@@ -1,5 +1,5 @@
 from elasticsearch import Elasticsearch
-from config import DOCS, BULK, SINGLE_IDX
+from config.config import DOCS, BULK, SINGLE_IDX
 from core.elastic import index
 
 
