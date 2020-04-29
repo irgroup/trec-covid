@@ -39,7 +39,7 @@ def drmm_preprocess(train_raw, task, embed_out_dim):
     return train_processed, preprocessor, model
 
 
-def train(topic_number, model_type='drmm'):
+def train(topic_number, embedding, model_type='drmm'):
 
     task = mz.tasks.Ranking()
     train_raw = train_data(topic_number)
@@ -56,13 +56,13 @@ def train(topic_number, model_type='drmm'):
             model.save(os.path.join(MODEL_DUMP, MODEL_TYPE, str(topic_number)))
 
     if model_type == 'drmm':
-        glove_embedding = mz.datasets.embeddings.load_glove_embedding(dimension=300)
-        train_processed, preprocessor, model = drmm_preprocess(train_raw, task, embed_out_dim=glove_embedding.output_dim)
+        # glove_embedding = mz.datasets.embeddings.load_glove_embedding(dimension=300)
+        train_processed, preprocessor, model = drmm_preprocess(train_raw, task, embed_out_dim=embedding.output_dim)
 
         if model.params.completed():
             model.build()
             model.compile()
-            embedding_matrix = glove_embedding.build_matrix(preprocessor.context['vocab_unit'].state['term_index'])
+            embedding_matrix = embedding.build_matrix(preprocessor.context['vocab_unit'].state['term_index'])
             # normalize the word embedding for fast histogram generating.
             l2_norm = np.sqrt((embedding_matrix * embedding_matrix).sum(axis=1))
             embedding_matrix = embedding_matrix / l2_norm[:, np.newaxis]

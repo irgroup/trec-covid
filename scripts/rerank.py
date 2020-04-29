@@ -2,7 +2,10 @@ import os
 import pandas as pd
 import numpy as np
 import matchzoo as mz
-from config.config import META, MODEL_DUMP, MODEL_TYPE, RERANKED_RUN, DATA, RUN_DIR, BASELINE, RERANK_WEIGHT, TOPIC, RUN_TAG
+from config.config import (META, MODEL_DUMP, MODEL_TYPE,
+                           RERANKED_RUN, DATA, RUN_DIR,
+                           BASELINE, RERANK_WEIGHT, TOPIC,
+                           RUN_TAG, EMBEDDING, EMBED_DIR, BIOWORDVEC)
 from core.clf import get_model_and_data
 from core.util import query_dict, map_sha_path, test_data, train_data
 
@@ -18,7 +21,10 @@ if __name__ == '__main__':
                               names=['topic', 'Q0', 'cord_uid', 'rank', 'score', 'team'],
                               index_col=False)
 
-    glove_embedding = mz.datasets.embeddings.load_glove_embedding(dimension=300)
+    if EMBEDDING == 'glove':
+        embedding = mz.datasets.embeddings.load_glove_embedding(dimension=300)
+    if EMBEDDING == 'biowordvec':
+        embedding = mz.embedding.embedding.load_from_file(os.path.join(EMBED_DIR, BIOWORDVEC), mode='word2vec')
 
     for topic_number, query in query_dict(TOPIC).items():
         topic_df = df_baseline[df_baseline['topic'] == int(topic_number)]
@@ -28,7 +34,7 @@ if __name__ == '__main__':
         d_pack_test = test_data(topic_number, cord_uids, query, meta, msp)
 
         # get model and transformed data
-        model, pred_x = get_model_and_data(topic_number, d_pack_test, model_type=MODEL_TYPE, embedding=glove_embedding)
+        model, pred_x = get_model_and_data(topic_number, d_pack_test, model_type=MODEL_TYPE, embedding=embedding)
 
         # predict score for each doc
         scores = model.predict(pred_x)

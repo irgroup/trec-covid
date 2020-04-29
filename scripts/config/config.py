@@ -33,4 +33,6 @@ FULLTEXT_PMC = False
 
 RERANK_WEIGHT = 0.5
 
+EMBEDDING = 'biowordvec'  # 'glove', 'biowordvec'
 EMBED_DIR = './embedding/'
+BIOWORDVEC = 'bio_embedding_intrinsic.txt'
