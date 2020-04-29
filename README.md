@@ -43,45 +43,50 @@ pip3 install -r requirements.txt
 ```  
 Run `python3` and install nltk data:  
 ```shell script
->>> import nltk
->>> nltk.download('punkt')
+python3 -m nltk.downloader punkt
 ```
 * Download data from [semanticscholar](https://pages.semanticscholar.org/coronavirus-research), extract it and place it in `./data/`. 
 ``` 
-./getDataSets.sh
+./scripts/getDataSets.sh
 ``` 
 * Fetch data for 30 topics from PubMed (will be written to `artifact` directory with timestamp)
 ```shell script
-python3 fetchPubmedData.py
+python3 scripts/fetchPubmedData.py
 ```
+
+* Convert embeddings from bin to txt  
+```shell script
+python3 scripts/convert_word2vec.py
+```
+
 * **Optional:** Adapt settings in `config.py`  
 
 ### Baseline run 
 * Download image and run Elasticsearch container
 ```shell script
-python3 docker-run.py
+python3 scripts/docker-run.py
 ```
 * Index data  
 ```shell script
-python3 index.py
+python3 scripts/index.py
 ```
 * Write baseline run file
 ```shell script
-python3 query.py
+python3 scripts/base.py
 ```
 * **Optional:** Delete the docker container and remove the image  
 ```shell script
-python3 docker-rm.py
+python3 scripts/docker-rm.py
 ```
 
 ### Reranking
 * Train model for each of the 30 topics and save models to `./artifact/model/<model-type>`
 ```shell script
-python3 train.py
+python3 scripts/train.py
 ```
 * Rerank baseline ranking:
 ```shell script
-python3 rerank.py
+python3 scripts/rerank.py
 ```
 
 ### `config.py`
@@ -108,8 +113,17 @@ python3 rerank.py
 | PUBMED_FRONT | URL of the pubmed frontend |
 | RESULT_SIZE | number of results to be retrieved from PUBMED_FRONT |
 | RERANK_WEIGHT | weight param for reranker score. `default: 0.5` |
+| IMAGE_TAG | |
+| CONTAINER_NAME | |
+| FULLTEXT_PMC | |
+| RUN_TAG | |
+| ESEARCH_PMC | |
+| EFETCH_PMC | |
+| EMBEDDING | |
+| EMBED_DIR |  |
+| BIOWORDVEC |  |
 
-### Datasets
+### Datasets Round 1
 | name | link |
 | ---  | --- |
 | `comm` | [commercial use subset](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/comm_use_subset.tar.gz) |
