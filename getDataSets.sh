@@ -16,6 +16,7 @@ urls=(
     https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/antiviral_with_properties.sdf.gz
     https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-04-10/cord19_specter_embeddings_2020-04-10.tar.gz
     https://ir.nist.gov/covidSubmit/data/docids-rnd1.txt
+    https://ndownloader.figshare.com/files/12551780
 )
 
 for i in "${urls[@]}"; do
