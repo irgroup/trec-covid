@@ -32,3 +32,5 @@ RESULT_SIZE = 20
 FULLTEXT_PMC = False
 
 RERANK_WEIGHT = 0.5
+
+EMBED_DIR = './embedding/'

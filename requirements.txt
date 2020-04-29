@@ -8,3 +8,4 @@ lxml
 matchzoo
 tensorflow
 PyPDF2
+gensim
