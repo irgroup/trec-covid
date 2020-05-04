@@ -9,3 +9,4 @@ matchzoo
 tensorflow
 PyPDF2
 gensim
+spacy
