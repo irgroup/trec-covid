@@ -4,7 +4,7 @@ from datetime import datetime
 import pandas as pd
 from bs4 import BeautifulSoup as bs
 import matchzoo as mz
-from config.config import TOPIC, PUBMED_FETCH, PUBMED_DUMP_DATE, FULLTEXT_PMC
+from config.config import TOPIC, PUBMED_FETCH, PUBMED_DUMP_DATE, FULLTEXT_PMC, RERANK_WEIGHT
 from PyPDF2 import PdfFileReader
 
 
@@ -161,3 +161,35 @@ def test_data(topic_number, cord_uids, query, meta, msp):
                                     'label': label})
 
     return mz.pack(df)
+
+
+def merge_rankings(df_baseline, df_rerank, rerank_weight):
+    for topic_number, query in query_dict(TOPIC).items():
+        topic_base = df_baseline[df_baseline['topic'] == int(topic_number)]
+        cord_uids_base = topic_base['cord_uid']
+        topic_rerank = df_rerank[df_rerank['topic'] == int(topic_number)]
+        cord_uids_rerank = topic_rerank['cord_uid']
+
+        # normalize baseline scores
+        baseline_score_normalized = (topic_base['score'] - topic_base['score'].min()) / (
+                    topic_base['score'].max() - topic_base['score'].min())
+
+        # normalize rerank scores
+        rerank_score_normalized = (topic_rerank['score'] - topic_rerank['score'].min()) / (
+                    topic_rerank['score'].max() - topic_rerank['score'].min())
+
+        # merge scores and ids into one data frame
+        df_scores = pd.DataFrame({'cord_uid': cord_uids_base,
+                                  'base_score': baseline_score_normalized,
+                                  'rerank_score': baseline_score_normalized})
+
+        df_rerank_norm = pd.DataFrame({'cord_uid': cord_uids_rerank,
+                                       'rerank_score': rerank_score_normalized})
+
+        for index, row in df_rerank_norm.iterrows():
+            df_scores.at[df_scores[df_scores['cord_uid'] == row['cord_uid']].index, 'rerank_score'] = row['rerank_score']
+
+        weighted = ((1 - rerank_weight) * df_scores['base_score'] + rerank_weight * df_scores['rerank_score'])
+        final_score = pd.DataFrame({'cord_uid': df_scores['cord_uid'], 'weighted_score': weighted})
+
+        return final_score.sort_values(by=['weighted_score'], ascending=False)
