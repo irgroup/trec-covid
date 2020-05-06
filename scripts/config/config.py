@@ -30,12 +30,13 @@ PUBMED_FRONT = 'https://pubmed.ncbi.nlm.nih.gov/?term='
 RESULT_SIZE = 20
 
 FULLTEXT_PMC = False
-
 RERANK_WEIGHT = 0.5
 
 EMBEDDING = 'biowordvec'  # 'glove', 'biowordvec'
 EMBED_DIR = './embedding/'
 BIOWORDVEC = 'bio_embedding_intrinsic.txt'
 
+# round 2
 ROUND = 2
 QRELS_RND1 = '../qrels/qrels-rnd1.txt'
+ALTMETRIC = '../data/trec_covid_final.xlsx'
