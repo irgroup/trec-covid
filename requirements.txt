@@ -10,3 +10,5 @@ tensorflow
 PyPDF2
 gensim
 spacy
+scikit-learn
+tqdm
