@@ -137,7 +137,7 @@ def query_multi_idx(es, queries, DOCS):
                     count += 1
 
 
-def query_single_idx(es, meta, valid, queries, IDX_NAME):
+def query_single_idx(es, meta, valid, queries, qrels, IDX_NAME):
 
     with open(RUN_DIR + IDX_NAME, 'w') as run:
         for num, title in queries.items():
@@ -158,18 +158,27 @@ def query_single_idx(es, meta, valid, queries, IDX_NAME):
                 except:
                     continue
 
-                if cord_uid in valid.values and cord_uid not in id_store:
-                    line = num + ' Q0 ' + cord_uid + ' ' + str(count) + ' ' + str(hit.meta.score) + ' IRC ' + '\n'
-                    run.write(line)
-                    id_store.append(cord_uid)
-                    count += 1
+                if qrels is not None:
+                    judged_docs = qrels[qrels['topic'] == int(num)]['docid'].values
+                    if cord_uid in valid.values and cord_uid not in id_store and cord_uid not in judged_docs:
+                        line = num + ' Q0 ' + cord_uid + ' ' + str(count) + ' ' + str(hit.meta.score) + ' IRC ' + '\n'
+                        run.write(line)
+                        id_store.append(cord_uid)
+                        count += 1
+
+                else:
+                    if cord_uid in valid.values and cord_uid not in id_store:
+                        line = num + ' Q0 ' + cord_uid + ' ' + str(count) + ' ' + str(hit.meta.score) + ' IRC ' + '\n'
+                        run.write(line)
+                        id_store.append(cord_uid)
+                        count += 1
 
                 if count > 1000:
                     break
 
 
-def query(es, meta, valid, queries, IDX_NAME=None):
+def query(es, meta, valid, queries, qrels=None, IDX_NAME=None):
     if IDX_NAME:
-        query_single_idx(es, meta, valid, queries, IDX_NAME)
+        query_single_idx(es, meta, valid, queries, qrels, IDX_NAME)
     else:
         query_multi_idx(es, queries, DOCS=DOCS)

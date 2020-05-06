@@ -2,7 +2,7 @@ import pandas as pd
 from elasticsearch import Elasticsearch
 from core.util import query_dict, mkdir
 from core.elastic import query
-from config.config import TOPIC, SINGLE_IDX, META, VALID_ID, RUN_DIR
+from config.config import TOPIC, SINGLE_IDX, META, VALID_ID, RUN_DIR, QRELS_RND1, ROUND
 
 
 def main():
@@ -16,7 +16,14 @@ def main():
 
     mkdir(RUN_DIR)
 
-    query(es, meta, valid, queries, IDX_NAME=SINGLE_IDX)
+    qrels = None
+    if ROUND == 2:
+        qrels = pd.read_csv(QRELS_RND1,
+                            sep='\s{1,}',
+                            names=['topic', 'Q0', 'docid', 'rel'],
+                            index_col=False)
+
+    query(es, meta, valid, queries, qrels, IDX_NAME=SINGLE_IDX)
 
 
 if __name__ == '__main__':
