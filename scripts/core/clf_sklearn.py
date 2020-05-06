@@ -1,4 +1,4 @@
-from core.util import query_dict, map_sha_path, test_data, train_data, text
+from core.util import query_dict, map_sha_path, text
 from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
 
