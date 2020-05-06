@@ -36,3 +36,6 @@ RERANK_WEIGHT = 0.5
 EMBEDDING = 'biowordvec'  # 'glove', 'biowordvec'
 EMBED_DIR = './embedding/'
 BIOWORDVEC = 'bio_embedding_intrinsic.txt'
+
+ROUND = 2
+QRELS_RND1 = '../qrels/qrels-rnd1.txt'
