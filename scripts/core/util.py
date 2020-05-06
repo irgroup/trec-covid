@@ -39,7 +39,7 @@ def query_dict(topic_file):
             question = top.question.text
             narrative = top.narrative.text
 
-            queries[num] = query
+            queries[num] = query + ' ' + question + ' ' + narrative
 
     return queries
 
@@ -190,6 +190,39 @@ def merge_rankings(df_baseline, df_rerank, rerank_weight):
             df_scores.at[df_scores[df_scores['cord_uid'] == row['cord_uid']].index, 'rerank_score'] = row['rerank_score']
 
         weighted = ((1 - rerank_weight) * df_scores['base_score'] + rerank_weight * df_scores['rerank_score'])
+        weighted = df_scores['base_score'] * df_scores['rerank_score']
         final_score = pd.DataFrame({'cord_uid': df_scores['cord_uid'], 'weighted_score': weighted})
 
         return final_score.sort_values(by=['weighted_score'], ascending=False)
+
+
+def sk_train_data(queries, topic_train, nlp):
+    x = []
+    y = []
+
+    for k, v in queries.items():
+        file_path = os.path.join(PUBMED_FETCH, PUBMED_DUMP_DATE, str(k) + '.xml')
+        with open(file_path, 'r') as input:
+            soup = bs(input.read(), 'lxml')
+
+            articles = soup.find_all('pubmedarticle')
+            for article in articles:
+                pbmid = article.find('articleid', {"idtype": "pubmed"})
+                pbmid_str = pbmid.text.replace('\n', '').strip()
+                abstract = article.find('abstract')
+                if abstract is None:
+                    continue
+                else:
+                    abstract_text = abstract.text.replace('\n', '')
+
+                title = article.articletitle.text.replace('\n', '').strip()
+                txt = title + abstract_text
+
+                rel = (1 if k == str(topic_train) else 0)
+
+                embd = nlp(txt)
+
+                x.append(embd.vector)
+                y.append(rel)
+
+    return x, y
