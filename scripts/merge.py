@@ -4,7 +4,7 @@ from config.config import (META, MODEL_DUMP, MODEL_TYPE,
                            RERANKED_RUN, DATA, RUN_DIR,
                            BASELINE, RERANK_WEIGHT, TOPIC,
                            RUN_TAG, EMBEDDING, EMBED_DIR, BIOWORDVEC)
-from core.util import query_dict, map_sha_path, test_data, train_data, merge_rankings
+from core.util import query_dict, map_sha_path, merge_rankings
 
 
 if __name__ == '__main__':

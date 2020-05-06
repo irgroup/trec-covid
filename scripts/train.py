@@ -1,7 +1,7 @@
 import os
 import matchzoo as mz
 from core.util import query_dict
-from core.clf import train
+from core.clf_mz import train
 from config.config import TOPIC, EMBEDDING, EMBED_DIR, BIOWORDVEC
 
 

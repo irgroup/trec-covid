@@ -5,8 +5,8 @@ from config.config import (META, MODEL_DUMP, MODEL_TYPE,
                            RERANKED_RUN, DATA, RUN_DIR,
                            BASELINE, RERANK_WEIGHT, TOPIC,
                            RUN_TAG, EMBEDDING, EMBED_DIR, BIOWORDVEC)
-from core.clf import get_model_and_data
-from core.util import query_dict, map_sha_path, test_data, train_data
+from core.clf_mz import get_model_and_data, test_data, train_data
+from core.util import query_dict, map_sha_path
 
 
 if __name__ == '__main__':
