@@ -74,32 +74,40 @@ if __name__ == '__main__':
             meta = pd.read_csv(META)
             meta = meta[meta['sha'].notna()]
 
-            vectorizer, x, y = sk_train_data(qrels, meta, msp, topic_number)
+            if int(topic_number) in qrels['topic'].values:
+                vectorizer, x, y = sk_train_data(qrels, meta, msp, topic_number)
 
-            clf = logreg()
-            clf.fit(x, y)
+                clf = logreg()
+                clf.fit(x, y)
 
-            id_score = {}
-            print('predict scores')
-            for index, row in topic_df.iterrows():
-                sha = meta[meta['cord_uid'] == row['cord_uid']]['sha'].values[0]
-                path = msp[sha]
-                with open(path, 'r') as open_file:
-                    txt = text(open_file.read())
+                id_score = {}
+                print('predict scores')
+                for index, row in topic_df.iterrows():
+                    sha = meta[meta['cord_uid'] == row['cord_uid']]['sha'].values[0]
+                    path = msp[sha]
+                    with open(path, 'r') as open_file:
+                        txt = text(open_file.read())
 
-                    proba = clf.predict_proba(
-                                np.array(
-                                    vectorizer.transform([txt]).todense()).flatten().reshape(1, -1)
-                            )[0][1]
+                        proba = clf.predict_proba(
+                                    np.array(
+                                        vectorizer.transform([txt]).todense()).flatten().reshape(1, -1)
+                                )[0][1]
 
-                    id_score[row['cord_uid']] = proba
+                        id_score[row['cord_uid']] = proba
 
-            id_score_sort = {k: v for k, v in sorted(id_score.items(), key=lambda item: item[1], reverse=True)}
-            # write output
-            count = 1
-            with open(os.path.join(RUN_DIR, RERANKED_RUN), 'a') as run:
-                for cord_uid, score in id_score_sort.items():
-                    line = topic_number + ' Q0 ' + cord_uid + ' ' + str(count) + ' ' + str(
-                        score) + ' ' + RUN_TAG + '\n'
-                    run.write(line)
-                    count += 1
+                id_score_sort = {k: v for k, v in sorted(id_score.items(), key=lambda item: item[1], reverse=True)}
+                # write output
+                count = 1
+                with open(os.path.join(RUN_DIR, RERANKED_RUN), 'a') as run:
+                    for cord_uid, score in id_score_sort.items():
+                        line = topic_number + ' Q0 ' + cord_uid + ' ' + str(count) + ' ' + str(
+                            score) + ' ' + RUN_TAG + '\n'
+                        run.write(line)
+                        count += 1
+            else:
+                count = 1
+                with open(os.path.join(RUN_DIR, RERANKED_RUN), 'a') as run:
+                    for index, row in topic_df.iterrows():
+                        line = topic_number + ' Q0 ' + row['cord_uid'] + ' ' + str(count) + ' ' + str(row['score']) + ' ' + RUN_TAG + '\n'
+                        run.write(line)
+                        count += 1
