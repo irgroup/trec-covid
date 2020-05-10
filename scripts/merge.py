@@ -1,4 +1,5 @@
 import os
+import math
 import pandas as pd
 from tqdm import tqdm
 from config.config import (META, MODEL_DUMP, MODEL_TYPE,
@@ -53,7 +54,7 @@ if __name__ == '__main__':
             with tqdm(total=len(df_topic)) as pbar:
                 for index, row in df_topic.iterrows():
                     attention_score = df_altmetric[df_altmetric['CORD_UID'] == row['cord_uid']]['ATTENTION_SCORE']
-                    if attention_score.isna().values[0]:
+                    if attention_score.empty:
                         pbar.update(1)
                         continue
                     up = df_topic[df_topic['cord_uid'] == row['cord_uid']]['score'] + math.log(
