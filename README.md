@@ -18,7 +18,7 @@ and the documents of the other 29 topics as non-relevant training data.
 Given a baseline run, the trained system reranks documents.
 
 The baseline run is retrieved with the default ranker of Elasticsearch/Lucene ([BM25](https://www.elastic.co/guide/en/elasticsearch/reference/7.4/index-modules-similarity.html)) and queries using the contents of the `<query>` tags only.
-For our reranker we use [GloVe embeddings](https://nlp.stanford.edu/projects/glove/) in combination with the [Deep Relevance Matching Model (DRMM)](https://www.bigdatalab.ac.cn/~gjf/papers/2016/CIKM2016a_guo.pdf).
+For our reranker we use [GloVe embeddings](https://nlp.stanford.edu/projects/glove/) in combination with the [Deep Relevance Matching Model (DRMM)](http://www.bigdatalab.ac.cn/~gjf/papers/2016/CIKM2016a_guo.pdf).
 
 Our three run submissions differ by the way training data is retrieved from PubMed/PMC.
 1. `irc_entrez`:  
