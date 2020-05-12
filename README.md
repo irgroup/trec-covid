@@ -1,5 +1,11 @@
 # trec-covid
 
+## Submission details round #2
+1. `irc_bm25_altmetric`:  
+This run submission combines a BM25 baseline with altmetrics. The baseline run is retrieved with the default ranker of Elasticsearch/Lucene (BM25) and queries using the contents of the <query>, <question>, and <narrative> tags. We rerank the baseline by adding the logarithmized Altmetric Attention Score.
+2. `irc_bm25_logreg_tfidf`:  
+This run submission combines a BM25 baseline with a logitistic regression based reranker trained on tfidf-features in combination with relevance judgments of the first round. The baseline run is retrieved with the default ranker of Elasticsearch/Lucene (BM25) and queries using the contents of the <query>, <question>, and <narrative> tags. Topics are reranked if relevance judgments are available (1-30), otherwise the baseline ranking remains unaltered (31-35).
+
 ## Submission details round #1
 
 #### Description:
